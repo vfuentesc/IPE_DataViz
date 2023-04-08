@@ -1,1558 +1,2009 @@
-Fecha,Índice,Valor,Base
-2002-04-01,Economía a 3 meses,60.087719298245609,50
-2002-05-01,Economía a 3 meses,61.094674556213015,50
-2002-06-01,Economía a 3 meses,49.393939393939398,50
-2002-06-01,Sector a 3 meses,56.153846153846153,50
-2002-07-01,Economía a 3 meses,56.231454005934722,50
-2002-07-01,Sector a 3 meses,58.431952662721898,50
-2002-08-01,Economía a 3 meses,57.164634146341463,50
-2002-08-01,Sector a 3 meses,62.462006079027354,50
-2002-09-01,Economía a 3 meses,57.624633431085037,50
-2002-09-01,Sector a 3 meses,63.265306122448983,50
-2002-10-01,Economía a 3 meses,60.267857142857139,50
-2002-10-01,Sector a 3 meses,62.053571428571431,50
-2002-11-01,Economía a 3 meses,65.915915915915917,50
-2002-11-01,Sector a 3 meses,65.671641791044777,50
-2002-12-01,Economía a 3 meses,71.194029850746261,50
-2002-12-01,Sector a 3 meses,68.842729970326417,50
-2003-01-01,Economía a 3 meses,70.943952802359874,50
-2003-01-01,Sector a 3 meses,71.005917159763314,50
-2003-02-01,Economía a 3 meses,66.913946587537083,50
-2003-02-01,Sector a 3 meses,66.617210682492583,50
-2003-03-01,Economía a 3 meses,60.029498525073741,50
-2003-03-01,Sector a 3 meses,66.081871345029242,50
-2003-04-01,Economía a 3 meses,65.532544378698219,50
-2003-04-01,Sector a 3 meses,64.956011730205276,50
-2003-05-01,Economía a 3 meses,52.95857988165681,50
-2003-05-01,Sector a 3 meses,59.495548961424326,50
-2003-06-01,Economía a 3 meses,54.863221884498479,50
-2003-06-01,Sector a 3 meses,56.25,50
-2003-07-01,Economía a 3 meses,56.060606060606055,50
-2003-07-01,Sector a 3 meses,59.818731117824775,50
-2003-08-01,Economía a 3 meses,57.750759878419458,50
-2003-08-01,Sector a 3 meses,60.895522388059696,50
-2003-09-01,Economía a 3 meses,57.485029940119759,50
-2003-09-01,Sector a 3 meses,64.970059880239518,50
-2003-10-01,Economía a 3 meses,60.207100591715978,50
-2003-10-01,Sector a 3 meses,61.390532544378694,50
-2003-11-01,Economía a 3 meses,58.682634730538922,50
-2003-11-01,Sector a 3 meses,59.580838323353291,50
-2003-12-01,Economía a 3 meses,59.023668639053248,50
-2003-12-01,Sector a 3 meses,61.32352941176471,50
-2004-01-01,Venta respecto al mes anterior,38.888888888888893,50
-2004-01-01,Inventarios respecto al mes anterior,51.449275362318843,50
-2004-01-01,Órdenes de compra respecto al mes anterior,44.463667820069205,50
-2004-01-01,Economía a 3 meses,54.517133956386296,50
-2004-01-01,Sector a 3 meses,62.305295950155759,50
-2004-02-01,Venta respecto al mes anterior,49.684542586750794,50
-2004-02-01,Inventarios respecto al mes anterior,53.663003663003664,50
-2004-02-01,Órdenes de compra respecto al mes anterior,48.109965635738824,50
-2004-02-01,Economía a 3 meses,57.232704402515722,50
-2004-02-01,Sector a 3 meses,61.041009463722396,50
-2004-03-01,Venta respecto al mes anterior,62.783171521035605,50
-2004-03-01,Inventarios respecto al mes anterior,53.39622641509434,50
-2004-03-01,Órdenes de compra respecto al mes anterior,53.146853146853147,50
-2004-03-01,Economía a 3 meses,56.514657980456029,50
-2004-03-01,Sector a 3 meses,63.192182410423449,50
-2004-04-01,Venta respecto al mes anterior,55.438066465256796,50
-2004-04-01,Inventarios respecto al mes anterior,47.902097902097907,50
-2004-04-01,Órdenes de compra respecto al mes anterior,54.032258064516128,50
-2004-04-01,Economía a 3 meses,57.863501483679528,50
-2004-04-01,Sector a 3 meses,61.834319526627226,50
-2004-05-01,Venta respecto al mes anterior,57.761194029850749,50
-2004-05-01,Inventarios respecto al mes anterior,51.211072664359861,50
-2004-05-01,Órdenes de compra respecto al mes anterior,54.326923076923073,50
-2004-05-01,Economía a 3 meses,56.231454005934722,50
-2004-05-01,Sector a 3 meses,60.597014925373138,50
-2004-06-01,Venta respecto al mes anterior,52.348993288590606,50
-2004-06-01,Inventarios respecto al mes anterior,51.737451737451735,50
-2004-06-01,Órdenes de compra respecto al mes anterior,50.892857142857139,50
-2004-06-01,Economía a 3 meses,56.208053691275175,50
-2004-06-01,Sector a 3 meses,59.899328859060397,50
-2004-07-01,Venta respecto al mes anterior,64.315352697095435,50
-2004-07-01,Inventarios respecto al mes anterior,48.792270531400959,50
-2004-07-01,Órdenes de compra respecto al mes anterior,53.964757709251096,50
-2004-07-01,Economía a 3 meses,57.346938775510203,50
-2004-07-01,Sector a 3 meses,59.959349593495936,50
-2004-08-01,Venta respecto al mes anterior,57.098765432098766,50
-2004-08-01,Inventarios respecto al mes anterior,51.595744680851062,50
-2004-08-01,Órdenes de compra respecto al mes anterior,49.664429530201346,50
-2004-08-01,Economía a 3 meses,62.310030395136785,50
-2004-08-01,Sector a 3 meses,62.424242424242429,50
-2004-09-01,Venta respecto al mes anterior,59.044368600682596,50
-2004-09-01,Inventarios respecto al mes anterior,50.793650793650798,50
-2004-09-01,Órdenes de compra respecto al mes anterior,54.444444444444443,50
-2004-09-01,Economía a 3 meses,61.724137931034484,50
-2004-09-01,Sector a 3 meses,65.136054421768705,50
-2004-10-01,Venta respecto al mes anterior,57.430340557275542,50
-2004-10-01,Inventarios respecto al mes anterior,50.354609929078016,50
-2004-10-01,Órdenes de compra respecto al mes anterior,52.842809364548494,50
-2004-10-01,Economía a 3 meses,63.125,50
-2004-10-01,Sector a 3 meses,64.197530864197532,50
-2004-11-01,Venta respecto al mes anterior,58.571428571428577,50
-2004-11-01,Inventarios respecto al mes anterior,49.462365591397848,50
-2004-11-01,Órdenes de compra respecto al mes anterior,56.25,50
-2004-11-01,Economía a 3 meses,63.291139240506332,50
-2004-11-01,Sector a 3 meses,66.352201257861637,50
-2004-12-01,Venta respecto al mes anterior,60.876132930513592,50
-2004-12-01,Inventarios respecto al mes anterior,48.784722222222221,50
-2004-12-01,Órdenes de compra respecto al mes anterior,55.166666666666664,50
-2004-12-01,Economía a 3 meses,62.91793313069909,50
-2004-12-01,Sector a 3 meses,65.303030303030312,50
-2005-01-01,Venta respecto al mes anterior,44.029850746268657,50
-2005-01-01,Inventarios respecto al mes anterior,54.067796610169495,50
-2005-01-01,Órdenes de compra respecto al mes anterior,43.70860927152318,50
-2005-01-01,Economía a 3 meses,62.985074626865668,50
-2005-01-01,Sector a 3 meses,64.39169139465875,50
-2005-02-01,Venta respecto al mes anterior,53.442622950819676,50
-2005-02-01,Inventarios respecto al mes anterior,51.550387596899228,50
-2005-02-01,Órdenes de compra respecto al mes anterior,48.936170212765958,50
-2005-02-01,Economía a 3 meses,62.580645161290327,50
-2005-02-01,Sector a 3 meses,64.495115770322073,50
-2005-03-01,Venta respecto al mes anterior,66.25,50
-2005-03-01,Inventarios respecto al mes anterior,53.455284552845526,50
-2005-03-01,Órdenes de compra respecto al mes anterior,55.426356589147282,50
-2005-03-01,Economía a 3 meses,62.678571428571431,50
-2005-03-01,Sector a 3 meses,64.59854014598541,50
-2005-04-01,Venta respecto al mes anterior,58.383233532934128,50
-2005-04-01,Inventarios respecto al mes anterior,47.735191637630656,50
-2005-04-01,Órdenes de compra respecto al mes anterior,56.891025641025635,50
-2005-04-01,Economía a 3 meses,63.746223564954683,50
-2005-04-01,Sector a 3 meses,65.538461538461547,50
-2005-05-01,Venta respecto al mes anterior,62.869822485207095,50
-2005-05-01,Inventarios respecto al mes anterior,48.692810457516345,50
-2005-05-01,Órdenes de compra respecto al mes anterior,57.120743034055735,50
-2005-05-01,Economía a 3 meses,64.201183431952671,50
-2005-05-01,Sector a 3 meses,63.28358208955224,50
-2005-06-01,Venta respecto al mes anterior,59.677419354838712,50
-2005-06-01,Inventarios respecto al mes anterior,48.360655737704917,50
-2005-06-01,Órdenes de compra respecto al mes anterior,57.507987220447291,50
-2005-06-01,Economía a 3 meses,63.609467455621306,50
-2005-06-01,Sector a 3 meses,63.28358208955224,50
-2005-07-01,Venta respecto al mes anterior,63.716814159292035,50
-2005-07-01,Inventarios respecto al mes anterior,48.844884488448848,50
-2005-07-01,Órdenes de compra respecto al mes anterior,57.928802588996767,50
-2005-07-01,Economía a 3 meses,65.074626865671647,50
-2005-07-01,Sector a 3 meses,64.564564564564563,50
-2005-08-01,Venta respecto al mes anterior,62.794117647058826,50
-2005-08-01,Inventarios respecto al mes anterior,50.167224080267559,50
-2005-08-01,Órdenes de compra respecto al mes anterior,54.952076677316299,50
-2005-08-01,Economía a 3 meses,63.731343283582085,50
-2005-08-01,Sector a 3 meses,65.522388059701498,50
-2005-09-01,Venta respecto al mes anterior,61.68639053254438,50
-2005-09-01,Inventarios respecto al mes anterior,50.338983050847453,50
-2005-09-01,Órdenes de compra respecto al mes anterior,57.028753993610223,50
-2005-09-01,Economía a 3 meses,67.438271604938265,50
-2005-09-01,Sector a 3 meses,69.230769230769226,50
-2005-10-01,Venta respecto al mes anterior,62.352941176470587,50
-2005-10-01,Inventarios respecto al mes anterior,53,50
-2005-10-01,Órdenes de compra respecto al mes anterior,58.176100628930818,50
-2005-10-01,Economía a 3 meses,64.473684210526315,50
-2005-10-01,Sector a 3 meses,65.160349854227405,50
-2005-11-01,Venta respecto al mes anterior,62.536873156342175,50
-2005-11-01,Inventarios respecto al mes anterior,46.56357388316151,50
-2005-11-01,Órdenes de compra respecto al mes anterior,58.22784810126582,50
-2005-11-01,Economía a 3 meses,63.46153846153846,50
-2005-11-01,Sector a 3 meses,62.946428571428569,50
-2005-12-01,Venta respecto al mes anterior,65.339233038348084,50
-2005-12-01,Inventarios respecto al mes anterior,48.287671232876718,50
-2005-12-01,Órdenes de compra respecto al mes anterior,58.116883116883123,50
-2005-12-01,Economía a 3 meses,56.432748538011701,50
-2005-12-01,Sector a 3 meses,63.304093567251464,50
-2006-01-01,Venta respecto al mes anterior,50.879765395894424,50
-2006-01-01,Inventarios respecto al mes anterior,55.405405405405403,50
-2006-01-01,Órdenes de compra respecto al mes anterior,49.683544303797468,50
-2006-01-01,Economía a 3 meses,52.028985507246375,50
-2006-01-01,Sector a 3 meses,62.608695652173921,50
-2006-02-01,Venta respecto al mes anterior,54.328358208955216,50
-2006-02-01,Inventarios respecto al mes anterior,50.517241379310349,50
-2006-02-01,Órdenes de compra respecto al mes anterior,55.063291139240512,50
-2006-02-01,Economía a 3 meses,57.227138643067853,50
-2006-02-01,Sector a 3 meses,65.044247787610615,50
-2006-03-01,Venta respecto al mes anterior,63.768115942028977,50
-2006-03-01,Inventarios respecto al mes anterior,51.155115511551152,50
-2006-03-01,Órdenes de compra respecto al mes anterior,59.006211180124225,50
-2006-03-01,Economía a 3 meses,53.362573099415201,50
-2006-03-01,Sector a 3 meses,58.040935672514614,50
-2006-04-01,Venta respecto al mes anterior,52.849999999999994,50
-2006-04-01,Inventarios respecto al mes anterior,49.331103678929765,50
-2006-04-01,Órdenes de compra respecto al mes anterior,54.632587859424916,50
-2006-04-01,Economía a 3 meses,52.529761904761905,50
-2006-04-01,Sector a 3 meses,59.064327485380119,50
-2006-05-01,Venta respecto al mes anterior,67.008797653958936,50
-2006-05-01,Inventarios respecto al mes anterior,44.966442953020135,50
-2006-05-01,Órdenes de compra respecto al mes anterior,61.980830670926515,50
-2006-05-01,Economía a 3 meses,62.24188790560472,50
-2006-05-01,Sector a 3 meses,65.044247787610615,50
-2006-06-01,Venta respecto al mes anterior,63.702623906705533,50
-2006-06-01,Inventarios respecto al mes anterior,46.7687074829932,50
-2006-06-01,Órdenes de compra respecto al mes anterior,60.322580645161295,50
-2006-06-01,Economía a 3 meses,65.327380952380949,50
-2006-06-01,Sector a 3 meses,66.076696165191734,50
-2006-07-01,Venta respecto al mes anterior,60.534591194968556,50
-2006-07-01,Inventarios respecto al mes anterior,51.277372262773724,50
-2006-07-01,Órdenes de compra respecto al mes anterior,60.238907849829346,50
-2006-07-01,Economía a 3 meses,67.34375,50
-2006-07-01,Sector a 3 meses,68.025078369905955,50
-2006-08-01,Venta respecto al mes anterior,62.42690058479532,50
-2006-08-01,Inventarios respecto al mes anterior,47.758620689655174,50
-2006-08-01,Órdenes de compra respecto al mes anterior,58.990536277602523,50
-2006-08-01,Economía a 3 meses,70.058139534883722,50
-2006-08-01,Sector a 3 meses,70.20348837209302,50
-2006-09-01,Venta respecto al mes anterior,62.10029869517372,50
-2006-09-01,Inventarios respecto al mes anterior,46.666666666666664,50
-2006-09-01,Órdenes de compra respecto al mes anterior,56.654676258992808,50
-2006-09-01,Economía a 3 meses,68.896321070234109,50
-2006-09-01,Sector a 3 meses,68.060200668896314,50
-2006-10-01,Venta respecto al mes anterior,65.178571428571431,50
-2006-10-01,Inventarios respecto al mes anterior,46.521739130434781,50
-2006-10-01,Órdenes de compra respecto al mes anterior,57.567567567567565,50
-2006-10-01,Economía a 3 meses,70.229007633587798,50
-2006-10-01,Sector a 3 meses,67.938931297709914,50
-2006-11-01,Venta respecto al mes anterior,63.84615384615384,50
-2006-11-01,Inventarios respecto al mes anterior,47.633136094674555,50
-2006-11-01,Órdenes de compra respecto al mes anterior,58.659217877094974,50
-2006-11-01,Economía a 3 meses,72.668393782383419,50
-2006-11-01,Sector a 3 meses,70,50
-2006-12-01,Venta respecto al mes anterior,64.626865671641781,50
-2006-12-01,Inventarios respecto al mes anterior,48.316498316498311,50
-2006-12-01,Órdenes de compra respecto al mes anterior,59.493670886075954,50
-2006-12-01,Economía a 3 meses,72.18844984802432,50
-2006-12-01,Sector a 3 meses,70.364741641337389,50
-2007-01-01,Venta respecto al mes anterior,51.229508196721305,50
-2007-01-01,Inventarios respecto al mes anterior,54.53125,50
-2007-01-01,Órdenes de compra respecto al mes anterior,50.872093023255815,50
-2007-01-01,Economía a 3 meses,72.115384615384613,50
-2007-01-01,Sector a 3 meses,71.448087431693992,50
-2007-02-01,Venta respecto al mes anterior,53.415300546448087,50
-2007-02-01,Inventarios respecto al mes anterior,51.577287066246058,50
-2007-02-01,Órdenes de compra respecto al mes anterior,54.477611940298509,50
-2007-02-01,Economía a 3 meses,72.506738544474402,50
-2007-02-01,Sector a 3 meses,73.180592991913755,50
-2007-03-01,Venta respecto al mes anterior,65.589887640449433,50
-2007-03-01,Inventarios respecto al mes anterior,50.847457627118644,50
-2007-03-01,Órdenes de compra respecto al mes anterior,61.764705882352942,50
-2007-03-01,Economía a 3 meses,72.905027932960891,50
-2007-03-01,Sector a 3 meses,72.206703910614522,50
-2007-04-01,Venta respecto al mes anterior,63.370473537604454,50
-2007-04-01,Inventarios respecto al mes anterior,49.509803921568633,50
-2007-04-01,Órdenes de compra respecto al mes anterior,59.880239520958092,50
-2007-04-01,Economía a 3 meses,74.305555555555557,50
-2007-04-01,Sector a 3 meses,73.888888888888886,50
-2007-05-01,Venta respecto al mes anterior,64.267015706806291,50
-2007-05-01,Inventarios respecto al mes anterior,49.693251533742334,50
-2007-05-01,Órdenes de compra respecto al mes anterior,59.971910112359552,50
-2007-05-01,Economía a 3 meses,71.542553191489361,50
-2007-05-01,Sector a 3 meses,72.739361702127653,50
-2007-06-01,Venta respecto al mes anterior,61.54855643044619,50
-2007-06-01,Inventarios respecto al mes anterior,45.440729483282674,50
-2007-06-01,Órdenes de compra respecto al mes anterior,59.348441926345608,50
-2007-06-01,Economía a 3 meses,71.925133689839569,50
-2007-06-01,Sector a 3 meses,70.533333333333331,50
-2007-07-01,Venta respecto al mes anterior,61.89801699716714,50
-2007-07-01,Inventarios respecto al mes anterior,48.534201954397396,50
-2007-07-01,Órdenes de compra respecto al mes anterior,58.75,50
-2007-07-01,Economía a 3 meses,70.170454545454547,50
-2007-07-01,Sector a 3 meses,73.209169054441261,50
-2007-08-01,Venta respecto al mes anterior,58.684210526315795,50
-2007-08-01,Inventarios respecto al mes anterior,49.693251533742334,50
-2007-08-01,Órdenes de compra respecto al mes anterior,57.282913165266102,50
-2007-08-01,Economía a 3 meses,68.951612903225794,50
-2007-08-01,Sector a 3 meses,71.925133689839569,50
-2007-09-01,Venta respecto al mes anterior,59.164420485175206,50
-2007-09-01,Inventarios respecto al mes anterior,50.914634146341463,50
-2007-09-01,Órdenes de compra respecto al mes anterior,58.918128654970758,50
-2007-09-01,Economía a 3 meses,69.972826086956516,50
-2007-09-01,Sector a 3 meses,71.994535519125677,50
-2007-10-01,Venta respecto al mes anterior,65.722379603399446,50
-2007-10-01,Inventarios respecto al mes anterior,46.953405017921149,50
-2007-10-01,Órdenes de compra respecto al mes anterior,58.774834437086085,50
-2007-10-01,Economía a 3 meses,71.264367816091962,50
-2007-10-01,Sector a 3 meses,68.624641833810898,50
-2007-10-01,Demanda a 3 meses,74.571428571428584,50
-2007-11-01,Venta respecto al mes anterior,59.603658536585371,50
-2007-11-01,Inventarios respecto al mes anterior,46.255506607929519,50
-2007-11-01,Órdenes de compra respecto al mes anterior,60.326086956521742,50
-2007-11-01,Economía a 3 meses,71.646341463414629,50
-2007-11-01,Sector a 3 meses,72.18844984802432,50
-2007-11-01,Demanda a 3 meses,72.92307692307692,50
-2007-12-01,Venta respecto al mes anterior,62.5,50
-2007-12-01,Inventarios respecto al mes anterior,49.401197604790411,50
-2007-12-01,Órdenes de compra respecto al mes anterior,59,50
-2007-12-01,Economía a 3 meses,75.342465753424662,50
-2007-12-01,Sector a 3 meses,73.458904109589042,50
-2007-12-01,Demanda a 3 meses,74.486301369863,50
-2008-01-01,Venta respecto al mes anterior,53.733766233766232,50
-2008-01-01,Inventarios respecto al mes anterior,53.711790393013104,50
-2008-01-01,Órdenes de compra respecto al mes anterior,48.837209302325576,50
-2008-01-01,Situación actual del negocio,71.269841269841265,50
-2008-01-01,Economía a 3 meses,70,50
-2008-01-01,Sector a 3 meses,73.492063492063494,50
-2008-01-01,Demanda a 3 meses,73.462783171521039,50
-2008-02-01,Venta respecto al mes anterior,57.886904761904766,50
-2008-02-01,Inventarios respecto al mes anterior,52.892561983471076,50
-2008-02-01,Órdenes de compra respecto al mes anterior,54.561403508771932,50
-2008-02-01,Situación actual del negocio,74.778761061946895,50
-2008-02-01,Economía a 3 meses,71,50
-2008-02-01,Sector a 3 meses,73.493975903614455,50
-2008-02-01,Demanda a 3 meses,76.747720364741639,50
-2008-03-01,Venta respecto al mes anterior,62.162162162162161,50
-2008-03-01,Inventarios respecto al mes anterior,49.358974358974365,50
-2008-03-01,Órdenes de compra respecto al mes anterior,59.893992932862197,50
-2008-03-01,Situación actual del negocio,76.586102719033235,50
-2008-03-01,Economía a 3 meses,67,50
-2008-03-01,Sector a 3 meses,68.807339449541288,50
-2008-03-01,Demanda a 3 meses,71.319018404907979,50
-2008-04-01,Venta respecto al mes anterior,58.74233128834355,50
-2008-04-01,Inventarios respecto al mes anterior,48.260869565217391,50
-2008-04-01,Órdenes de compra respecto al mes anterior,59.856630824372758,50
-2008-04-01,Situación actual del negocio,73.611111111111114,50
-2008-04-01,Economía a 3 meses,69,50
-2008-04-01,Sector a 3 meses,69.435736677115983,50
-2008-04-01,Demanda a 3 meses,75.399361022364218,50
-2008-05-01,Venta respecto al mes anterior,62.162162162162161,50
-2008-05-01,Inventarios respecto al mes anterior,50.427350427350426,50
-2008-05-01,Órdenes de compra respecto al mes anterior,58.362369337979089,50
-2008-05-01,Situación actual del negocio,74.101796407185631,50
-2008-05-01,Economía a 3 meses,74,50
-2008-05-01,Sector a 3 meses,70.642201834862391,50
-2008-05-01,Demanda a 3 meses,72.307692307692321,50
-2008-06-01,Venta respecto al mes anterior,55.956112852664575,50
-2008-06-01,Inventarios respecto al mes anterior,48.017621145374449,50
-2008-06-01,Órdenes de compra respecto al mes anterior,55.291970802919707,50
-2008-06-01,Situación actual del negocio,70.158730158730151,50
-2008-06-01,Economía a 3 meses,71,50
-2008-06-01,Sector a 3 meses,70.68403908794788,50
-2008-06-01,Demanda a 3 meses,71.5,50
-2008-07-01,Venta respecto al mes anterior,63.201320132013208,50
-2008-07-01,Inventarios respecto al mes anterior,53.167420814479641,50
-2008-07-01,Órdenes de compra respecto al mes anterior,54.42307692307692,50
-2008-07-01,Situación actual del negocio,60.620915032679747,50
-2008-07-01,Economía a 3 meses,67,50
-2008-07-01,Sector a 3 meses,65.245901639344268,50
-2008-07-01,Demanda a 3 meses,66.5,50
-2008-08-01,Venta respecto al mes anterior,55.740181268882175,50
-2008-08-01,Inventarios respecto al mes anterior,47.747747747747752,50
-2008-08-01,Órdenes de compra respecto al mes anterior,54.912280701754391,50
-2008-08-01,Situación actual del negocio,59.880239520958092,50
-2008-08-01,Economía a 3 meses,61,50
-2008-08-01,Sector a 3 meses,62.985074626865668,50
-2008-08-01,Demanda a 3 meses,65,50
-2008-09-01,Venta respecto al mes anterior,53.988603988603991,50
-2008-09-01,Inventarios respecto al mes anterior,48.962655601659755,50
-2008-09-01,Órdenes de compra respecto al mes anterior,53.488372093023258,50
-2008-09-01,Situación actual del negocio,58.192090395480221,50
-2008-09-01,Economía a 3 meses,56,50
-2008-09-01,Sector a 3 meses,60.05665722379603,50
-2008-09-01,Demanda a 3 meses,63.5,50
-2008-10-01,Venta respecto al mes anterior,49.397590361445786,50
-2008-10-01,Inventarios respecto al mes anterior,48.666666666666671,50
-2008-10-01,Órdenes de compra respecto al mes anterior,50,50
-2008-10-01,Situación actual del negocio,53.443113772455085,50
-2008-10-01,Economía a 3 meses,44,50
-2008-10-01,Sector a 3 meses,47.297297297297298,50
-2008-10-01,Demanda a 3 meses,53.776435045317214,50
-2008-11-01,Venta respecto al mes anterior,51.834862385321102,50
-2008-11-01,Inventarios respecto al mes anterior,48.684210526315788,50
-2008-11-01,Órdenes de compra respecto al mes anterior,50.367647058823529,50
-2008-11-01,Situación actual del negocio,54.573170731707322,50
-2008-11-01,Economía a 3 meses,47,50
-2008-11-01,Sector a 3 meses,46.46153846153846,50
-2008-11-01,Demanda a 3 meses,51.230769230769234,50
-2008-12-01,Venta respecto al mes anterior,44.781144781144782,50
-2008-12-01,Inventarios respecto al mes anterior,50.925925925925924,50
-2008-12-01,Órdenes de compra respecto al mes anterior,42.658730158730165,50
-2008-12-01,Situación actual del negocio,51.34228187919463,50
-2008-12-01,Economía a 3 meses,32,50
-2008-12-01,Sector a 3 meses,36.241610738255034,50
-2008-12-01,Demanda a 3 meses,40.909090909090914,50
-2009-01-01,Venta respecto al mes anterior,37.953795379537951,50
-2009-01-01,Inventarios respecto al mes anterior,57.943925233644862,50
-2009-01-01,Órdenes de compra respecto al mes anterior,36.53846153846154,50
-2009-01-01,Situación actual del negocio,51.47540983606558,50
-2009-01-01,Economía a 3 meses,35,50
-2009-01-01,Sector a 3 meses,39.180327868852459,50
-2009-01-01,Demanda a 3 meses,43.770491803278688,50
-2009-02-01,Venta respecto al mes anterior,43.055555555555557,50
-2009-02-01,Inventarios respecto al mes anterior,52.121212121212118,50
-2009-02-01,Órdenes de compra respecto al mes anterior,39.269406392694059,50
-2009-02-01,Situación actual del negocio,49.519230769230774,50
-2009-02-01,Economía a 3 meses,38,50
-2009-02-01,Sector a 3 meses,43.064516129032256,50
-2009-02-01,Demanda a 3 meses,48.05825242718447,50
-2009-03-01,Venta respecto al mes anterior,53.2,50
-2009-03-01,Inventarios respecto al mes anterior,56.666666666666664,50
-2009-03-01,Órdenes de compra respecto al mes anterior,44.06392694063927,50
-2009-03-01,Situación actual del negocio,46.391752577319586,50
-2009-03-01,Economía a 3 meses,33,50
-2009-03-01,Sector a 3 meses,39.792387543252595,50
-2009-03-01,Demanda a 3 meses,42.657342657342653,50
-2009-04-01,Venta respecto al mes anterior,40.798611111111107,50
-2009-04-01,Inventarios respecto al mes anterior,52.985074626865668,50
-2009-04-01,Órdenes de compra respecto al mes anterior,39.558232931726906,50
-2009-04-01,Situación actual del negocio,46.712802768166092,50
-2009-04-01,Economía a 3 meses,39,50
-2009-04-01,Sector a 3 meses,41.868512110726641,50
-2009-04-01,Demanda a 3 meses,45.99303135888502,50
-2009-05-01,Venta respecto al mes anterior,52.317880794701985,50
-2009-05-01,Inventarios respecto al mes anterior,51.86915887850467,50
-2009-05-01,Órdenes de compra respecto al mes anterior,46.498054474708169,50
-2009-05-01,Situación actual del negocio,49.506578947368425,50
-2009-05-01,Economía a 3 meses,53,50
-2009-05-01,Sector a 3 meses,52.970297029702976,50
-2009-05-01,Demanda a 3 meses,56.833333333333336,50
-2009-06-01,Venta respecto al mes anterior,47.5177304964539,50
-2009-06-01,Inventarios respecto al mes anterior,54.381443298969067,50
-2009-06-01,Órdenes de compra respecto al mes anterior,42.386831275720169,50
-2009-06-01,Situación actual del negocio,48.606271777003485,50
-2009-06-01,Economía a 3 meses,51,50
-2009-06-01,Sector a 3 meses,52.097902097902107,50
-2009-06-01,Demanda a 3 meses,51.923076923076927,50
-2009-07-01,Venta respecto al mes anterior,52.5,50
-2009-07-01,Inventarios respecto al mes anterior,53.743315508021389,50
-2009-07-01,Órdenes de compra respecto al mes anterior,48.636363636363633,50
-2009-07-01,Situación actual del negocio,50.570342205323193,50
-2009-07-01,Economía a 3 meses,53,50
-2009-07-01,Sector a 3 meses,51.724137931034484,50
-2009-07-01,Demanda a 3 meses,55.343511450381676,50
-2009-08-01,Venta respecto al mes anterior,55.993690851735025,50
-2009-08-01,Inventarios respecto al mes anterior,56.118143459915608,50
-2009-08-01,Órdenes de compra respecto al mes anterior,50.354609929078009,50
-2009-08-01,Situación actual del negocio,53.174603174603178,50
-2009-08-01,Economía a 3 meses,63,50
-2009-08-01,Sector a 3 meses,60.658307210031346,50
-2009-08-01,Demanda a 3 meses,61.635220125786162,50
-2009-09-01,Venta respecto al mes anterior,53.237410071942449,50
-2009-09-01,Inventarios respecto al mes anterior,48.743718592964825,50
-2009-09-01,Órdenes de compra respecto al mes anterior,50.607287449392715,50
-2009-09-01,Situación actual del negocio,50.886524822695037,50
-2009-09-01,Economía a 3 meses,61,50
-2009-09-01,Sector a 3 meses,59.893992932862197,50
-2009-09-01,Demanda a 3 meses,59.751773049645386,50
-2009-10-01,Venta respecto al mes anterior,56.048387096774199,50
-2009-10-01,Inventarios respecto al mes anterior,50,50
-2009-10-01,Órdenes de compra respecto al mes anterior,56.192660550458719,50
-2009-10-01,Situación actual del negocio,51.6,50
-2009-10-01,Economía a 3 meses,66,50
-2009-10-01,Sector a 3 meses,62.6,50
-2009-10-01,Demanda a 3 meses,62.851405622489963,50
-2009-11-01,Venta respecto al mes anterior,59.756097560975604,50
-2009-11-01,Inventarios respecto al mes anterior,50.418410041841007,50
-2009-11-01,Órdenes de compra respecto al mes anterior,57.473309608540923,50
-2009-11-01,Situación actual del negocio,53.003003003003002,50
-2009-11-01,Economía a 3 meses,67,50
-2009-11-01,Sector a 3 meses,64.285714285714292,50
-2009-11-01,Demanda a 3 meses,62.91793313069909,50
-2009-12-01,Venta respecto al mes anterior,58.91608391608392,50
-2009-12-01,Inventarios respecto al mes anterior,50.930232558139529,50
-2009-12-01,Órdenes de compra respecto al mes anterior,52.788844621513945,50
-2009-12-01,Situación actual del negocio,54.482758620689651,50
-2009-12-01,Economía a 3 meses,69,50
-2009-12-01,Sector a 3 meses,65.06849315068493,50
-2009-12-01,Demanda a 3 meses,66.095890410958901,50
-2010-01-01,Venta respecto al mes anterior,59.105960264900659,50
-2010-01-01,Inventarios respecto al mes anterior,48.62385321100917,50
-2010-01-01,Órdenes de compra respecto al mes anterior,55.96153846153846,50
-2010-01-01,Situación actual del negocio,56.270627062706268,50
-2010-01-01,Economía a 3 meses,72,50
-2010-01-01,Sector a 3 meses,66.5016501650165,50
-2010-01-01,Demanda a 3 meses,68.93687707641196,50
-2010-02-01,Venta respecto al mes anterior,58.385093167701861,50
-2010-02-01,Inventarios respecto al mes anterior,49.783549783549788,50
-2010-02-01,Órdenes de compra respecto al mes anterior,56.451612903225801,50
-2010-02-01,Situación actual del negocio,57.298136645962728,50
-2010-02-01,Economía a 3 meses,72,50
-2010-02-01,Sector a 3 meses,68.575851393188856,50
-2010-02-01,Demanda a 3 meses,67.65625,50
-2010-03-01,Venta respecto al mes anterior,63.49480968858132,50
-2010-03-01,Inventarios respecto al mes anterior,51.219512195121951,50
-2010-03-01,Órdenes de compra respecto al mes anterior,58.906882591093115,50
-2010-03-01,Situación actual del negocio,58.445945945945944,50
-2010-03-01,Economía a 3 meses,71,50
-2010-03-01,Sector a 3 meses,67.288135593220346,50
-2010-03-01,Demanda a 3 meses,67.627118644067792,50
-2010-04-01,Venta respecto al mes anterior,65.015974440894581,50
-2010-04-01,Inventarios respecto al mes anterior,45.964125560538115,50
-2010-04-01,Órdenes de compra respecto al mes anterior,63.19702602230484,50
-2010-04-01,Situación actual del negocio,57.75316455696202,50
-2010-04-01,Economía a 3 meses,74,50
-2010-04-01,Sector a 3 meses,67.628205128205138,50
-2010-04-01,Demanda a 3 meses,69.614147909967855,50
-2010-05-01,Venta respecto al mes anterior,62.62626262626263,50
-2010-05-01,Inventarios respecto al mes anterior,44.626168224299064,50
-2010-05-01,Órdenes de compra respecto al mes anterior,60.852713178294572,50
-2010-05-01,Situación actual del negocio,58.026755852842804,50
-2010-05-01,Economía a 3 meses,71,50
-2010-05-01,Sector a 3 meses,66.77852348993288,50
-2010-05-01,Demanda a 3 meses,70.735785953177256,50
-2010-06-01,Venta respecto al mes anterior,62.867647058823529,50
-2010-06-01,Inventarios respecto al mes anterior,44.329896907216494,50
-2010-06-01,Órdenes de compra respecto al mes anterior,60.381355932203398,50
-2010-06-01,Situación actual del negocio,57.352941176470587,50
-2010-06-01,Economía a 3 meses,75,50
-2010-06-01,Sector a 3 meses,68.795620437956202,50
-2010-06-01,Demanda a 3 meses,69.27272727272728,50
-2010-07-01,Venta respecto al mes anterior,64.948453608247419,50
-2010-07-01,Inventarios respecto al mes anterior,42.78846153846154,50
-2010-07-01,Órdenes de compra respecto al mes anterior,61.570247933884289,50
-2010-07-01,Situación actual del negocio,58.732876712328761,50
-2010-07-01,Economía a 3 meses,71,50
-2010-07-01,Sector a 3 meses,67.010309278350505,50
-2010-07-01,Demanda a 3 meses,68.25938566552901,50
-2010-08-01,Venta respecto al mes anterior,62.414965986394556,50
-2010-08-01,Inventarios respecto al mes anterior,43.1924882629108,50
-2010-08-01,Órdenes de compra respecto al mes anterior,58.928571428571431,50
-2010-08-01,Situación actual del negocio,61.186440677966104,50
-2010-08-01,Economía a 3 meses,71,50
-2010-08-01,Sector a 3 meses,67.457627118644069,50
-2010-08-01,Demanda a 3 meses,69.360269360269356,50
-2010-09-01,Venta respecto al mes anterior,62.412587412587413,50
-2010-09-01,Inventarios respecto al mes anterior,45.609756097560975,50
-2010-09-01,Órdenes de compra respecto al mes anterior,59.375,50
-2010-09-01,Situación actual del negocio,60.069444444444443,50
-2010-09-01,Economía a 3 meses,70,50
-2010-09-01,Sector a 3 meses,67.708333333333343,50
-2010-09-01,Demanda a 3 meses,69.298245614035082,50
-2010-10-01,Venta respecto al mes anterior,64.38356164383562,50
-2010-10-01,Inventarios respecto al mes anterior,44.811320754716974,50
-2010-10-01,Órdenes de compra respecto al mes anterior,62.345679012345677,50
-2010-10-01,Situación actual del negocio,61.447811447811453,50
-2010-10-01,Economía a 3 meses,71,50
-2010-10-01,Sector a 3 meses,67.18213058419245,50
-2010-10-01,Demanda a 3 meses,69.270833333333343,50
-2010-11-01,Venta respecto al mes anterior,64.361702127659569,50
-2010-11-01,Inventarios respecto al mes anterior,41.293532338308459,50
-2010-11-01,Órdenes de compra respecto al mes anterior,61.506276150627613,50
-2010-11-01,Situación actual del negocio,60.67615658362989,50
-2010-11-01,Economía a 3 meses,70,50
-2010-11-01,Sector a 3 meses,64.107142857142847,50
-2010-11-01,Demanda a 3 meses,67.689530685920587,50
-2010-12-01,Venta respecto al mes anterior,59.409594095940953,50
-2010-12-01,Inventarios respecto al mes anterior,46.649484536082475,50
-2010-12-01,Órdenes de compra respecto al mes anterior,57.510729613733901,50
-2010-12-01,Situación actual del negocio,58.639705882352942,50
-2010-12-01,Economía a 3 meses,68,50
-2010-12-01,Sector a 3 meses,64.468864468864467,50
-2010-12-01,Demanda a 3 meses,65.07352941176471,50
-2011-01-01,Venta respecto al mes anterior,55.343511450381676,50
-2011-01-01,Inventarios respecto al mes anterior,52.972972972972975,50
-2011-01-01,Órdenes de compra respecto al mes anterior,50.900900900900901,50
-2011-01-01,Situación actual del negocio,60.076045627376431,50
-2011-01-01,Economía a 3 meses,66,50
-2011-01-01,Sector a 3 meses,64.772727272727266,50
-2011-01-01,Demanda a 3 meses,65.267175572519093,50
-2011-02-01,Venta respecto al mes anterior,59.259259259259252,50
-2011-02-01,Inventarios respecto al mes anterior,48.73096446700508,50
-2011-02-01,Órdenes de compra respecto al mes anterior,56.000000000000007,50
-2011-02-01,Situación actual del negocio,59.191176470588239,50
-2011-02-01,Economía a 3 meses,65,50
-2011-02-01,Sector a 3 meses,64.652014652014657,50
-2011-02-01,Demanda a 3 meses,64.022140221402225,50
-2011-03-01,Venta respecto al mes anterior,63.345864661654126,50
-2011-03-01,Inventarios respecto al mes anterior,48.42931937172775,50
-2011-03-01,Órdenes de compra respecto al mes anterior,57.692307692307686,50
-2011-03-01,Situación actual del negocio,59.81481481481481,50
-2011-03-01,Economía a 3 meses,65,50
-2011-03-01,Sector a 3 meses,64.259259259259267,50
-2011-03-01,Demanda a 3 meses,67.037037037037038,50
-2011-04-01,Venta respecto al mes anterior,57.382550335570471,50
-2011-04-01,Inventarios respecto al mes anterior,43.1924882629108,50
-2011-04-01,Órdenes de compra respecto al mes anterior,57.661290322580648,50
-2011-04-01,Situación actual del negocio,58.717105263157897,50
-2011-04-01,Economía a 3 meses,46,50
-2011-04-01,Sector a 3 meses,51.639344262295083,50
-2011-04-01,Demanda a 3 meses,54.78547854785478,50
-2011-05-01,Venta respecto al mes anterior,54.125412541254128,50
-2011-05-01,Inventarios respecto al mes anterior,50.473933649289101,50
-2011-05-01,Órdenes de compra respecto al mes anterior,51.5625,50
-2011-05-01,Situación actual del negocio,56.765676567656762,50
-2011-05-01,Economía a 3 meses,49,50
-2011-05-01,Sector a 3 meses,52.138157894736835,50
-2011-05-01,Demanda a 3 meses,55.756578947368418,50
-2011-06-01,Venta respecto al mes anterior,52.688172043010752,50
-2011-06-01,Inventarios respecto al mes anterior,52.525252525252526,50
-2011-06-01,Órdenes de compra respecto al mes anterior,48.723404255319146,50
-2011-06-01,Situación actual del negocio,57.347670250896051,50
-2011-06-01,Economía a 3 meses,47,50
-2011-06-01,Sector a 3 meses,48.939929328621915,50
-2011-06-01,Demanda a 3 meses,51.950354609929072,50
-2011-07-01,Venta respecto al mes anterior,52.12765957446809,50
-2011-07-01,Inventarios respecto al mes anterior,50.970873786407765,50
-2011-07-01,Órdenes de compra respecto al mes anterior,49.581589958158993,50
-2011-07-01,Situación actual del negocio,53.684210526315788,50
-2011-07-01,Economía a 3 meses,51,50
-2011-07-01,Sector a 3 meses,53.521126760563376,50
-2011-07-01,Demanda a 3 meses,56.028368794326241,50
-2011-08-01,Venta respecto al mes anterior,52.12765957446809,50
-2011-08-01,Inventarios respecto al mes anterior,47.783251231527089,50
-2011-08-01,Órdenes de compra respecto al mes anterior,50.210970464135016,50
-2011-08-01,Situación actual del negocio,55.438596491228068,50
-2011-08-01,Economía a 3 meses,51,50
-2011-08-01,Sector a 3 meses,52.816901408450704,50
-2011-08-01,Demanda a 3 meses,55.123674911660778,50
-2011-09-01,Venta respecto al mes anterior,57.692307692307686,50
-2011-09-01,Inventarios respecto al mes anterior,48.837209302325576,50
-2011-09-01,Órdenes de compra respecto al mes anterior,53.893442622950815,50
-2011-09-01,Situación actual del negocio,56.206896551724142,50
-2011-09-01,Economía a 3 meses,53,50
-2011-09-01,Sector a 3 meses,55.381944444444443,50
-2011-09-01,Demanda a 3 meses,57.612456747404842,50
-2011-10-01,Venta respecto al mes anterior,58.522727272727273,50
-2011-10-01,Inventarios respecto al mes anterior,43.455497382198949,50
-2011-10-01,Órdenes de compra respecto al mes anterior,55.405405405405403,50
-2011-10-01,Situación actual del negocio,55.916030534351144,50
-2011-10-01,Economía a 3 meses,58,50
-2011-10-01,Sector a 3 meses,58.113207547169807,50
-2011-10-01,Demanda a 3 meses,60.943396226415089,50
-2011-11-01,Venta respecto al mes anterior,54.948805460750847,50
-2011-11-01,Inventarios respecto al mes anterior,47.630331753554501,50
-2011-11-01,Órdenes de compra respecto al mes anterior,54.6875,50
-2011-11-01,Situación actual del negocio,56.97674418604651,50
-2011-11-01,Economía a 3 meses,58,50
-2011-11-01,Sector a 3 meses,57.214765100671137,50
-2011-11-01,Demanda a 3 meses,59.531772575250841,50
-2011-12-01,Venta respecto al mes anterior,56.333333333333336,50
-2011-12-01,Inventarios respecto al mes anterior,47.429906542056074,50
-2011-12-01,Órdenes de compra respecto al mes anterior,51.953125,50
-2011-12-01,Situación actual del negocio,57.284768211920536,50
-2011-12-01,Economía a 3 meses,56,50
-2011-12-01,Sector a 3 meses,56.644518272425245,50
-2011-12-01,Demanda a 3 meses,56.856187290969892,50
-2012-01-01,Venta respecto al mes anterior,55.333333333333336,50
-2012-01-01,Inventarios respecto al mes anterior,49.090909090909093,50
-2012-01-01,Órdenes de compra respecto al mes anterior,53.769841269841265,50
-2012-01-01,Situación actual del negocio,59.105960264900659,50
-2012-01-01,Economía a 3 meses,57,50
-2012-01-01,Sector a 3 meses,58.026755852842804,50
-2012-01-01,Demanda a 3 meses,61.204013377926422,50
-2012-02-01,Venta respecto al mes anterior,56.209150326797385,50
-2012-02-01,Inventarios respecto al mes anterior,49.561403508771932,50
-2012-02-01,Órdenes de compra respecto al mes anterior,54.699248120300759,50
-2012-02-01,Situación actual del negocio,59.134615384615387,50
-2012-02-01,Economía a 3 meses,60,50
-2012-02-01,Sector a 3 meses,61.488673139158578,50
-2012-02-01,Demanda a 3 meses,63.754045307443363,50
-2012-03-01,Venta respecto al mes anterior,61.661341853035147,50
-2012-03-01,Inventarios respecto al mes anterior,47.890295358649794,50
-2012-03-01,Órdenes de compra respecto al mes anterior,57.352941176470587,50
-2012-03-01,Situación actual del negocio,60.410094637223978,50
-2012-03-01,Economía a 3 meses,64,50
-2012-03-01,Sector a 3 meses,62.539682539682538,50
-2012-03-01,Demanda a 3 meses,64.037854889589909,50
-2012-04-01,Venta respecto al mes anterior,57.167235494880543,50
-2012-04-01,Inventarios respecto al mes anterior,46.046511627906973,50
-2012-04-01,Órdenes de compra respecto al mes anterior,56.972111553784856,50
-2012-04-01,Situación actual del negocio,59.030100334448157,50
-2012-04-01,Economía a 3 meses,65,50
-2012-04-01,Sector a 3 meses,61.824324324324323,50
-2012-04-01,Demanda a 3 meses,64.478114478114477,50
-2012-05-01,Venta respecto al mes anterior,55.489614243323437,50
-2012-05-01,Inventarios respecto al mes anterior,44.605809128630703,50
-2012-05-01,Órdenes de compra respecto al mes anterior,55.405405405405403,50
-2012-05-01,Situación actual del negocio,57.331378299120232,50
-2012-05-01,Economía a 3 meses,60,50
-2012-05-01,Sector a 3 meses,57.794117647058819,50
-2012-05-01,Demanda a 3 meses,60.766961651917406,50
-2012-06-01,Venta respecto al mes anterior,59.916201117318437,50
-2012-06-01,Inventarios respecto al mes anterior,45.019157088122611,50
-2012-06-01,Órdenes de compra respecto al mes anterior,55.891719745222936,50
-2012-06-01,Situación actual del negocio,57.909604519774007,50
-2012-06-01,Economía a 3 meses,57,50
-2012-06-01,Sector a 3 meses,56.963788300835652,50
-2012-06-01,Demanda a 3 meses,62.150837988826815,50
-2012-07-01,Venta respecto al mes anterior,59.016393442622949,50
-2012-07-01,Inventarios respecto al mes anterior,44.377510040160637,50
-2012-07-01,Órdenes de compra respecto al mes anterior,56.329113924050631,50
-2012-07-01,Situación actual del negocio,56.811989100817442,50
-2012-07-01,Economía a 3 meses,56,50
-2012-07-01,Sector a 3 meses,56.043956043956044,50
-2012-07-01,Demanda a 3 meses,59.615384615384613,50
-2012-08-01,Venta respecto al mes anterior,59.841269841269842,50
-2012-08-01,Inventarios respecto al mes anterior,48.275862068965516,50
-2012-08-01,Órdenes de compra respecto al mes anterior,56.060606060606055,50
-2012-08-01,Situación actual del negocio,57.075471698113212,50
-2012-08-01,Economía a 3 meses,59,50
-2012-08-01,Sector a 3 meses,58.38607594936709,50
-2012-08-01,Demanda a 3 meses,63.765822784810119,50
-2012-09-01,Venta respecto al mes anterior,57.258064516129025,50
-2012-09-01,Inventarios respecto al mes anterior,51.179245283018872,50
-2012-09-01,Órdenes de compra respecto al mes anterior,55.555555555555557,50
-2012-09-01,Situación actual del negocio,56.709265175718848,50
-2012-09-01,Economía a 3 meses,61,50
-2012-09-01,Sector a 3 meses,60.483870967741936,50
-2012-09-01,Demanda a 3 meses,61.400651465798049,50
-2012-10-01,Venta respecto al mes anterior,59.206349206349209,50
-2012-10-01,Inventarios respecto al mes anterior,47.630331753554501,50
-2012-10-01,Órdenes de compra respecto al mes anterior,57.592592592592595,50
-2012-10-01,Situación actual del negocio,57.165109034267914,50
-2012-10-01,Economía a 3 meses,64,50
-2012-10-01,Sector a 3 meses,62.421383647798748,50
-2012-10-01,Demanda a 3 meses,64.622641509433961,50
-2012-11-01,Venta respecto al mes anterior,60.359116022099442,50
-2012-11-01,Inventarios respecto al mes anterior,45.378151260504197,50
-2012-11-01,Órdenes de compra respecto al mes anterior,58.524590163934434,50
-2012-11-01,Situación actual del negocio,58.40220385674931,50
-2012-11-01,Economía a 3 meses,64,50
-2012-11-01,Sector a 3 meses,61.707988980716252,50
-2012-11-01,Demanda a 3 meses,64.542936288088654,50
-2012-12-01,Venta respecto al mes anterior,57.11974110032363,50
-2012-12-01,Inventarios respecto al mes anterior,46.25,50
-2012-12-01,Órdenes de compra respecto al mes anterior,53.46153846153846,50
-2012-12-01,Situación actual del negocio,58.842443729903536,50
-2012-12-01,Economía a 3 meses,64,50
-2012-12-01,Sector a 3 meses,62.222222222222221,50
-2012-12-01,Demanda a 3 meses,63.258785942492011,50
-2013-01-01,Venta respecto al mes anterior,56.19047619047619,50
-2013-01-01,Inventarios respecto al mes anterior,49.494949494949495,50
-2013-01-01,Órdenes de compra respecto al mes anterior,54.428044280442812,50
-2013-01-01,Situación actual del negocio,57.097791798107252,50
-2013-01-01,Economía a 3 meses,67,50
-2013-01-01,Sector a 3 meses,63.20754716981132,50
-2013-01-01,Demanda a 3 meses,65.664556962025316,50
-2013-02-01,Venta respecto al mes anterior,57.975460122699388,50
-2013-02-01,Inventarios respecto al mes anterior,51.485148514851488,50
-2013-02-01,Órdenes de compra respecto al mes anterior,51.702127659574472,50
-2013-02-01,Situación actual del negocio,57.339449541284402,50
-2013-02-01,Economía a 3 meses,66,50
-2013-02-01,Sector a 3 meses,63.262195121951216,50
-2013-02-01,Demanda a 3 meses,66.158536585365852,50
-2013-03-01,Venta respecto al mes anterior,59.640522875816991,50
-2013-03-01,Inventarios respecto al mes anterior,45.360824742268036,50
-2013-03-01,Órdenes de compra respecto al mes anterior,54.201680672268907,50
-2013-03-01,Situación actual del negocio,58.548387096774192,50
-2013-03-01,Economía a 3 meses,65,50
-2013-03-01,Sector a 3 meses,61.974110032362461,50
-2013-03-01,Demanda a 3 meses,63.029315960912058,50
-2013-04-01,Venta respecto al mes anterior,59.931506849315078,50
-2013-04-01,Inventarios respecto al mes anterior,47.894736842105267,50
-2013-04-01,Órdenes de compra respecto al mes anterior,55.991735537190081,50
-2013-04-01,Situación actual del negocio,54.347826086956516,50
-2013-04-01,Economía a 3 meses,60,50
-2013-04-01,Sector a 3 meses,57.912457912457917,50
-2013-04-01,Demanda a 3 meses,61.616161616161612,50
-2013-05-01,Venta respecto al mes anterior,51.754385964912288,50
-2013-05-01,Inventarios respecto al mes anterior,50.534759358288767,50
-2013-05-01,Órdenes de compra respecto al mes anterior,50,50
-2013-05-01,Situación actual del negocio,52.439024390243901,50
-2013-05-01,Economía a 3 meses,54,50
-2013-05-01,Sector a 3 meses,55.650684931506852,50
-2013-05-01,Demanda a 3 meses,59.621993127147768,50
-2013-06-01,Venta respecto al mes anterior,49.664429530201346,50
-2013-06-01,Inventarios respecto al mes anterior,49.468085106382972,50
-2013-06-01,Órdenes de compra respecto al mes anterior,46.734693877551017,50
-2013-06-01,Situación actual del negocio,51.166666666666671,50
-2013-06-01,Economía a 3 meses,51,50
-2013-06-01,Sector a 3 meses,51.833333333333329,50
-2013-06-01,Demanda a 3 meses,56.734006734006734,50
-2013-07-01,Venta respecto al mes anterior,52.857142857142861,50
-2013-07-01,Inventarios respecto al mes anterior,45.833333333333336,50
-2013-07-01,Órdenes de compra respecto al mes anterior,50.772200772200769,50
-2013-07-01,Situación actual del negocio,52.04402515723271,50
-2013-07-01,Economía a 3 meses,50,50
-2013-07-01,Sector a 3 meses,51.265822784810119,50
-2013-07-01,Demanda a 3 meses,57.324840764331206,50
-2013-08-01,Venta respecto al mes anterior,54.126984126984127,50
-2013-08-01,Inventarios respecto al mes anterior,47.761194029850749,50
-2013-08-01,Órdenes de compra respecto al mes anterior,50.74074074074074,50
-2013-08-01,Situación actual del negocio,56.112852664576806,50
-2013-08-01,Economía a 3 meses,48,50
-2013-08-01,Sector a 3 meses,50.949367088607602,50
-2013-08-01,Demanda a 3 meses,58.466453674121396,50
-2013-09-01,Venta respecto al mes anterior,55.329153605015669,50
-2013-09-01,Inventarios respecto al mes anterior,45.073891625615772,50
-2013-09-01,Órdenes de compra respecto al mes anterior,52.255639097744357,50
-2013-09-01,Situación actual del negocio,57.739938080495357,50
-2013-09-01,Economía a 3 meses,53,50
-2013-09-01,Sector a 3 meses,54.905063291139236,50
-2013-09-01,Demanda a 3 meses,59.904153354632584,50
-2013-10-01,Venta respecto al mes anterior,54.420731707317074,50
-2013-10-01,Inventarios respecto al mes anterior,52.083333333333329,50
-2013-10-01,Órdenes de compra respecto al mes anterior,51.6728624535316,50
-2013-10-01,Situación actual del negocio,59.036144578313255,50
-2013-10-01,Economía a 3 meses,55,50
-2013-10-01,Sector a 3 meses,57.250755287009071,50
-2013-10-01,Demanda a 3 meses,62.804878048780488,50
-2013-11-01,Venta respecto al mes anterior,56.079027355623104,50
-2013-11-01,Inventarios respecto al mes anterior,45.360824742268044,50
-2013-11-01,Órdenes de compra respecto al mes anterior,56.015037593984964,50
-2013-11-01,Situación actual del negocio,60,50
-2013-11-01,Economía a 3 meses,54,50
-2013-11-01,Sector a 3 meses,57.750759878419458,50
-2013-11-01,Demanda a 3 meses,58.993902439024396,50
-2013-12-01,Venta respecto al mes anterior,56.64556962025317,50
-2013-12-01,Inventarios respecto al mes anterior,46.774193548387103,50
-2013-12-01,Órdenes de compra respecto al mes anterior,54.618473895582333,50
-2013-12-01,Situación actual del negocio,61.214953271028037,50
-2013-12-01,Economía a 3 meses,59,50
-2013-12-01,Sector a 3 meses,58.860759493670891,50
-2013-12-01,Demanda a 3 meses,61.146496815286625,50
-2014-01-01,Venta respecto al mes anterior,54.428571428571423,50
-2014-01-01,Inventarios respecto al mes anterior,49.767441860465112,50
-2014-01-01,Órdenes de compra respecto al mes anterior,50.175438596491226,50
-2014-01-01,Situación actual del negocio,62.173913043478258,50
-2014-01-01,Economía a 3 meses,59.275362318840585,50
-2014-01-01,Sector a 3 meses,60.951008645533143,50
-2014-01-01,Demanda a 3 meses,61.994219653179194,50
-2014-02-01,Venta respecto al mes anterior,54.985337243401759,50
-2014-02-01,Inventarios respecto al mes anterior,52.284263959390863,50
-2014-02-01,Órdenes de compra respecto al mes anterior,51.282051282051277,50
-2014-02-01,Situación actual del negocio,61.253561253561251,50
-2014-02-01,Economía a 3 meses,60.201149425287362,50
-2014-02-01,Sector a 3 meses,59.510086455331411,50
-2014-02-01,Demanda a 3 meses,62.893982808022919,50
-2014-03-01,Venta respecto al mes anterior,53.151862464183388,50
-2014-03-01,Inventarios respecto al mes anterior,49.75247524752475,50
-2014-03-01,Órdenes de compra respecto al mes anterior,49.26739926739927,50
-2014-03-01,Situación actual del negocio,61.440677966101696,50
-2014-03-01,Economía a 3 meses,53.846153846153847,50
-2014-03-01,Sector a 3 meses,55.698005698005694,50
-2014-03-01,Demanda a 3 meses,61.031518624641834,50
-2014-04-01,Venta respecto al mes anterior,56.17977528089888,50
-2014-04-01,Inventarios respecto al mes anterior,50.238095238095241,50
-2014-04-01,Órdenes de compra respecto al mes anterior,55.633802816901415,50
-2014-04-01,Situación actual del negocio,61.432506887052341,50
-2014-04-01,Economía a 3 meses,54.213483146067418,50
-2014-04-01,Sector a 3 meses,56.460674157303373,50
-2014-04-01,Demanda a 3 meses,61.408450704225345,50
-2014-05-01,Venta respecto al mes anterior,52.027027027027032,50
-2014-05-01,Inventarios respecto al mes anterior,48.798076923076927,50
-2014-05-01,Órdenes de compra respecto al mes anterior,51.551724137931032,50
-2014-05-01,Situación actual del negocio,60.053619302949059,50
-2014-05-01,Economía a 3 meses,52.861035422343328,50
-2014-05-01,Sector a 3 meses,53.950953678474114,50
-2014-05-01,Demanda a 3 meses,59.31506849315069,50
-2014-06-01,Venta respecto al mes anterior,49.715909090909093,50
-2014-06-01,Inventarios respecto al mes anterior,53.066037735849058,50
-2014-06-01,Órdenes de compra respecto al mes anterior,50.714285714285708,50
-2014-06-01,Situación actual del negocio,57.348703170028827,50
-2014-06-01,Economía a 3 meses,49.718309859154928,50
-2014-06-01,Sector a 3 meses,53.458213256484157,50
-2014-06-01,Demanda a 3 meses,57.549857549857549,50
-2014-07-01,Venta respecto al mes anterior,49.104477611940297,50
-2014-07-01,Inventarios respecto al mes anterior,50.259067357512954,50
-2014-07-01,Órdenes de compra respecto al mes anterior,45.86466165413534,50
-2014-07-01,Situación actual del negocio,58.479532163742689,50
-2014-07-01,Economía a 3 meses,50.593471810089021,50
-2014-07-01,Sector a 3 meses,51.627218934911248,50
-2014-07-01,Demanda a 3 meses,55.917159763313606,50
-2014-08-01,Venta respecto al mes anterior,46.428571428571431,50
-2014-08-01,Inventarios respecto al mes anterior,48.969072164948457,50
-2014-08-01,Órdenes de compra respecto al mes anterior,47.556390977443606,50
-2014-08-01,Situación actual del negocio,57.7683615819209,50
-2014-08-01,Economía a 3 meses,48.455056179775283,50
-2014-08-01,Sector a 3 meses,52.528089887640448,50
-2014-08-01,Demanda a 3 meses,57.790368271954677,50
-2014-09-01,Venta respecto al mes anterior,54.205607476635507,50
-2014-09-01,Inventarios respecto al mes anterior,46.703296703296701,50
-2014-09-01,Órdenes de compra respecto al mes anterior,50.968992248062015,50
-2014-09-01,Situación actual del negocio,58.333333333333329,50
-2014-09-01,Economía a 3 meses,53.987730061349694,50
-2014-09-01,Sector a 3 meses,56.327160493827158,50
-2014-09-01,Demanda a 3 meses,60.670731707317074,50
-2014-10-01,Venta respecto al mes anterior,54.204204204204196,50
-2014-10-01,Inventarios respecto al mes anterior,48.205128205128212,50
-2014-10-01,Órdenes de compra respecto al mes anterior,52.352941176470594,50
-2014-10-01,Situación actual del negocio,59.516616314199396,50
-2014-10-01,Economía a 3 meses,52.994011976047908,50
-2014-10-01,Sector a 3 meses,54.654654654654657,50
-2014-10-01,Demanda a 3 meses,59.850746268656721,50
-2014-11-01,Venta respecto al mes anterior,54.31309904153354,50
-2014-11-01,Inventarios respecto al mes anterior,52.222222222222229,50
-2014-11-01,Órdenes de compra respecto al mes anterior,51.422764227642269,50
-2014-11-01,Situación actual del negocio,57.993730407523515,50
-2014-11-01,Economía a 3 meses,55.254777070063696,50
-2014-11-01,Sector a 3 meses,54.74683544303798,50
-2014-11-01,Demanda a 3 meses,58.150470219435732,50
-2014-12-01,Venta respecto al mes anterior,50,50
-2014-12-01,Inventarios respecto al mes anterior,53.589743589743591,50
-2014-12-01,Órdenes de compra respecto al mes anterior,49.616858237547888,50
-2014-12-01,Situación actual del negocio,60.087719298245609,50
-2014-12-01,Economía a 3 meses,53.097345132743371,50
-2014-12-01,Sector a 3 meses,54.761904761904766,50
-2014-12-01,Demanda a 3 meses,55.373134328358212,50
-2015-01-01,Venta respecto al mes anterior,50.949367088607602,50
-2015-01-01,Inventarios respecto al mes anterior,46.551724137931039,50
-2015-01-01,Órdenes de compra respecto al mes anterior,49.581589958159,50
-2015-01-01,Situación actual del negocio,59.744408945686899,50
-2015-01-01,Economía a 3 meses,54.231974921630098,50
-2015-01-01,Sector a 3 meses,55.799373040752357,50
-2015-01-01,Demanda a 3 meses,59.591194968553459,50
-2015-02-01,Venta respecto al mes anterior,46.666666666666664,50
-2015-02-01,Inventarios respecto al mes anterior,49.137931034482762,50
-2015-02-01,Órdenes de compra respecto al mes anterior,47.33606557377049,50
-2015-02-01,Situación actual del negocio,58.878504672897193,50
-2015-02-01,Economía a 3 meses,50.157728706624603,50
-2015-02-01,Sector a 3 meses,54.075235109717866,50
-2015-02-01,Demanda a 3 meses,57.165109034267914,50
-2015-03-01,Venta respecto al mes anterior,50.923076923076927,50
-2015-03-01,Inventarios respecto al mes anterior,51.871657754010698,50
-2015-03-01,Órdenes de compra respecto al mes anterior,47,50
-2015-03-01,Situación actual del negocio,58.982035928143716,50
-2015-03-01,Economía a 3 meses,49.388379204892971,50
-2015-03-01,Sector a 3 meses,54.103343465045597,50
-2015-03-01,Demanda a 3 meses,56.88073394495413,50
-2015-04-01,Venta respecto al mes anterior,52.435530085959883,50
-2015-04-01,Inventarios respecto al mes anterior,48.974358974358978,50
-2015-04-01,Órdenes de compra respecto al mes anterior,48.884758364312269,50
-2015-04-01,Situación actual del negocio,59.29577464788732,50
-2015-04-01,Economía a 3 meses,46.742209631728052,50
-2015-04-01,Sector a 3 meses,52.142857142857146,50
-2015-04-01,Demanda a 3 meses,57.7683615819209,50
-2015-05-01,Venta respecto al mes anterior,52.556818181818187,50
-2015-05-01,Inventarios respecto al mes anterior,48.557692307692314,50
-2015-05-01,Órdenes de compra respecto al mes anterior,50.535714285714285,50
-2015-05-01,Situación actual del negocio,57.022471910112358,50
-2015-05-01,Economía a 3 meses,45.070422535211272,50
-2015-05-01,Sector a 3 meses,50.566572237960337,50
-2015-05-01,Demanda a 3 meses,56.741573033707859,50
-2015-06-01,Venta respecto al mes anterior,53.605015673981192,50
-2015-06-01,Inventarios respecto al mes anterior,43.01075268817204,50
-2015-06-01,Órdenes de compra respecto al mes anterior,49.610894941634243,50
-2015-06-01,Situación actual del negocio,58.435582822085884,50
-2015-06-01,Economía a 3 meses,50.625,50
-2015-06-01,Sector a 3 meses,53.271028037383175,50
-2015-06-01,Demanda a 3 meses,60.99071207430341,50
-2015-07-01,Venta respecto al mes anterior,52.21932114882506,50
-2015-07-01,Inventarios respecto al mes anterior,45.758928571428569,50
-2015-07-01,Órdenes de compra respecto al mes anterior,49.361022364217256,50
-2015-07-01,Situación actual del negocio,55.739795918367349,50
-2015-07-01,Economía a 3 meses,46.719160104986877,50
-2015-07-01,Sector a 3 meses,50.78125,50
-2015-07-01,Demanda a 3 meses,57.180156657963444,50
-2015-08-01,Venta respecto al mes anterior,47.875,50
-2015-08-01,Inventarios respecto al mes anterior,47.071129707112966,50
-2015-08-01,Órdenes de compra respecto al mes anterior,46.09375,50
-2015-08-01,Situación actual del negocio,55.514705882352942,50
-2015-08-01,Economía a 3 meses,42.222222222222221,50
-2015-08-01,Sector a 3 meses,48.03921568627451,50
-2015-08-01,Demanda a 3 meses,54.779411764705884,50
-2015-09-01,Venta respecto al mes anterior,47.974683544303801,50
-2015-09-01,Inventarios respecto al mes anterior,48.464912280701753,50
-2015-09-01,Órdenes de compra respecto al mes anterior,45.4983922829582,50
-2015-09-01,Situación actual del negocio,55.402010050251263,50
-2015-09-01,Economía a 3 meses,43.222506393861892,50
-2015-09-01,Sector a 3 meses,48.091603053435115,50
-2015-09-01,Demanda a 3 meses,55.867346938775512,50
-2015-10-01,Venta respecto al mes anterior,54.084507042253513,50
-2015-10-01,Inventarios respecto al mes anterior,46.411483253588514,50
-2015-10-01,Órdenes de compra respecto al mes anterior,49.285714285714292,50
-2015-10-01,Situación actual del negocio,57.397260273972606,50
-2015-10-01,Economía a 3 meses,44.972067039106143,50
-2015-10-01,Sector a 3 meses,49.305555555555557,50
-2015-10-01,Demanda a 3 meses,57.734806629834253,50
-2015-11-01,Venta respecto al mes anterior,52.478134110787167,50
-2015-11-01,Inventarios respecto al mes anterior,44.902912621359228,50
-2015-11-01,Órdenes de compra respecto al mes anterior,49.820788530465947,50
-2015-11-01,Situación actual del negocio,56.534090909090907,50
-2015-11-01,Economía a 3 meses,44.812680115273771,50
-2015-11-01,Sector a 3 meses,49.142857142857146,50
-2015-11-01,Demanda a 3 meses,55.128205128205131,50
-2015-12-01,Venta respecto al mes anterior,50,50
-2015-12-01,Inventarios respecto al mes anterior,49.043062200956932,50
-2015-12-01,Órdenes de compra respecto al mes anterior,45.108695652173914,50
-2015-12-01,Situación actual del negocio,57.945205479452056,50
-2015-12-01,Economía a 3 meses,44.598337950138507,50
-2015-12-01,Sector a 3 meses,47.664835164835161,50
-2015-12-01,Demanda a 3 meses,51.510989010989007,50
-2016-01-01,Venta respecto al mes anterior,47.598870056497177,50
-2016-01-01,Inventarios respecto al mes anterior,50.704225352112672,50
-2016-01-01,Órdenes de compra respecto al mes anterior,45.229681978798588,50
-2016-01-01,Situación actual del negocio,57.422969187675065,50
-2016-01-01,Economía a 3 meses,42.514124293785308,50
-2016-01-01,Sector a 3 meses,47.893258426966291,50
-2016-01-01,Demanda a 3 meses,50.842696629213478,50
-2016-02-01,Venta respecto al mes anterior,46.619718309859152,50
-2016-02-01,Inventarios respecto al mes anterior,47.48858447488584,50
-2016-02-01,Órdenes de compra respecto al mes anterior,45.32871972318339,50
-2016-02-01,Situación actual del negocio,59.890109890109891,50
-2016-02-01,Economía a 3 meses,46.67590027700831,50
-2016-02-01,Sector a 3 meses,50.417827298050142,50
-2016-02-01,Demanda a 3 meses,53.46260387811634,50
-2016-03-01,Venta respecto al mes anterior,52.932960893854755,50
-2016-03-01,Inventarios respecto al mes anterior,48.139534883720934,50
-2016-03-01,Órdenes de compra respecto al mes anterior,49.65986394557823,50
-2016-03-01,Situación actual del negocio,59.13978494623656,50
-2016-03-01,Economía a 3 meses,46.398891966759003,50
-2016-03-01,Sector a 3 meses,50.828729281767963,50
-2016-03-01,Demanda a 3 meses,57.005494505494504,50
-2016-04-01,Venta respecto al mes anterior,55.982905982905983,50
-2016-04-01,Inventarios respecto al mes anterior,46.394230769230774,50
-2016-04-01,Órdenes de compra respecto al mes anterior,52.2887323943662,50
-2016-04-01,Situación actual del negocio,59.254143646408842,50
-2016-04-01,Economía a 3 meses,54.166666666666664,50
-2016-04-01,Sector a 3 meses,55.084745762711862,50
-2016-04-01,Demanda a 3 meses,61.048158640226625,50
-2016-05-01,Venta respecto al mes anterior,50.413223140495866,50
-2016-05-01,Inventarios respecto al mes anterior,49.509803921568633,50
-2016-05-01,Órdenes de compra respecto al mes anterior,50,50
-2016-05-01,Situación actual del negocio,58.928571428571431,50
-2016-05-01,Economía a 3 meses,53.443526170798897,50
-2016-05-01,Sector a 3 meses,53.260869565217398,50
-2016-05-01,Demanda a 3 meses,58.016304347826086,50
-2016-06-01,Venta respecto al mes anterior,52.485380116959071,50
-2016-06-01,Inventarios respecto al mes anterior,48.756218905472636,50
-2016-06-01,Órdenes de compra respecto al mes anterior,50.55147058823529,50
-2016-06-01,Situación actual del negocio,58.857142857142854,50
-2016-06-01,Economía a 3 meses,54.347826086956516,50
-2016-06-01,Sector a 3 meses,56.01719197707736,50
-2016-06-01,Demanda a 3 meses,58.571428571428577,50
-2016-07-01,Venta respecto al mes anterior,51.362397820163487,50
-2016-07-01,Inventarios respecto al mes anterior,46.330275229357795,50
-2016-07-01,Órdenes de compra respecto al mes anterior,49.307958477508649,50
-2016-07-01,Situación actual del negocio,56.836461126005354,50
-2016-07-01,Economía a 3 meses,60.975609756097562,50
-2016-07-01,Sector a 3 meses,58.1989247311828,50
-2016-07-01,Demanda a 3 meses,60.945945945945944,50
-2016-08-01,Venta respecto al mes anterior,52.591463414634141,50
-2016-08-01,Inventarios respecto al mes anterior,48.167539267015705,50
-2016-08-01,Órdenes de compra respecto al mes anterior,51.49812734082397,50
-2016-08-01,Situación actual del negocio,58.944281524926687,50
-2016-08-01,Economía a 3 meses,61.97604790419161,50
-2016-08-01,Sector a 3 meses,59.144542772861364,50
-2016-08-01,Demanda a 3 meses,63.244047619047613,50
-2016-09-01,Venta respecto al mes anterior,54.783950617283949,50
-2016-09-01,Inventarios respecto al mes anterior,48.691099476439788,50
-2016-09-01,Órdenes de compra respecto al mes anterior,53.667953667953668,50
-2016-09-01,Situación actual del negocio,58.610271903323266,50
-2016-09-01,Economía a 3 meses,62.347560975609753,50
-2016-09-01,Sector a 3 meses,59.337349397590366,50
-2016-09-01,Demanda a 3 meses,63.293051359516618,50
-2016-10-01,Venta respecto al mes anterior,56.19047619047619,50
-2016-10-01,Inventarios respecto al mes anterior,47.5,50
-2016-10-01,Órdenes de compra respecto al mes anterior,54.800000000000004,50
-2016-10-01,Situación actual del negocio,60.15384615384616,50
-2016-10-01,Economía a 3 meses,60.815047021943577,50
-2016-10-01,Sector a 3 meses,59.161490683229815,50
-2016-10-01,Demanda a 3 meses,61.882716049382715,50
-2016-11-01,Venta respecto al mes anterior,56.578947368421048,50
-2016-11-01,Inventarios respecto al mes anterior,45.685279187817265,50
-2016-11-01,Órdenes de compra respecto al mes anterior,53.467153284671532,50
-2016-11-01,Situación actual del negocio,59.714285714285722,50
-2016-11-01,Economía a 3 meses,58.357771260997062,50
-2016-11-01,Sector a 3 meses,57.879656160458445,50
-2016-11-01,Demanda a 3 meses,59.885386819484246,50
-2016-12-01,Venta respecto al mes anterior,55.790960451977398,50
-2016-12-01,Inventarios respecto al mes anterior,46.859903381642511,50
-2016-12-01,Órdenes de compra respecto al mes anterior,53.697183098591552,50
-2016-12-01,Situación actual del negocio,59.641873278236915,50
-2016-12-01,Economía a 3 meses,57.262569832402235,50
-2016-12-01,Sector a 3 meses,57.103064066852369,50
-2016-12-01,Demanda a 3 meses,58.287292817679557,50
-2017-01-01,Venta respecto al mes anterior,53.432835820895519,50
-2017-01-01,Inventarios respecto al mes anterior,49.740932642487046,50
-2017-01-01,Órdenes de compra respecto al mes anterior,49.070631970260223,50
-2017-01-01,Situación actual del negocio,61.176470588235297,50
-2017-01-01,Economía a 3 meses,56.676557863501486,50
-2017-01-01,Sector a 3 meses,56.932153392330385,50
-2017-01-01,Demanda a 3 meses,61.176470588235297,50
-2017-02-17,Venta respecto al mes anterior,52.539682539682545,50
-2017-02-17,Inventarios respecto al mes anterior,52.116402116402114,50
-2017-02-17,Órdenes de compra respecto al mes anterior,49.800796812749006,50
-2017-02-17,Situación actual del negocio,59.846153846153847,50
-2017-02-17,Economía a 3 meses,54.617834394904463,50
-2017-02-17,Sector a 3 meses,56.677018633540378,50
-2017-02-17,Demanda a 3 meses,61.180124223602483,50
-2017-03-17,Venta respecto al mes anterior,46.625766871165638,50
-2017-03-17,Inventarios respecto al mes anterior,50.257731958762889,50
-2017-03-17,Órdenes de compra respecto al mes anterior,46.721311475409834,50
-2017-03-17,Situación actual del negocio,57.272727272727273,50
-2017-03-17,Economía a 3 meses,43.808049535603715,50
-2017-03-17,Sector a 3 meses,52.160493827160494,50
-2017-03-17,Demanda a 3 meses,55.135951661631424,50
-2017-04-17,Venta respecto al mes anterior,53.125,50
-2017-04-17,Inventarios respecto al mes anterior,44.696969696969703,50
-2017-04-17,Órdenes de compra respecto al mes anterior,52.443609022556394,50
-2017-04-17,Situación actual del negocio,58.231707317073166,50
-2017-04-17,Economía a 3 meses,53.571428571428569,50
-2017-04-17,Sector a 3 meses,59.413580246913575,50
-2017-04-17,Demanda a 3 meses,62.883435582822088,50
-2017-05-17,Venta respecto al mes anterior,54.0785498489426,50
-2017-05-17,Inventarios respecto al mes anterior,46.666666666666664,50
-2017-05-17,Órdenes de compra respecto al mes anterior,53.405017921146957,50
-2017-05-17,Situación actual del negocio,57.964601769911503,50
-2017-05-17,Economía a 3 meses,54.154302670623146,50
-2017-05-17,Sector a 3 meses,57.761194029850749,50
-2017-05-17,Demanda a 3 meses,61.869436201780417,50
-2017-06-17,Venta respecto al mes anterior,56.25,50
-2017-06-17,Inventarios respecto al mes anterior,47.868217468261719,50
-2017-06-17,Órdenes de compra respecto al mes anterior,54.340835571289063,50
-2017-06-17,Situación actual del negocio,56.104652404785156,50
-2017-06-17,Economía a 3 meses,53.052326202392578,50
-2017-06-17,Sector a 3 meses,56.871345520019531,50
-2017-06-17,Demanda a 3 meses,62.173912048339844,50
-2017-07-17,Venta respecto al mes anterior,55.116958618164063,50
-2017-07-17,Inventarios respecto al mes anterior,47.490348815917969,50
-2017-07-17,Órdenes de compra respecto al mes anterior,52.24359130859375,50
-2017-07-17,Situación actual del negocio,56.465518951416016,50
-2017-07-17,Economía a 3 meses,54.796512603759766,50
-2017-07-17,Sector a 3 meses,55.847953796386719,50
-2017-07-17,Demanda a 3 meses,62.316715240478516,50
-2017-08-17,Venta respecto al mes anterior,54.360466003417969,50
-2017-08-17,Inventarios respecto al mes anterior,46.551723480224609,50
-2017-08-17,Órdenes de compra respecto al mes anterior,55.357143402099609,50
-2017-08-17,Situación actual del negocio,56.920902252197266,50
-2017-08-17,Economía a 3 meses,56.268222808837891,50
-2017-08-17,Sector a 3 meses,57.848838806152344,50
-2017-08-17,Demanda a 3 meses,61.988304138183594,50
-2017-09-17,Venta respecto al mes anterior,58.082191467285156,50
-2017-09-17,Inventarios respecto al mes anterior,48.555957794189453,50
-2017-09-17,Órdenes de compra respecto al mes anterior,55.572288513183594,50
-2017-09-17,Situación actual del negocio,56.301368713378906,50
-2017-09-17,Economía a 3 meses,60.136985778808594,50
-2017-09-17,Sector a 3 meses,60.733695983886719,50
-2017-09-17,Demanda a 3 meses,62.841529846191406,50
-2017-10-17,Venta respecto al mes anterior,56.980056762695313,50
-2017-10-17,Inventarios respecto al mes anterior,49.248119354248047,50
-2017-10-17,Órdenes de compra respecto al mes anterior,55.485893249511719,50
-2017-10-17,Situación actual del negocio,57.285713195800781,50
-2017-10-17,Economía a 3 meses,64.142860412597656,50
-2017-10-17,Sector a 3 meses,61.680912017822266,50
-2017-10-17,Demanda a 3 meses,62.572254180908203,50
-2017-11-17,Venta respecto al mes anterior,60,50
-2017-11-17,Inventarios respecto al mes anterior,46.899223327636719,50
-2017-11-17,Órdenes de compra respecto al mes anterior,55.663429260253906,50
-2017-11-17,Situación actual del negocio,56.086956024169922,50
-2017-11-17,Economía a 3 meses,62.609970092773438,50
-2017-11-17,Sector a 3 meses,60.610466003417969,50
-2017-11-17,Demanda a 3 meses,63.742691040039063,50
-2017-12-17,Venta respecto al mes anterior,57.122093200683594,50
-2017-12-17,Inventarios respecto al mes anterior,48.501873016357422,50
-2017-12-17,Órdenes de compra respecto al mes anterior,52.531646728515625,50
-2017-12-17,Situación actual del negocio,56.609195709228516,50
-2017-12-17,Economía a 3 meses,53.654972076416016,50
-2017-12-17,Sector a 3 meses,55.873924255371094,50
-2017-12-17,Demanda a 3 meses,60.404624938964844,50
-2018-01-18,Venta respecto al mes anterior,58.68902587890625,50
-2018-01-18,Inventarios respecto al mes anterior,48.832683563232422,50
-2018-01-18,Órdenes de compra respecto al mes anterior,54.054054260253906,50
-2018-01-18,Situación actual del negocio,56.547618865966797,50
-2018-01-18,Economía a 3 meses,58.536586761474609,50
-2018-01-18,Sector a 3 meses,58.308158874511719,50
-2018-01-18,Demanda a 3 meses,63.963962554931641,50
-2018-02-18,Venta respecto al mes anterior,54.262294769287109,50
-2018-02-18,Inventarios respecto al mes anterior,49.563320159912109,50
-2018-02-18,Órdenes de compra respecto al mes anterior,51.075267791748047,50
-2018-02-18,Situación actual del negocio,56.9659423828125,50
-2018-02-18,Economía a 3 meses,54.936305999755859,50
-2018-02-18,Sector a 3 meses,56.64556884765625,50
-2018-02-18,Demanda a 3 meses,63.216560363769531,50
-2018-03-18,Venta respecto al mes anterior,59.190032958984375,50
-2018-03-18,Inventarios respecto al mes anterior,47.119342803955078,50
-2018-03-18,Órdenes de compra respecto al mes anterior,54.251701354980469,50
-2018-03-18,Situación actual del negocio,55.059524536132813,50
-2018-03-18,Economía a 3 meses,53.538459777832031,50
-2018-03-18,Sector a 3 meses,55.674846649169922,50
-2018-03-18,Demanda a 3 meses,61.419754028320313,50
-2018-04-18,Venta respecto al mes anterior,58.715595245361328,50
-2018-04-18,Inventarios respecto al mes anterior,48.046875,50
-2018-04-18,Órdenes de compra respecto al mes anterior,56.375839233398438,50
-2018-04-18,Situación actual del negocio,56.37982177734375,50
-2018-04-18,Economía a 3 meses,58.562690734863281,50
-2018-04-18,Sector a 3 meses,58.93939208984375,50
-2018-04-18,Demanda a 3 meses,64.589668273925781,50
-2018-05-18,Venta respecto al mes anterior,57.771259307861328,50
-2018-05-18,Inventarios respecto al mes anterior,45.149253845214844,50
-2018-05-18,Órdenes de compra respecto al mes anterior,53.548385620117188,50
-2018-05-18,Situación actual del negocio,57.670455932617188,50
-2018-05-18,Economía a 3 meses,59.734512329101563,50
-2018-05-18,Sector a 3 meses,59.855072021484375,50
-2018-05-18,Demanda a 3 meses,64.181289672851563,50
-2018-06-18,Venta respecto al mes anterior,57.971015930175781,50
-2018-06-18,Inventarios respecto al mes anterior,45.437263488769531,50
-2018-06-18,Órdenes de compra respecto al mes anterior,52.724357604980469,50
-2018-06-18,Situación actual del negocio,56.162464141845703,50
-2018-06-18,Economía a 3 meses,57.803466796875,50
-2018-06-18,Sector a 3 meses,57.285713195800781,50
-2018-06-18,Demanda a 3 meses,62.6436767578125,50
-2018-07-18,Venta respecto al mes anterior,59.393939971923828,50
-2018-07-18,Inventarios respecto al mes anterior,47.035572052001953,50
-2018-07-18,Órdenes de compra respecto al mes anterior,55.0167236328125,50
-2018-07-18,Situación actual del negocio,56.194690704345703,50
-2018-07-18,Economía a 3 meses,58.966564178466797,50
-2018-07-18,Sector a 3 meses,59.696968078613281,50
-2018-07-18,Demanda a 3 meses,63.262195587158203,50
-2018-08-18,Venta respecto al mes anterior,56.948638916015625,50
-2018-08-18,Inventarios respecto al mes anterior,46.692607879638672,50
-2018-08-18,Órdenes de compra respecto al mes anterior,53.703704833984375,50
-2018-08-18,Situación actual del negocio,55.441177368164063,50
-2018-08-18,Economía a 3 meses,58.532932281494141,50
-2018-08-18,Sector a 3 meses,58.902076721191406,50
-2018-08-18,Demanda a 3 meses,61.861862182617188,50
-2018-09-18,Venta respecto al mes anterior,57.188499450683594,50
-2018-09-18,Inventarios respecto al mes anterior,46.747966766357422,50
-2018-09-18,Órdenes de compra respecto al mes anterior,52.816902160644531,50
-2018-09-18,Situación actual del negocio,52.959503173828125,50
-2018-09-18,Economía a 3 meses,55.128204345703125,50
-2018-09-18,Sector a 3 meses,57.142856597900391,50
-2018-09-18,Demanda a 3 meses,61.624202728271484,50
-2018-10-18,Venta respecto al mes anterior,54.088050842285156,50
-2018-10-18,Inventarios respecto al mes anterior,47.755100250244141,50
-2018-10-18,Órdenes de compra respecto al mes anterior,52.768165588378906,50
-2018-10-18,Situación actual del negocio,53.527606964111328,50
-2018-10-18,Economía a 3 meses,52.380950927734375,50
-2018-10-18,Sector a 3 meses,55.974842071533203,50
-2018-10-18,Demanda a 3 meses,59.779178619384766,50
-2018-11-18,Venta respecto al mes anterior,56.697818756103516,50
-2018-11-18,Inventarios respecto al mes anterior,47.799999237060547,50
-2018-11-18,Órdenes de compra respecto al mes anterior,53.993057250976563,50
-2018-11-18,Situación actual del negocio,55.891239166259766,50
-2018-11-18,Economía a 3 meses,55.451713562011719,50
-2018-11-18,Sector a 3 meses,55.590061187744141,50
-2018-11-18,Demanda a 3 meses,60.559005737304688,50
-2018-12-18,Venta respecto al mes anterior,54.428043365478516,50
-2018-12-18,Inventarios respecto al mes anterior,47.619049072265625,50
-2018-12-18,Órdenes de compra respecto al mes anterior,50.803211212158203,50
-2018-12-18,Situación actual del negocio,55.574913024902344,50
-2018-12-18,Economía a 3 meses,58.303249359130859,50
-2018-12-18,Sector a 3 meses,58.540924072265625,50
-2018-12-18,Demanda a 3 meses,58.781360626220703,50
-2019-01-18,Venta respecto al mes anterior,54.662380218505859,50
-2019-01-18,Inventarios respecto al mes anterior,48.723403930664063,50
-2019-01-18,Órdenes de compra respecto al mes anterior,53.723403930664063,50
-2019-01-18,Situación actual del negocio,56.896553039550781,50
-2019-01-18,Economía a 3 meses,58.121017456054688,50
-2019-01-18,Sector a 3 meses,56.624607086181641,50
-2019-01-18,Demanda a 3 meses,59.841270446777344,50
-2019-02-18,Venta respecto al mes anterior,56.935482025146484,50
-2019-02-18,Inventarios respecto al mes anterior,47.907951354980469,50
-2019-02-18,Órdenes de compra respecto al mes anterior,53.956832885742188,50
-2019-02-18,Situación actual del negocio,56.542057037353516,50
-2019-02-18,Economía a 3 meses,58.49359130859375,50
-2019-02-18,Sector a 3 meses,59.554141998291016,50
-2019-02-18,Demanda a 3 meses,62.179485321044922,50
-2019-03-18,Venta respecto al mes anterior,59.405941009521484,50
-2019-03-18,Inventarios respecto al mes anterior,50,50
-2019-03-18,Órdenes de compra respecto al mes anterior,53.790615081787109,50
-2019-03-18,Situación actual del negocio,56.006492614746094,50
-2019-03-18,Economía a 3 meses,59.602649688720703,50
-2019-03-18,Sector a 3 meses,58.823528289794922,50
-2019-03-18,Demanda a 3 meses,64.617942810058594,50
-2019-04-18,Venta respecto al mes anterior,57.189540863037109,50
-2019-04-18,Inventarios respecto al mes anterior,45.884773254394531,50
-2019-04-18,Órdenes de compra respecto al mes anterior,53.046596527099609,50
-2019-04-18,Situación actual del negocio,56.070285797119141,50
-2019-04-18,Economía a 3 meses,55.863193511962891,50
-2019-04-18,Sector a 3 meses,54.8543701171875,50
-2019-04-18,Demanda a 3 meses,60.72607421875,50
-2019-05-18,Venta respecto al mes anterior,56.656345367431641,50
-2019-05-18,Inventarios respecto al mes anterior,47.609561920166016,50
-2019-05-18,Órdenes de compra respecto al mes anterior,52.749141693115234,50
-2019-05-18,Situación actual del negocio,54.302669525146484,50
-2019-05-18,Economía a 3 meses,52.905197143554688,50
-2019-05-18,Sector a 3 meses,56.25,50
-2019-05-18,Demanda a 3 meses,61.265430450439453,50
-2019-06-18,Venta respecto al mes anterior,54.892967224121094,50
-2019-06-18,Inventarios respecto al mes anterior,48.991935729980469,50
-2019-06-18,Órdenes de compra respecto al mes anterior,50,50
-2019-06-18,Situación actual del negocio,53.731342315673828,50
-2019-06-18,Economía a 3 meses,49.847560882568359,50
-2019-06-18,Sector a 3 meses,54.420730590820313,50
-2019-06-18,Demanda a 3 meses,59.230770111083984,50
-2019-07-18,Venta respecto al mes anterior,54.573169708251953,50
-2019-07-18,Inventarios respecto al mes anterior,49.224807739257813,50
-2019-07-18,Órdenes de compra respecto al mes anterior,51.718212127685547,50
-2019-07-18,Situación actual del negocio,51.608188629150391,50
-2019-07-18,Economía a 3 meses,49.107143402099609,50
-2019-07-18,Sector a 3 meses,52.077152252197266,50
-2019-07-18,Demanda a 3 meses,55.074626922607422,50
-2019-08-18,Venta respecto al mes anterior,54.191616058349609,50
-2019-08-18,Inventarios respecto al mes anterior,48.643409729003906,50
-2019-08-18,Órdenes de compra respecto al mes anterior,52.881355285644531,50
-2019-08-18,Situación actual del negocio,50.436046600341797,50
-2019-08-18,Economía a 3 meses,45.238094329833984,50
-2019-08-18,Sector a 3 meses,49.852508544921875,50
-2019-08-18,Demanda a 3 meses,55.705707550048828,50
-2019-09-18,Venta respecto al mes anterior,52.616279602050781,50
-2019-09-18,Inventarios respecto al mes anterior,51.14068603515625,50
-2019-09-18,Órdenes de compra respecto al mes anterior,52.450981140136719,50
-2019-09-18,Situación actual del negocio,52.089138031005859,50
-2019-09-18,Economía a 3 meses,46.802326202392578,50
-2019-09-18,Sector a 3 meses,50.145347595214844,50
-2019-09-18,Demanda a 3 meses,54.264705657958984,50
-2019-10-18,Venta respecto al mes anterior,52.044025421142578,50
-2019-10-18,Inventarios respecto al mes anterior,51.016262054443359,50
-2019-10-18,Órdenes de compra respecto al mes anterior,52.112674713134766,50
-2019-10-18,Situación actual del negocio,51.506023406982422,50
-2019-10-18,Economía a 3 meses,47.003154754638672,50
-2019-10-18,Sector a 3 meses,50.473186492919922,50
-2019-10-18,Demanda a 3 meses,55.095542907714844,50
-2019-11-01,Venta respecto al mes anterior,56.231002807617188,50
-2019-11-01,Inventarios respecto al mes anterior,48.412696838378906,50
-2019-11-01,Órdenes de compra respecto al mes anterior,52.389080047607422,50
-2019-11-01,Situación actual del negocio,52.507373809814453,50
-2019-11-01,Economía a 3 meses,49.698795318603516,50
-2019-11-01,Sector a 3 meses,51.951950073242188,50
-2019-11-01,Demanda a 3 meses,56.079029083251953,50
-2019-12-01,Venta respecto al mes anterior,54.205608367919922,50
-2019-12-01,Inventarios respecto al mes anterior,51.01214599609375,50
-2019-12-01,Órdenes de compra respecto al mes anterior,51.211071014404297,50
-2019-12-01,Situación actual del negocio,53.426792144775391,50
-2019-12-01,Economía a 3 meses,50.7716064453125,50
-2019-12-01,Sector a 3 meses,51.524391174316406,50
-2019-12-01,Demanda a 3 meses,55.108360290527344,50
-2020-01-01,Venta respecto al mes anterior,54.029850006103516,50
-2020-01-01,Inventarios respecto al mes anterior,51.351352691650391,50
-2020-01-01,Órdenes de compra respecto al mes anterior,49.498329162597656,50
-2020-01-01,Situación actual del negocio,55.507247924804688,50
-2020-01-01,Economía a 3 meses,52.923976898193359,50
-2020-01-01,Sector a 3 meses,55.797100067138672,50
-2020-01-01,Demanda a 3 meses,57.703926086425781,50
-2020-02-01,Venta respecto al mes anterior,51.840492248535156,50
-2020-02-01,Inventarios respecto al mes anterior,53.048782348632813,50
-2020-02-01,Órdenes de compra respecto al mes anterior,50.174823760986328,50
-2020-02-01,Situación actual del negocio,52.238807678222656,50
-2020-02-01,Economía a 3 meses,48.187313079833984,50
-2020-02-01,Sector a 3 meses,50.757575988769531,50
-2020-02-01,Demanda a 3 meses,55.521472930908203,50
-2020-03-01,Venta respecto al mes anterior,30.27210807800293,50
-2020-03-01,Inventarios respecto al mes anterior,61.904762268066406,50
-2020-03-01,Órdenes de compra respecto al mes anterior,27.480916976928711,50
-2020-03-01,Situación actual del negocio,41.118419647216797,50
-2020-03-01,Economía a 3 meses,21.812080383300781,50
-2020-03-01,Sector a 3 meses,28.476821899414063,50
-2020-03-01,Demanda a 3 meses,30.743244171142578,50
-2020-04-01,Venta respecto al mes anterior,16.839378356933594,50
-2020-04-01,Inventarios respecto al mes anterior,66.312057495117188,50
-2020-04-01,Órdenes de compra respecto al mes anterior,16.666666030883789,50
-2020-04-01,Situación actual del negocio,24.873096466064453,50
-2020-04-01,Economía a 3 meses,9.1370553970336914,50
-2020-04-01,Sector a 3 meses,15.736041069030762,50
-2020-04-01,Demanda a 3 meses,17.801046371459961,50
-2020-05-01,Venta respecto al mes anterior,21.920289993286133,50
-2020-05-01,Inventarios respecto al mes anterior,62.019229888916023,50
-2020-05-01,Órdenes de compra respecto al mes anterior,21.399177551269531,50
-2020-05-01,Situación actual del negocio,21.530248641967773,50
-2020-05-01,Economía a 3 meses,14.336917877197266,50
-2020-05-01,Sector a 3 meses,19.464284896850586,50
-2020-05-01,Demanda a 3 meses,24.175825119018555,50
-2020-06-01,Venta respecto al mes anterior,40.996170043945313,50
-2020-06-01,Inventarios respecto al mes anterior,63.118812561035163,50
-2020-06-01,Órdenes de compra respecto al mes anterior,36.637931823730469,50
-2020-06-01,Situación actual del negocio,26.55677604675293,50
-2020-06-01,Economía a 3 meses,28.78228759765625,50
-2020-06-01,Sector a 3 meses,34.629631042480469,50
-2020-06-01,Demanda a 3 meses,38.593154907226563,50
-2020-07-01,Venta respecto al mes anterior,47.183097839355469,50
-2020-07-01,Inventarios respecto al mes anterior,58.454105377197273,50
-2020-07-01,Órdenes de compra respecto al mes anterior,43.319839477539063,50
-2020-07-01,Situación actual del negocio,32.638889312744141,50
-2020-07-01,Economía a 3 meses,34.790210723876953,50
-2020-07-01,Sector a 3 meses,38.715278625488281,50
-2020-07-01,Demanda a 3 meses,46.643108367919922,50
-2020-08-01,Venta respecto al mes anterior,49.656356811523438,50
-2020-08-01,Inventarios respecto al mes anterior,58.21917724609375,50
-2020-08-01,Órdenes de compra respecto al mes anterior,44.866920471191406,50
-2020-08-01,Situación actual del negocio,37.458194732666016,50
-2020-08-01,Economía a 3 meses,38.118812561035156,50
-2020-08-01,Sector a 3 meses,43.189369201660156,50
-2020-08-01,Demanda a 3 meses,47.594501495361328,50
-2020-09-01,Venta respecto al mes anterior,51.505016722408023,50
-2020-09-01,Inventarios respecto al mes anterior,54.237289428710938,50
-2020-09-01,Órdenes de compra respecto al mes anterior,48.484848484848477,50
-2020-09-01,Situación actual del negocio,40.133779264214049,50
-2020-09-01,Economía a 3 meses,46.568627450980387,50
-2020-09-01,Sector a 3 meses,49.674267100977197,50
-2020-09-01,Demanda a 3 meses,51.34680134680135,50
-2020-10-01,Venta respecto al mes anterior,50,50
-2020-10-01,Inventarios respecto al mes anterior,55.36480712890625,50
-2020-10-01,Órdenes de compra respecto al mes anterior,48.518518518518519,50
-2020-10-01,Situación actual del negocio,41.100323624595468,50
-2020-10-01,Economía a 3 meses,50.162866449511398,50
-2020-10-01,Sector a 3 meses,50.97402597402597,50
-2020-10-01,Demanda a 3 meses,52.30263157894737,50
-2020-11-01,Venta respecto al mes anterior,55.166666666666657,50
-2020-11-01,Inventarios respecto al mes anterior,47.881355932203391,50
-2020-11-01,Órdenes de compra respecto al mes anterior,51.310861423220977,50
-2020-11-01,Situación actual del negocio,43.811074918566767,50
-2020-11-01,Economía a 3 meses,52.805280528052798,50
-2020-11-01,Sector a 3 meses,55.081967213114758,50
-2020-11-01,Demanda a 3 meses,58.166666666666657,50
-2020-12-01,Venta respecto al mes anterior,52.739726027397261,50
-2020-12-01,Inventarios respecto al mes anterior,42.410714285714292,50
-2020-12-01,Órdenes de compra respecto al mes anterior,47.868217054263567,50
-2020-12-01,Situación actual del negocio,45.986622073578602,50
-2020-12-01,Economía a 3 meses,49.5,50
-2020-12-01,Sector a 3 meses,49.667774086378742,50
-2020-12-01,Demanda a 3 meses,53.571428571428569,50
-2021-01-01,Venta respecto al mes anterior,48.083623693379792,50
-2021-01-01,Inventarios respecto al mes anterior,46.19047619047619,50
-2021-01-01,Órdenes de compra respecto al mes anterior,47.254901960784309,50
-2021-01-01,Situación actual del negocio,42.465753424657542,50
-2021-01-01,Economía a 3 meses,41.17647058823529,50
-2021-01-01,Sector a 3 meses,44.827586206896562,50
-2021-01-01,Demanda a 3 meses,48.392857142857153,50
-2021-02-01,Venta respecto al mes anterior,46.206896551724142,50
-2021-02-01,Inventarios respecto al mes anterior,46.19047619047619,50
-2021-02-01,Órdenes de compra respecto al mes anterior,44.313725490196077,50
-2021-02-01,Situación actual del negocio,45.608108108108112,50
-2021-02-01,Economía a 3 meses,44.217687074829932,50
-2021-02-01,Sector a 3 meses,46.95945945945946,50
-2021-02-01,Demanda a 3 meses,50.522648083623693,50
-2021-03-01,Venta respecto al mes anterior,52.89115646258503,50
-2021-03-01,Inventarios respecto al mes anterior,49.568965517241381,50
-2021-03-01,Órdenes de compra respecto al mes anterior,50.191570881226063,50
-2021-03-01,Situación actual del negocio,45.286195286195287,50
-2021-03-01,Economía a 3 meses,51.182432432432442,50
-2021-03-01,Sector a 3 meses,53.535353535353543,50
-2021-03-01,Demanda a 3 meses,54.436860068259392,50
-2021-04-01,Venta respecto al mes anterior,49.363057324840767,50
-2021-04-01,Inventarios respecto al mes anterior,52.066115702479337,50
-2021-04-01,Órdenes de compra respecto al mes anterior,50.547445255474457,50
-2021-04-01,Situación actual del negocio,47.444089456869008,50
-2021-04-01,Economía a 3 meses,39.715189873417707,50
-2021-04-01,Sector a 3 meses,46.687697160883282,50
-2021-04-01,Demanda a 3 meses,50.160256410256409,50
-2021-05-01,Venta respecto al mes anterior,54.071661237785023,50
-2021-05-01,Inventarios respecto al mes anterior,50.416666666666657,50
-2021-05-01,Órdenes de compra respecto al mes anterior,49.816849816849818,50
-2021-05-01,Situación actual del negocio,48.039215686274503,50
-2021-05-01,Economía a 3 meses,44.838709677419352,50
-2021-05-01,Sector a 3 meses,48.867313915857608,50
-2021-05-01,Demanda a 3 meses,53.114754098360663,50
-2021-06-01,Venta respecto al mes anterior,48.301886792452827,50
-2021-06-01,Inventarios respecto al mes anterior,53.960396039603957,50
-2021-06-01,Órdenes de compra respecto al mes anterior,47.598253275109172,50
-2021-06-01,Situación actual del negocio,49.080882352941167,50
-2021-06-01,Economía a 3 meses,39.473684210526322,50
-2021-06-01,Sector a 3 meses,43.045112781954877,50
-2021-06-01,Demanda a 3 meses,47.519083969465647,50
-2021-07-01,Venta respecto al mes anterior,52.527075812274369,50
-2021-07-01,Inventarios respecto al mes anterior,48.6,50
-2021-07-01,Órdenes de compra respecto al mes anterior,49,50
-2021-07-01,Situación actual del negocio,46.97508896797153,50
-2021-07-01,Economía a 3 meses,42.93286219081272,50
-2021-07-01,Sector a 3 meses,45.406360424028271,50
-2021-07-01,Demanda a 3 meses,51.433691756272403,50
-2021-08-01,Venta respecto al mes anterior,45.759717314487631,50
-2021-08-01,Inventarios respecto al mes anterior,46.875,50
-2021-08-01,Órdenes de compra respecto al mes anterior,46.2,50
-2021-08-01,Situación actual del negocio,46.193771626297583,50
-2021-08-01,Economía a 3 meses,33.564013840830462,50
-2021-08-01,Sector a 3 meses,42.439862542955332,50
-2021-08-01,Demanda a 3 meses,48.076923076923073,50
-2021-09-01,Venta respecto al mes anterior,47.63636363636364,50
-2021-09-01,Inventarios respecto al mes anterior,47.272727272727273,50
-2021-09-01,Órdenes de compra respecto al mes anterior,45.188284518828453,50
-2021-09-01,Situación actual del negocio,48.586572438162548,50
-2021-09-01,Economía a 3 meses,35,50
-2021-09-01,Sector a 3 meses,44.802867383512549,50
-2021-09-01,Demanda a 3 meses,49.45652173913043,50
-2021-10-01,Venta respecto al mes anterior,50.559701492537307,50
-2021-10-01,Inventarios respecto al mes anterior,48.095238095238088,50
-2021-10-01,Órdenes de compra respecto al mes anterior,48.312236286919827,50
-2021-10-01,Situación actual del negocio,49.097472924187727,50
-2021-10-01,Economía a 3 meses,42.518248175182492,50
-2021-10-01,Sector a 3 meses,48.722627737226283,50
-2021-10-01,Demanda a 3 meses,53.625954198473281,50
-2021-11-01,Venta respecto al mes anterior,49.635036496350359,50
-2021-11-01,Inventarios respecto al mes anterior,47.727272727272727,50
-2021-11-01,Órdenes de compra respecto al mes anterior,48.347107438016529,50
-2021-11-01,Situación actual del negocio,50,50
-2021-11-01,Economía a 3 meses,40.10791366906475,50
-2021-11-01,Sector a 3 meses,46.774193548387103,50
-2021-11-01,Demanda a 3 meses,52.222222222222229,50
-2021-12-01,Venta respecto al mes anterior,50.579150579150578,50
-2021-12-01,Inventarios respecto al mes anterior,46.5,50
-2021-12-01,Órdenes de compra respecto al mes anterior,49.33920704845815,50
-2021-12-01,Situación actual del negocio,51.162790697674417,50
-2021-12-01,Economía a 3 meses,41.221374045801532,50
-2021-12-01,Sector a 3 meses,46.197718631178709,50
-2021-12-01,Demanda a 3 meses,49.607843137254903,50
-2022-01-01,Venta respecto al mes anterior,47.118644067796609,50
-2022-01-01,Inventarios respecto al mes anterior,48.717948717948723,50
-2022-01-01,Órdenes de compra respecto al mes anterior,46.022727272727273,50
-2022-01-01,Situación actual del negocio,50,50
-2022-01-01,Economía a 3 meses,44.481605351170572,50
-2022-01-01,Sector a 3 meses,48.829431438127088,50
-2022-01-01,Demanda a 3 meses,50.515463917525771,50
-2022-02-01,Venta respecto al mes anterior,47.058823529411761,50
-2022-02-01,Inventarios respecto al mes anterior,46.728971962616832,50
-2022-02-01,Órdenes de compra respecto al mes anterior,48.814229249011852,50
-2022-02-01,Situación actual del negocio,48.671096345514947,50
-2022-02-01,Economía a 3 meses,44.520547945205479,50
-2022-02-01,Sector a 3 meses,49.489795918367349,50
-2022-02-01,Demanda a 3 meses,52.622377622377627,50
-2022-03-01,Venta respecto al mes anterior,53.214285714285722,50
-2022-03-01,Inventarios respecto al mes anterior,45.75471698113207,50
-2022-03-01,Órdenes de compra respecto al mes anterior,49.802371541501977,50
-2022-03-01,Situación actual del negocio,51.041666666666657,50
-2022-03-01,Economía a 3 meses,38.986013986013987,50
-2022-03-01,Sector a 3 meses,48.954703832752607,50
-2022-03-01,Demanda a 3 meses,54.270462633451963,50
-2022-04-01,Venta respecto al mes anterior,45.55160142348754,50
-2022-04-01,Inventarios respecto al mes anterior,48.03921568627451,50
-2022-04-01,Órdenes de compra respecto al mes anterior,46.230158730158742,50
-2022-04-01,Situación actual del negocio,49.475524475524473,50
-2022-04-01,Economía a 3 meses,34.912280701754383,50
-2022-04-01,Sector a 3 meses,43.531468531468533,50
-2022-04-01,Demanda a 3 meses,50.357142857142847,50
-2022-05-01,Venta respecto al mes anterior,49.645390070921977,50
-2022-05-01,Inventarios respecto al mes anterior,46.634615384615387,50
-2022-05-01,Órdenes de compra respecto al mes anterior,47.058823529411761,50
-2022-05-01,Situación actual del negocio,48.615916955017312,50
-2022-05-01,Economía a 3 meses,36.062717770034837,50
-2022-05-01,Sector a 3 meses,46.153846153846153,50
-2022-05-01,Demanda a 3 meses,52.32974910394266,50
-2022-06-01,Venta respecto al mes anterior,44.525547445255476,50
-2022-06-01,Inventarios respecto al mes anterior,51.94174757281553,50
-2022-06-01,Órdenes de compra respecto al mes anterior,45.141700404858298,50
-2022-06-01,Situación actual del negocio,47.833935018050553,50
-2022-06-01,Economía a 3 meses,34.115523465703973,50
-2022-06-01,Sector a 3 meses,43.189964157706093,50
-2022-06-01,Demanda a 3 meses,50.559701492537307,50
-2022-07-01,Venta respecto al mes anterior,47.111913357400717,50
-2022-07-01,Inventarios respecto al mes anterior,45,50
-2022-07-01,Órdenes de compra respecto al mes anterior,45.983935742971887,50
-2022-07-01,Situación actual del negocio,48.014440433212997,50
-2022-07-01,Economía a 3 meses,34.285714285714292,50
-2022-07-01,Sector a 3 meses,43.189964157706093,50
-2022-07-01,Demanda a 3 meses,49.270072992700733,50
-2022-08-01,Venta respecto al mes anterior,46.263345195729528,50
-2022-08-01,Inventarios respecto al mes anterior,41.747572815533992,50
-2022-08-01,Órdenes de compra respecto al mes anterior,44.246031746031747,50
-2022-08-01,Situación actual del negocio,48.958333333333329,50
-2022-08-01,Economía a 3 meses,35.563380281690137,50
-2022-08-01,Sector a 3 meses,44.385964912280699,50
-2022-08-01,Demanda a 3 meses,47.857142857142847,50
-2022-09-01,Venta respecto al mes anterior,49.328859060402692,50
-2022-09-01,Inventarios respecto al mes anterior,48.660714285714278,50
-2022-09-01,Órdenes de compra respecto al mes anterior,48.703703703703702,50
-2022-09-01,Situación actual del negocio,48.381877022653718,50
-2022-09-01,Economía a 3 meses,36.52597402597403,50
-2022-09-01,Sector a 3 meses,44.838709677419352,50
-2022-09-01,Demanda a 3 meses,51.328903654485053,50
-2022-10-01,Venta respecto al mes anterior,45.848375451263543,50
-2022-10-01,Inventarios respecto al mes anterior,39.603960396039597,50
-2022-10-01,Órdenes de compra respecto al mes anterior,43.373493975903607,50
-2022-10-01,Situación actual del negocio,48.74551971326165,50
-2022-10-01,Economía a 3 meses,35.739436619718312,50
-2022-10-01,Sector a 3 meses,43.902439024390247,50
-2022-10-01,Demanda a 3 meses,48.035714285714278,50
-2022-11-01,Venta respecto al mes anterior,46.263345195729528,50
-2022-11-01,Inventarios respecto al mes anterior,44.811320754716981,50
-2022-11-01,Órdenes de compra respecto al mes anterior,43.5546875,50
-2022-11-01,Situación actual del negocio,48.606271777003492,50
-2022-11-01,Economía a 3 meses,37.931034482758633,50
-2022-11-01,Sector a 3 meses,42.78350515463918,50
-2022-11-01,Demanda a 3 meses,49.3006993006993,50
-2022-12-01,Venta respecto al mes anterior,42.857142857142861,50
-2022-12-01,Inventarios respecto al mes anterior,47.916666666666671,50
-2022-12-01,Órdenes de compra respecto al mes anterior,42.658730158730158,50
-2022-12-01,Situación actual del negocio,50,50
-2022-12-01,Economía a 3 meses,42.36363636363636,50
-2022-12-01,Sector a 3 meses,47.10144927536232,50
-2022-12-01,Demanda a 3 meses,48.901098901098898,50
-2023-01-01,Venta respecto al mes anterior,38.992537313432827,50
-2023-01-01,Inventarios respecto al mes anterior,45.754716981132077,50
-2023-01-01,Órdenes de compra respecto al mes anterior,38.508064516129032,50
-2023-01-01,Situación actual del negocio,46.32352941176471,50
-2023-01-01,Economía a 3 meses,31.884057971014499,50
-2023-01-01,Sector a 3 meses,39.748201438848923,50
-2023-01-01,Demanda a 3 meses,45.272727272727273,50
-2023-02-01,Venta respecto al mes anterior,41.821561338289968,50
-2023-02-01,Inventarios respecto al mes anterior,43.367346938775512,50
-2023-02-01,Órdenes de compra respecto al mes anterior,41.020408163265301,50
-2023-02-01,Situación actual del negocio,48.201438848920873,50
-2023-02-01,Economía a 3 meses,41.485507246376812,50
-2023-02-01,Sector a 3 meses,44,50
-2023-02-01,Demanda a 3 meses,48.523985239852387,50
+fecha,valor,tipo,horizonte
+2002-04-01,60.0877192982456,total,03
+2002-05-01,61.094674556213,total,03
+2002-06-01,49.3939393939394,total,03
+2002-07-01,56.2314540059347,total,03
+2002-08-01,57.1646341463415,total,03
+2002-09-01,57.624633431085,total,03
+2002-10-01,60.2678571428571,total,03
+2002-11-01,65.9159159159159,total,03
+2002-12-01,71.1940298507463,total,03
+2003-01-01,70.9439528023599,total,03
+2003-02-01,66.9139465875371,total,03
+2003-03-01,60.0294985250737,total,03
+2003-04-01,65.5325443786982,total,03
+2003-05-01,52.9585798816568,total,03
+2003-06-01,54.8632218844985,total,03
+2003-07-01,56.0606060606061,total,03
+2003-08-01,57.7507598784195,total,03
+2003-09-01,57.4850299401198,total,03
+2003-10-01,60.207100591716,total,03
+2003-11-01,58.6826347305389,total,03
+2003-12-01,59.0236686390532,total,03
+2004-01-01,54.5171339563863,total,03
+2004-02-01,57.2327044025157,total,03
+2004-03-01,56.514657980456,total,03
+2004-04-01,57.8635014836795,total,03
+2004-05-01,56.2314540059347,total,03
+2004-06-01,56.2080536912752,total,03
+2004-07-01,57.3469387755102,total,03
+2004-08-01,62.3100303951368,total,03
+2004-09-01,61.7241379310345,total,03
+2004-10-01,63.125,total,03
+2004-11-01,63.2911392405063,total,03
+2004-12-01,62.9179331306991,total,03
+2005-01-01,62.9850746268657,total,03
+2005-02-01,62.5806451612903,total,03
+2005-03-01,62.6785714285714,total,03
+2005-04-01,63.7462235649547,total,03
+2005-05-01,64.2011834319527,total,03
+2005-06-01,63.6094674556213,total,03
+2005-07-01,65.0746268656716,total,03
+2005-08-01,63.7313432835821,total,03
+2005-09-01,67.4382716049383,total,03
+2005-10-01,64.4736842105263,total,03
+2005-11-01,63.4615384615385,total,03
+2005-12-01,56.4327485380117,total,03
+2006-01-01,52.0289855072464,total,03
+2006-02-01,57.2271386430679,total,03
+2006-03-01,53.3625730994152,total,03
+2006-04-01,52.5297619047619,total,03
+2006-05-01,62.2418879056047,total,03
+2006-06-01,65.3273809523809,total,03
+2006-07-01,67.34375,total,03
+2006-08-01,70.0581395348837,total,03
+2006-09-01,68.8963210702341,total,03
+2006-10-01,70.2290076335878,total,03
+2006-11-01,72.6683937823834,total,03
+2006-12-01,72.1884498480243,total,03
+2007-01-01,72.1153846153846,total,03
+2007-02-01,72.5067385444744,total,03
+2007-03-01,72.9050279329609,total,03
+2007-04-01,74.3055555555556,total,03
+2007-05-01,71.5425531914894,total,03
+2007-06-01,71.9251336898396,total,03
+2007-07-01,70.1704545454545,total,03
+2007-08-01,68.9516129032258,total,03
+2007-09-01,69.9728260869565,total,03
+2007-10-01,71.264367816092,total,03
+2007-11-01,71.6463414634146,total,03
+2007-12-01,75.3424657534247,total,03
+2008-01-01,70,total,03
+2008-02-01,71,total,03
+2008-03-01,67,total,03
+2008-04-01,69,total,03
+2008-05-01,74,total,03
+2008-06-01,71,total,03
+2008-07-01,67,total,03
+2008-08-01,61,total,03
+2008-09-01,56,total,03
+2008-10-01,44,total,03
+2008-11-01,47,total,03
+2008-12-01,32,total,03
+2009-01-01,35,total,03
+2009-02-01,38,total,03
+2009-03-01,33,total,03
+2009-04-01,39,total,03
+2009-05-01,53,total,03
+2009-06-01,51,total,03
+2009-07-01,53,total,03
+2009-08-01,63,total,03
+2009-09-01,61,total,03
+2009-10-01,66,total,03
+2009-11-01,67,total,03
+2009-12-01,69,total,03
+2010-01-01,71.6171617161716,total,03
+2010-02-01,71.9135802469136,total,03
+2010-03-01,70.8474576271186,total,03
+2010-04-01,73.8019169329073,total,03
+2010-05-01,70.5387205387205,total,03
+2010-06-01,74.6350364963504,total,03
+2010-07-01,71.0616438356164,total,03
+2010-08-01,71.043771043771,total,03
+2010-09-01,70.4861111111111,total,03
+2010-10-01,70.7482993197279,total,03
+2010-11-01,69.8214285714286,total,03
+2010-12-01,67.7121771217712,total,03
+2011-01-01,66.0377358490566,total,03
+2011-02-01,65.2014652014652,total,03
+2011-03-01,64.5283018867924,total,03
+2011-04-01,46.0655737704918,total,03
+2011-05-01,49.0131578947368,total,03
+2011-06-01,46.643109540636,total,03
+2011-07-01,50.8802816901408,total,03
+2011-08-01,50.7042253521127,total,03
+2011-09-01,52.9310344827586,total,03
+2011-10-01,58.4905660377359,total,03
+2011-11-01,57.5250836120401,total,03
+2011-12-01,55.794701986755,total,03
+2012-01-01,57.3333333333333,total,03
+2012-02-01,59.5161290322581,total,03
+2012-03-01,63.5350318471338,total,03
+2012-04-01,64.983164983165,total,03
+2012-05-01,59.8240469208211,total,03
+2012-06-01,57.2222222222222,total,03
+2012-07-01,56.1475409836066,total,03
+2012-08-01,59.1194968553459,total,03
+2012-09-01,60.8064516129032,total,03
+2012-10-01,63.9498432601881,total,03
+2012-11-01,64.3250688705234,total,03
+2012-12-01,64.1269841269841,total,03
+2013-01-01,66.6666666666667,total,03
+2013-02-01,66.3109756097561,total,03
+2013-03-01,64.5631067961165,total,03
+2013-04-01,59.7315436241611,total,03
+2013-05-01,54.1095890410959,total,03
+2013-06-01,51,total,03
+2013-07-01,50.3184713375796,total,03
+2013-08-01,47.6114649681529,total,03
+2013-09-01,53.2362459546925,total,03
+2013-10-01,54.5045045045045,total,03
+2013-11-01,54.0785498489426,total,03
+2013-12-01,58.7025316455696,total,03
+2014-01-01,59.2753623188406,total,03
+2014-02-01,60.2011494252874,total,03
+2014-03-01,53.8461538461538,total,03
+2014-04-01,54.2134831460674,total,03
+2014-05-01,52.8610354223433,total,03
+2014-06-01,49.7183098591549,total,03
+2014-07-01,50.593471810089,total,03
+2014-08-01,48.4550561797753,total,03
+2014-09-01,53.9877300613497,total,03
+2014-10-01,52.9940119760479,total,03
+2014-11-01,55.2547770700637,total,03
+2014-12-01,53.0973451327434,total,03
+2015-01-01,54.2319749216301,total,03
+2015-02-01,50.1577287066246,total,03
+2015-03-01,49.388379204893,total,03
+2015-04-01,46.7422096317281,total,03
+2015-05-01,45.0704225352113,total,03
+2015-06-01,50.625,total,03
+2015-07-01,46.7191601049869,total,03
+2015-08-01,42.2222222222222,total,03
+2015-09-01,43.2225063938619,total,03
+2015-10-01,44.9720670391061,total,03
+2015-11-01,44.8126801152738,total,03
+2015-12-01,44.5983379501385,total,03
+2016-01-01,42.5141242937853,total,03
+2016-02-01,46.6759002770083,total,03
+2016-03-01,46.398891966759,total,03
+2016-04-01,54.1666666666667,total,03
+2016-05-01,53.4435261707989,total,03
+2016-06-01,54.3478260869565,total,03
+2016-07-01,60.9756097560976,total,03
+2016-08-01,61.9760479041916,total,03
+2016-09-01,62.3475609756098,total,03
+2016-10-01,60.8150470219436,total,03
+2016-11-01,58.3577712609971,total,03
+2016-12-01,57.2625698324022,total,03
+2017-01-01,56.6765578635015,total,03
+2017-02-01,54.6178343949045,total,03
+2017-03-01,43.8080495356037,total,03
+2017-04-01,53.5714285714286,total,03
+2017-05-01,54.1543026706232,total,03
+2017-06-01,53.0523262023926,total,03
+2017-07-01,54.7965126037598,total,03
+2017-08-01,56.2682228088379,total,03
+2017-09-01,60.1369857788086,total,03
+2017-10-01,64.1428604125977,total,03
+2017-11-01,62.6099700927734,total,03
+2017-12-01,53.654972076416,total,03
+2018-01-01,58.5365867614746,total,03
+2018-02-01,54.9363059997559,total,03
+2018-03-01,53.538459777832,total,03
+2018-04-01,58.5626907348633,total,03
+2018-05-01,59.7345123291016,total,03
+2018-06-01,57.803466796875,total,03
+2018-07-01,58.9665641784668,total,03
+2018-08-01,58.5329322814941,total,03
+2018-09-01,55.1282043457031,total,03
+2018-10-01,52.3809509277344,total,03
+2018-11-01,55.4517135620117,total,03
+2018-12-01,58.3032493591309,total,03
+2019-01-01,58.1210174560547,total,03
+2019-02-01,58.4935913085938,total,03
+2019-03-01,59.6026496887207,total,03
+2019-04-01,55.8631935119629,total,03
+2019-05-01,52.9051971435547,total,03
+2019-06-01,49.8475608825684,total,03
+2019-07-01,49.1071434020996,total,03
+2019-08-01,45.238094329834,total,03
+2019-09-01,46.8023262023926,total,03
+2019-10-01,47.0031547546387,total,03
+2019-11-01,49.6987953186035,total,03
+2019-12-01,50.7716064453125,total,03
+2020-01-01,52.9239768981934,total,03
+2020-02-01,48.187313079834,total,03
+2020-03-01,21.8120803833008,total,03
+2020-04-01,9.13705539703369,total,03
+2020-05-01,14.3369178771973,total,03
+2020-06-01,28.7822875976563,total,03
+2020-07-01,34.790210723877,total,03
+2020-08-01,38.1188125610352,total,03
+2020-09-01,46.5686274509804,total,03
+2020-10-01,50.1628664495114,total,03
+2020-11-01,52.8052805280528,total,03
+2020-12-01,49.5,total,03
+2021-01-01,41.1764705882353,total,03
+2021-02-01,44.2176870748299,total,03
+2021-03-01,51.1824324324324,total,03
+2021-04-01,39.7151898734177,total,03
+2021-05-01,44.8387096774194,total,03
+2021-06-01,39.4736842105263,total,03
+2021-07-01,42.9328621908127,total,03
+2021-08-01,33.5640138408305,total,03
+2021-09-01,35,total,03
+2021-10-01,42.5182481751825,total,03
+2021-11-01,40.1079136690648,total,03
+2021-12-01,41.2213740458015,total,03
+2022-01-01,44.4816053511706,total,03
+2022-02-01,44.5205479452055,total,03
+2022-03-01,38.986013986014,total,03
+2022-04-01,34.9122807017544,total,03
+2022-05-01,36.0627177700348,total,03
+2022-06-01,34.115523465704,total,03
+2022-07-01,34.2857142857143,total,03
+2022-08-01,35.5633802816901,total,03
+2022-09-01,36.525974025974,total,03
+2022-10-01,35.7394366197183,total,03
+2022-11-01,37.9310344827586,total,03
+2022-12-01,42.3636363636364,total,03
+2023-01-01,31.8840579710145,total,03
+2023-02-01,41.4855072463768,total,03
+2008-06-01,81.2903225806452,total,12
+2008-07-01,74.9174917491749,total,12
+2008-08-01,70.6948640483384,total,12
+2008-09-01,63.5977337110482,total,12
+2008-10-01,48.9457831325301,total,12
+2008-11-01,50.1543209876543,total,12
+2008-12-01,35.4026845637584,total,12
+2009-01-01,41.6393442622951,total,12
+2009-02-01,42.4193548387097,total,12
+2009-03-01,41.522491349481,total,12
+2009-04-01,50.5190311418685,total,12
+2009-05-01,66.4451827242525,total,12
+2009-06-01,67.9442508710801,total,12
+2009-07-01,71.1832061068702,total,12
+2009-08-01,75.4716981132076,total,12
+2009-09-01,77.719298245614,total,12
+2009-10-01,79.8,total,12
+2009-11-01,81.1746987951807,total,12
+2009-12-01,84.5890410958904,total,12
+2010-01-01,86.6336633663366,total,12
+2010-02-01,85.15625,total,12
+2010-03-01,83.8487972508591,total,12
+2010-04-01,83.974358974359,total,12
+2010-05-01,79.3624161073825,total,12
+2010-06-01,81.8681318681319,total,12
+2010-07-01,80.7291666666667,total,12
+2010-08-01,77.7210884353742,total,12
+2010-09-01,77.7003484320558,total,12
+2010-10-01,78.839590443686,total,12
+2010-11-01,77.6785714285714,total,12
+2010-12-01,74.5353159851301,total,12
+2011-01-01,75.0943396226415,total,12
+2011-02-01,75.1824817518248,total,12
+2011-03-01,73.2209737827715,total,12
+2011-04-01,51.1513157894737,total,12
+2011-05-01,56.7340067340067,total,12
+2011-06-01,52.6595744680851,total,12
+2011-07-01,57.0175438596491,total,12
+2011-08-01,54.3010752688172,total,12
+2011-09-01,55.5363321799308,total,12
+2011-10-01,60.9433962264151,total,12
+2011-11-01,60.5,total,12
+2011-12-01,59.4276094276094,total,12
+2012-01-01,62.1666666666667,total,12
+2012-02-01,66.7741935483871,total,12
+2012-03-01,70.7936507936508,total,12
+2012-04-01,73.4797297297297,total,12
+2012-05-01,67.4041297935103,total,12
+2012-06-01,64.5251396648045,total,12
+2012-07-01,62.4657534246575,total,12
+2012-08-01,63.4069400630915,total,12
+2012-09-01,66.2379421221865,total,12
+2012-10-01,67.192429022082,total,12
+2012-11-01,68.3844011142061,total,12
+2012-12-01,72.5961538461538,total,12
+2013-01-01,74.6056782334385,total,12
+2013-02-01,74.5398773006135,total,12
+2013-03-01,71.9155844155844,total,12
+2013-04-01,64.4557823129252,total,12
+2013-05-01,57.4137931034483,total,12
+2013-06-01,55.4054054054054,total,12
+2013-07-01,53.6624203821656,total,12
+2013-08-01,52.2222222222222,total,12
+2013-09-01,60.6583072100314,total,12
+2013-10-01,61.5873015873016,total,12
+2013-11-01,64.1337386018237,total,12
+2013-12-01,65.7643312101911,total,12
+2014-01-01,67.0028818443804,total,12
+2014-02-01,66.1383285302594,total,12
+2014-03-01,58.6455331412104,total,12
+2014-04-01,60.9065155807365,total,12
+2014-05-01,58.9430894308943,total,12
+2014-06-01,57.8125,total,12
+2014-07-01,60.8108108108108,total,12
+2014-08-01,60.3107344632768,total,12
+2014-09-01,64.1104294478528,total,12
+2014-10-01,63.855421686747,total,12
+2014-11-01,62.9337539432177,total,12
+2014-12-01,63.1268436578171,total,12
+2015-01-01,65.1898734177215,total,12
+2015-02-01,60.5345911949686,total,12
+2015-03-01,56.0606060606061,total,12
+2015-04-01,55.5397727272727,total,12
+2015-05-01,53.8352272727273,total,12
+2015-06-01,55.4140127388535,total,12
+2015-07-01,54.0575916230367,total,12
+2015-08-01,49.2628992628993,total,12
+2015-09-01,50.6393861892583,total,12
+2015-10-01,53.1428571428572,total,12
+2015-11-01,55.1319648093842,total,12
+2015-12-01,56.0055865921788,total,12
+2016-01-01,56.0906515580737,total,12
+2016-02-01,59.0782122905028,total,12
+2016-03-01,59.5890410958904,total,12
+2016-04-01,67.5561797752809,total,12
+2016-05-01,66.5311653116531,total,12
+2016-06-01,67.9597701149425,total,12
+2016-07-01,74.5879120879121,total,12
+2016-08-01,74.7774480712166,total,12
+2016-09-01,75.0759878419453,total,12
+2016-10-01,74.3034055727554,total,12
+2016-11-01,73.1988472622478,total,12
+2016-12-01,70.1428571428572,total,12
+2017-01-01,67.9525222551929,total,12
+2017-02-01,65.9810126582278,total,12
+2017-03-01,58.0792682926829,total,12
+2017-04-01,66.3608562691131,total,12
+2017-05-01,65.2694610778443,total,12
+2017-06-01,64.6017684936523,total,12
+2017-07-01,68.6468658447266,total,12
+2017-08-01,71.044303894043,total,12
+2017-09-01,75.5663452148438,total,12
+2017-10-01,77.4509811401367,total,12
+2017-11-01,76.101692199707,total,12
+2017-12-01,68.9768981933594,total,12
+2018-01-01,70.7272720336914,total,12
+2018-02-01,63.5531120300293,total,12
+2018-03-01,66.0839157104492,total,12
+2018-04-01,69.2170791625977,total,12
+2018-05-01,70.3278656005859,total,12
+2018-06-01,68.668830871582,total,12
+2018-07-01,68.6006851196289,total,12
+2018-08-01,69.9335556030273,total,12
+2018-09-01,68.5920562744141,total,12
+2018-10-01,64.612678527832,total,12
+2018-11-01,67.7474365234375,total,12
+2018-12-01,70.2755889892578,total,12
+2019-01-01,69.4158096313477,total,12
+2019-02-01,69.5422515869141,total,12
+2019-03-01,69.9626846313477,total,12
+2019-04-01,66.9090881347656,total,12
+2019-05-01,62.7946128845215,total,12
+2019-06-01,59.3537406921387,total,12
+2019-07-01,57.9113922119141,total,12
+2019-08-01,53.3898315429688,total,12
+2019-09-01,57.4013175964355,total,12
+2019-10-01,57.4007225036621,total,12
+2019-11-01,60.4651145935059,total,12
+2019-12-01,61.4726028442383,total,12
+2020-01-01,61.3268623352051,total,12
+2020-02-01,56.7796592712402,total,12
+2020-03-01,41.544116973877,total,12
+2020-04-01,30.446928024292,total,12
+2020-05-01,38.0769233703613,total,12
+2020-06-01,53.125,total,12
+2020-07-01,53.5185203552246,total,12
+2020-08-01,57.9861106872559,total,12
+2020-09-01,66.2116040955631,total,12
+2020-10-01,68.4859154929577,total,12
+2020-11-01,69.3140794223827,total,12
+2020-12-01,65.4255319148936,total,12
+2021-01-01,61.1111111111111,total,12
+2021-02-01,60.7272727272727,total,12
+2021-03-01,65.6363636363636,total,12
+2021-04-01,51.551724137931,total,12
+2021-05-01,55,total,12
+2021-06-01,47.0472440944882,total,12
+2021-07-01,47.962962962963,total,12
+2021-08-01,43.4782608695652,total,12
+2021-09-01,44.5283018867925,total,12
+2021-10-01,50.968992248062,total,12
+2021-11-01,47.3180076628352,total,12
+2021-12-01,48.6166007905138,total,12
+2022-01-01,55.1056338028169,total,12
+2022-02-01,52.7272727272727,total,12
+2022-03-01,46.6911764705882,total,12
+2022-04-01,40.2621722846442,total,12
+2022-05-01,42.2794117647059,total,12
+2022-06-01,40.4580152671756,total,12
+2022-07-01,42.9924242424242,total,12
+2022-08-01,42.6415094339623,total,12
+2022-09-01,42.8571428571428,total,12
+2022-10-01,43.4944237918216,total,12
+2022-11-01,43.3212996389892,total,12
+2022-12-01,53.9772727272727,total,12
+2023-01-01,46.6292134831461,total,12
+2023-02-01,51.8867924528302,total,12
+2010-01-01,68.4210526315789,mineria,03
+2010-02-01,70.5882352941176,mineria,03
+2010-03-01,60,mineria,03
+2010-04-01,76.6666666666667,mineria,03
+2010-05-01,62.5,mineria,03
+2010-06-01,69.2307692307692,mineria,03
+2010-07-01,67.8571428571429,mineria,03
+2010-08-01,61.7647058823529,mineria,03
+2010-09-01,71.875,mineria,03
+2010-10-01,75,mineria,03
+2010-11-01,68.75,mineria,03
+2010-12-01,69.2307692307692,mineria,03
+2011-01-01,61.5384615384615,mineria,03
+2011-02-01,50,mineria,03
+2011-03-01,53.125,mineria,03
+2011-04-01,31.25,mineria,03
+2011-05-01,46.4285714285714,mineria,03
+2011-06-01,34.375,mineria,03
+2011-07-01,43.3333333333333,mineria,03
+2011-08-01,27.7777777777778,mineria,03
+2011-09-01,37.5,mineria,03
+2011-10-01,46.6666666666667,mineria,03
+2011-11-01,53.125,mineria,03
+2011-12-01,42.5,mineria,03
+2012-01-01,42.5,mineria,03
+2012-02-01,52.7777777777778,mineria,03
+2012-03-01,54.5454545454545,mineria,03
+2012-04-01,59.375,mineria,03
+2012-05-01,52.3809523809524,mineria,03
+2012-06-01,52.1739130434783,mineria,03
+2012-07-01,52.1739130434783,mineria,03
+2012-08-01,46.4285714285714,mineria,03
+2012-09-01,52.9411764705882,mineria,03
+2012-10-01,57.8947368421053,mineria,03
+2012-11-01,57.1428571428571,mineria,03
+2012-12-01,57.5,mineria,03
+2013-01-01,60,mineria,03
+2013-02-01,60.5263157894737,mineria,03
+2013-03-01,64.7058823529412,mineria,03
+2013-04-01,47.5,mineria,03
+2013-05-01,40,mineria,03
+2013-06-01,45,mineria,03
+2013-07-01,28.5714285714286,mineria,03
+2013-08-01,30,mineria,03
+2013-09-01,44.1176470588235,mineria,03
+2013-10-01,41.6666666666667,mineria,03
+2013-11-01,40.4761904761905,mineria,03
+2013-12-01,47.0588235294118,mineria,03
+2014-01-01,47.5,mineria,03
+2014-02-01,44.1176470588235,mineria,03
+2014-03-01,40.4761904761905,mineria,03
+2014-04-01,47.2222222222222,mineria,03
+2014-05-01,42.1052631578947,mineria,03
+2014-06-01,47.0588235294118,mineria,03
+2014-07-01,52.6315789473684,mineria,03
+2014-08-01,39.4736842105263,mineria,03
+2014-09-01,47.3684210526316,mineria,03
+2014-10-01,50,mineria,03
+2014-11-01,42.1052631578947,mineria,03
+2014-12-01,50,mineria,03
+2015-01-01,47.6190476190476,mineria,03
+2015-02-01,47.3684210526316,mineria,03
+2015-03-01,44,mineria,03
+2015-04-01,40,mineria,03
+2015-05-01,38.6363636363636,mineria,03
+2015-06-01,50,mineria,03
+2015-07-01,42.3076923076923,mineria,03
+2015-08-01,44.4444444444444,mineria,03
+2015-09-01,38.8888888888889,mineria,03
+2015-10-01,34.7826086956522,mineria,03
+2015-11-01,44,mineria,03
+2015-12-01,42.5,mineria,03
+2016-01-01,32.6086956521739,mineria,03
+2016-02-01,46,mineria,03
+2016-03-01,43.75,mineria,03
+2016-04-01,47.8260869565217,mineria,03
+2016-05-01,42.8571428571429,mineria,03
+2016-06-01,50,mineria,03
+2016-07-01,52.1739130434783,mineria,03
+2016-08-01,61.3636363636364,mineria,03
+2016-09-01,60.8695652173913,mineria,03
+2016-10-01,60,mineria,03
+2016-11-01,52.5,mineria,03
+2016-12-01,50,mineria,03
+2017-01-01,52.2727272727273,mineria,03
+2017-02-01,59.5238095238095,mineria,03
+2017-03-01,34.7826086956522,mineria,03
+2017-04-01,50,mineria,03
+2017-05-01,56.25,mineria,03
+2017-06-01,50,mineria,03
+2017-07-01,47.6190476190476,mineria,03
+2017-08-01,59.0909090909091,mineria,03
+2017-09-01,54.5454545454545,mineria,03
+2017-10-01,63.0434782608696,mineria,03
+2017-11-01,52.6315789473684,mineria,03
+2017-12-01,47.6190476190476,mineria,03
+2018-01-01,47.5,mineria,03
+2018-02-01,52.2727272727273,mineria,03
+2018-03-01,55.8823529411765,mineria,03
+2018-04-01,61.1111111111111,mineria,03
+2018-05-01,52.3809523809524,mineria,03
+2018-06-01,50,mineria,03
+2018-07-01,55.5555555555556,mineria,03
+2018-08-01,52.5,mineria,03
+2018-09-01,40,mineria,03
+2018-10-01,34.2105263157895,mineria,03
+2018-11-01,50,mineria,03
+2018-12-01,46.875,mineria,03
+2019-01-01,47.5,mineria,03
+2019-02-01,53.125,mineria,03
+2019-03-01,55,mineria,03
+2019-04-01,52.5,mineria,03
+2019-05-01,50,mineria,03
+2019-06-01,52.3809523809524,mineria,03
+2019-07-01,50,mineria,03
+2019-08-01,40,mineria,03
+2019-09-01,39.4736842105263,mineria,03
+2019-10-01,38.2352941176471,mineria,03
+2019-11-01,50,mineria,03
+2019-12-01,50,mineria,03
+2020-01-01,54.3478260869565,mineria,03
+2020-02-01,50,mineria,03
+2020-03-01,31.8181818181818,mineria,03
+2020-04-01,9.375,mineria,03
+2020-05-01,15.7894736842105,mineria,03
+2020-06-01,32.3529411764706,mineria,03
+2020-07-01,50,mineria,03
+2020-08-01,39.5833333333333,mineria,03
+2020-09-01,47.8260869565217,mineria,03
+2020-10-01,55.5555555555556,mineria,03
+2020-11-01,50,mineria,03
+2020-12-01,30,mineria,03
+2021-01-01,40.9090909090909,mineria,03
+2021-02-01,43.1818181818182,mineria,03
+2021-03-01,54.7619047619048,mineria,03
+2021-04-01,36.8421052631579,mineria,03
+2021-05-01,37.5,mineria,03
+2021-06-01,35,mineria,03
+2021-07-01,37.5,mineria,03
+2021-08-01,26.4705882352941,mineria,03
+2021-09-01,34.2105263157895,mineria,03
+2021-10-01,40,mineria,03
+2021-11-01,22.9166666666667,mineria,03
+2021-12-01,45,mineria,03
+2022-01-01,37.5,mineria,03
+2022-02-01,45.6521739130435,mineria,03
+2022-03-01,32,mineria,03
+2022-04-01,31.8181818181818,mineria,03
+2022-05-01,39.1304347826087,mineria,03
+2022-06-01,33.3333333333333,mineria,03
+2022-07-01,29.1666666666667,mineria,03
+2022-08-01,32.6086956521739,mineria,03
+2022-09-01,30.4347826086957,mineria,03
+2022-10-01,37.5,mineria,03
+2022-11-01,30.9523809523809,mineria,03
+2022-12-01,45.4545454545455,mineria,03
+2023-01-01,30,mineria,03
+2023-02-01,28.5714285714286,mineria,03
+2010-01-01,86.8421052631579,mineria,12
+2010-02-01,82.3529411764706,mineria,12
+2010-03-01,80,mineria,12
+2010-04-01,83.3333333333333,mineria,12
+2010-05-01,68.75,mineria,12
+2010-06-01,80.7692307692308,mineria,12
+2010-07-01,85.7142857142857,mineria,12
+2010-08-01,70.5882352941176,mineria,12
+2010-09-01,71.875,mineria,12
+2010-10-01,73.3333333333333,mineria,12
+2010-11-01,64.7058823529412,mineria,12
+2010-12-01,65.3846153846154,mineria,12
+2011-01-01,65.3846153846154,mineria,12
+2011-02-01,53.125,mineria,12
+2011-03-01,61.7647058823529,mineria,12
+2011-04-01,25,mineria,12
+2011-05-01,53.8461538461538,mineria,12
+2011-06-01,40.625,mineria,12
+2011-07-01,36.6666666666667,mineria,12
+2011-08-01,36.1111111111111,mineria,12
+2011-09-01,35,mineria,12
+2011-10-01,40,mineria,12
+2011-11-01,43.75,mineria,12
+2011-12-01,42.1052631578947,mineria,12
+2012-01-01,45,mineria,12
+2012-02-01,63.8888888888889,mineria,12
+2012-03-01,65.9090909090909,mineria,12
+2012-04-01,68.75,mineria,12
+2012-05-01,57.1428571428571,mineria,12
+2012-06-01,58.695652173913,mineria,12
+2012-07-01,65.2173913043478,mineria,12
+2012-08-01,53.5714285714286,mineria,12
+2012-09-01,62.5,mineria,12
+2012-10-01,50,mineria,12
+2012-11-01,57.1428571428571,mineria,12
+2012-12-01,60,mineria,12
+2013-01-01,60,mineria,12
+2013-02-01,60.5263157894737,mineria,12
+2013-03-01,55.8823529411765,mineria,12
+2013-04-01,42.5,mineria,12
+2013-05-01,50,mineria,12
+2013-06-01,50,mineria,12
+2013-07-01,35.7142857142857,mineria,12
+2013-08-01,33.3333333333333,mineria,12
+2013-09-01,53.125,mineria,12
+2013-10-01,44.4444444444444,mineria,12
+2013-11-01,54.7619047619048,mineria,12
+2013-12-01,52.9411764705882,mineria,12
+2014-01-01,52.2727272727273,mineria,12
+2014-02-01,55.8823529411765,mineria,12
+2014-03-01,45,mineria,12
+2014-04-01,52.9411764705882,mineria,12
+2014-05-01,42.1052631578947,mineria,12
+2014-06-01,58.8235294117647,mineria,12
+2014-07-01,60.5263157894737,mineria,12
+2014-08-01,55.2631578947368,mineria,12
+2014-09-01,52.6315789473684,mineria,12
+2014-10-01,60,mineria,12
+2014-11-01,63.1578947368421,mineria,12
+2014-12-01,65.7894736842105,mineria,12
+2015-01-01,52.3809523809524,mineria,12
+2015-02-01,45.2380952380952,mineria,12
+2015-03-01,48,mineria,12
+2015-04-01,52.6315789473684,mineria,12
+2015-05-01,52.2727272727273,mineria,12
+2015-06-01,54.5454545454545,mineria,12
+2015-07-01,51.9230769230769,mineria,12
+2015-08-01,51.8518518518518,mineria,12
+2015-09-01,44.4444444444444,mineria,12
+2015-10-01,54.5454545454545,mineria,12
+2015-11-01,48,mineria,12
+2015-12-01,42.5,mineria,12
+2016-01-01,45.6521739130435,mineria,12
+2016-02-01,53.8461538461538,mineria,12
+2016-03-01,50,mineria,12
+2016-04-01,58.3333333333333,mineria,12
+2016-05-01,57.1428571428571,mineria,12
+2016-06-01,65.7894736842105,mineria,12
+2016-07-01,65.2173913043478,mineria,12
+2016-08-01,70.4545454545455,mineria,12
+2016-09-01,77.0833333333333,mineria,12
+2016-10-01,75,mineria,12
+2016-11-01,72.5,mineria,12
+2016-12-01,65.2173913043478,mineria,12
+2017-01-01,63.6363636363636,mineria,12
+2017-02-01,62.5,mineria,12
+2017-03-01,50,mineria,12
+2017-04-01,56.25,mineria,12
+2017-05-01,56.25,mineria,12
+2017-06-01,55,mineria,12
+2017-07-01,55.2631578947368,mineria,12
+2017-08-01,65,mineria,12
+2017-09-01,62.5,mineria,12
+2017-10-01,80,mineria,12
+2017-11-01,67.8571428571429,mineria,12
+2017-12-01,55.2631578947368,mineria,12
+2018-01-01,63.1578947368421,mineria,12
+2018-02-01,62.5,mineria,12
+2018-03-01,66.6666666666667,mineria,12
+2018-04-01,70,mineria,12
+2018-05-01,66.6666666666667,mineria,12
+2018-06-01,61.7647058823529,mineria,12
+2018-07-01,62.5,mineria,12
+2018-08-01,58.3333333333333,mineria,12
+2018-09-01,56.25,mineria,12
+2018-10-01,55.5555555555556,mineria,12
+2018-11-01,70,mineria,12
+2018-12-01,60,mineria,12
+2019-01-01,63.1578947368421,mineria,12
+2019-02-01,60.7142857142857,mineria,12
+2019-03-01,67.5,mineria,12
+2019-04-01,71.0526315789474,mineria,12
+2019-05-01,64.7058823529412,mineria,12
+2019-06-01,60.5263157894737,mineria,12
+2019-07-01,61.1111111111111,mineria,12
+2019-08-01,52.9411764705882,mineria,12
+2019-09-01,58.8235294117647,mineria,12
+2019-10-01,56.6666666666667,mineria,12
+2019-11-01,63.8888888888889,mineria,12
+2019-12-01,61.1111111111111,mineria,12
+2020-01-01,61.3636363636364,mineria,12
+2020-02-01,62.5,mineria,12
+2020-03-01,33.3333333333333,mineria,12
+2020-04-01,43.3333333333333,mineria,12
+2020-05-01,35.2941176470588,mineria,12
+2020-06-01,61.7647058823529,mineria,12
+2020-07-01,66.6666666666667,mineria,12
+2020-08-01,54.5454545454545,mineria,12
+2020-09-01,65.2173913043478,mineria,12
+2020-10-01,65.625,mineria,12
+2020-11-01,58.3333333333333,mineria,12
+2020-12-01,47.5,mineria,12
+2021-01-01,57.1428571428571,mineria,12
+2021-02-01,52.3809523809524,mineria,12
+2021-03-01,62.5,mineria,12
+2021-04-01,34.2105263157895,mineria,12
+2021-05-01,47.5,mineria,12
+2021-06-01,39.4736842105263,mineria,12
+2021-07-01,32.5,mineria,12
+2021-08-01,35.2941176470588,mineria,12
+2021-09-01,36.1111111111111,mineria,12
+2021-10-01,37.5,mineria,12
+2021-11-01,33.3333333333333,mineria,12
+2021-12-01,45,mineria,12
+2022-01-01,37.5,mineria,12
+2022-02-01,52.1739130434783,mineria,12
+2022-03-01,44,mineria,12
+2022-04-01,33.3333333333333,mineria,12
+2022-05-01,36.3636363636364,mineria,12
+2022-06-01,36.1111111111111,mineria,12
+2022-07-01,39.5833333333333,mineria,12
+2022-08-01,36.9565217391304,mineria,12
+2022-09-01,30.9523809523809,mineria,12
+2022-10-01,40,mineria,12
+2022-11-01,40,mineria,12
+2022-12-01,45,mineria,12
+2023-01-01,42.1052631578947,mineria,12
+2023-02-01,40,mineria,12
+2010-01-01,69.758064516129,manufactura,03
+2010-02-01,71.3178294573643,manufactura,03
+2010-03-01,70,manufactura,03
+2010-04-01,73.2824427480916,manufactura,03
+2010-05-01,69.4214876033058,manufactura,03
+2010-06-01,73.2142857142857,manufactura,03
+2010-07-01,70.1680672268908,manufactura,03
+2010-08-01,72.8346456692913,manufactura,03
+2010-09-01,72.8,manufactura,03
+2010-10-01,69.6850393700787,manufactura,03
+2010-11-01,67.9824561403509,manufactura,03
+2010-12-01,68.3760683760684,manufactura,03
+2011-01-01,65.4867256637168,manufactura,03
+2011-02-01,65.1260504201681,manufactura,03
+2011-03-01,65.3153153153153,manufactura,03
+2011-04-01,47.6377952755905,manufactura,03
+2011-05-01,46.031746031746,manufactura,03
+2011-06-01,48.2456140350877,manufactura,03
+2011-07-01,52.1739130434783,manufactura,03
+2011-08-01,49.5726495726496,manufactura,03
+2011-09-01,54.5454545454545,manufactura,03
+2011-10-01,57.2072072072072,manufactura,03
+2011-11-01,55.241935483871,manufactura,03
+2011-12-01,54.9180327868852,manufactura,03
+2012-01-01,54.9180327868852,manufactura,03
+2012-02-01,56.5891472868217,manufactura,03
+2012-03-01,61.6935483870968,manufactura,03
+2012-04-01,62.9166666666667,manufactura,03
+2012-05-01,57.7519379844961,manufactura,03
+2012-06-01,55.0387596899225,manufactura,03
+2012-07-01,55.078125,manufactura,03
+2012-08-01,58.0188679245283,manufactura,03
+2012-09-01,61.1607142857143,manufactura,03
+2012-10-01,63.6363636363636,manufactura,03
+2012-11-01,63.4146341463415,manufactura,03
+2012-12-01,62.7272727272727,manufactura,03
+2013-01-01,62.8440366972477,manufactura,03
+2013-02-01,63.0630630630631,manufactura,03
+2013-03-01,61.9266055045872,manufactura,03
+2013-04-01,56.6037735849057,manufactura,03
+2013-05-01,53.921568627451,manufactura,03
+2013-06-01,48.5849056603774,manufactura,03
+2013-07-01,50.9708737864078,manufactura,03
+2013-08-01,42.8571428571429,manufactura,03
+2013-09-01,56.5656565656566,manufactura,03
+2013-10-01,54.0540540540541,manufactura,03
+2013-11-01,53.3653846153846,manufactura,03
+2013-12-01,56.4356435643564,manufactura,03
+2014-01-01,55.607476635514,manufactura,03
+2014-02-01,62.1739130434783,manufactura,03
+2014-03-01,55.9090909090909,manufactura,03
+2014-04-01,53.5087719298246,manufactura,03
+2014-05-01,53.9473684210526,manufactura,03
+2014-06-01,47.7477477477478,manufactura,03
+2014-07-01,46.2264150943396,manufactura,03
+2014-08-01,48.2142857142857,manufactura,03
+2014-09-01,54.3269230769231,manufactura,03
+2014-10-01,49.0990990990991,manufactura,03
+2014-11-01,53.3980582524272,manufactura,03
+2014-12-01,51.8348623853211,manufactura,03
+2015-01-01,54.6296296296296,manufactura,03
+2015-02-01,52.7027027027027,manufactura,03
+2015-03-01,52.9411764705882,manufactura,03
+2015-04-01,48.4615384615385,manufactura,03
+2015-05-01,47.8102189781022,manufactura,03
+2015-06-01,51.8939393939394,manufactura,03
+2015-07-01,48.9655172413793,manufactura,03
+2015-08-01,42.9487179487179,manufactura,03
+2015-09-01,44.5578231292517,manufactura,03
+2015-10-01,47.9020979020979,manufactura,03
+2015-11-01,45.0354609929078,manufactura,03
+2015-12-01,45.6834532374101,manufactura,03
+2016-01-01,44.6043165467626,manufactura,03
+2016-02-01,46.830985915493,manufactura,03
+2016-03-01,47.0802919708029,manufactura,03
+2016-04-01,54,manufactura,03
+2016-05-01,53.6496350364963,manufactura,03
+2016-06-01,53.4351145038168,manufactura,03
+2016-07-01,56.9852941176471,manufactura,03
+2016-08-01,56.3492063492063,manufactura,03
+2016-09-01,60.9848484848485,manufactura,03
+2016-10-01,59.0163934426229,manufactura,03
+2016-11-01,57.9545454545455,manufactura,03
+2016-12-01,56.7164179104478,manufactura,03
+2017-01-01,55.2845528455285,manufactura,03
+2017-02-01,53.3613445378151,manufactura,03
+2017-03-01,43.1623931623932,manufactura,03
+2017-04-01,53.3834586466166,manufactura,03
+2017-05-01,54.8951048951049,manufactura,03
+2017-06-01,54.7297297297297,manufactura,03
+2017-07-01,53.7931034482759,manufactura,03
+2017-08-01,57.4468085106383,manufactura,03
+2017-09-01,61.1464968152866,manufactura,03
+2017-10-01,64.2857142857143,manufactura,03
+2017-11-01,65.1724137931034,manufactura,03
+2017-12-01,53.7931034482759,manufactura,03
+2018-01-01,59.469696969697,manufactura,03
+2018-02-01,56.5384615384615,manufactura,03
+2018-03-01,54.3478260869565,manufactura,03
+2018-04-01,58.695652173913,manufactura,03
+2018-05-01,60.3896103896104,manufactura,03
+2018-06-01,58.4967320261438,manufactura,03
+2018-07-01,58.4507042253521,manufactura,03
+2018-08-01,55.7823129251701,manufactura,03
+2018-09-01,53.125,manufactura,03
+2018-10-01,52.962962962963,manufactura,03
+2018-11-01,54.1666666666667,manufactura,03
+2018-12-01,56.5040650406504,manufactura,03
+2019-01-01,59.469696969697,manufactura,03
+2019-02-01,59.9290780141844,manufactura,03
+2019-03-01,60.2272727272727,manufactura,03
+2019-04-01,54.5454545454545,manufactura,03
+2019-05-01,52.6845637583893,manufactura,03
+2019-06-01,51.4184397163121,manufactura,03
+2019-07-01,50.354609929078,manufactura,03
+2019-08-01,44.0559440559441,manufactura,03
+2019-09-01,46.1538461538462,manufactura,03
+2019-10-01,46.1832061068702,manufactura,03
+2019-11-01,49.3055555555556,manufactura,03
+2019-12-01,51.1450381679389,manufactura,03
+2020-01-01,50.3846153846154,manufactura,03
+2020-02-01,48.5185185185185,manufactura,03
+2020-03-01,25.4716981132076,manufactura,03
+2020-04-01,7.14285714285715,manufactura,03
+2020-05-01,15.0943396226415,manufactura,03
+2020-06-01,29.2792792792793,manufactura,03
+2020-07-01,37.9464285714286,manufactura,03
+2020-08-01,40.5172413793103,manufactura,03
+2020-09-01,50,manufactura,03
+2020-10-01,48.7903225806452,manufactura,03
+2020-11-01,55.0420168067227,manufactura,03
+2020-12-01,52.1929824561403,manufactura,03
+2021-01-01,43.9252336448598,manufactura,03
+2021-02-01,45.8333333333333,manufactura,03
+2021-03-01,49.5726495726496,manufactura,03
+2021-04-01,41.1290322580645,manufactura,03
+2021-05-01,45.8677685950413,manufactura,03
+2021-06-01,41.0891089108911,manufactura,03
+2021-07-01,42.5233644859813,manufactura,03
+2021-08-01,34.070796460177,manufactura,03
+2021-09-01,35.2678571428571,manufactura,03
+2021-10-01,46.6981132075472,manufactura,03
+2021-11-01,44.5454545454545,manufactura,03
+2021-12-01,40.7766990291262,manufactura,03
+2022-01-01,47.0588235294118,manufactura,03
+2022-02-01,47.7064220183486,manufactura,03
+2022-03-01,41.9811320754717,manufactura,03
+2022-04-01,39.1089108910891,manufactura,03
+2022-05-01,39.5238095238095,manufactura,03
+2022-06-01,40.7766990291262,manufactura,03
+2022-07-01,37.1287128712871,manufactura,03
+2022-08-01,39.7058823529412,manufactura,03
+2022-09-01,37.6106194690266,manufactura,03
+2022-10-01,36.6666666666667,manufactura,03
+2022-11-01,37.5,manufactura,03
+2022-12-01,40.1041666666667,manufactura,03
+2023-01-01,33.3333333333333,manufactura,03
+2023-02-01,42.8571428571429,manufactura,03
+2010-01-01,85.4838709677419,manufactura,12
+2010-02-01,86.4341085271318,manufactura,12
+2010-03-01,85.593220338983,manufactura,12
+2010-04-01,82.6923076923077,manufactura,12
+2010-05-01,77.6859504132232,manufactura,12
+2010-06-01,81.981981981982,manufactura,12
+2010-07-01,77.3109243697479,manufactura,12
+2010-08-01,77.4193548387097,manufactura,12
+2010-09-01,76.2096774193548,manufactura,12
+2010-10-01,77.1653543307087,manufactura,12
+2010-11-01,78.3185840707965,manufactura,12
+2010-12-01,75.4237288135593,manufactura,12
+2011-01-01,76.9911504424779,manufactura,12
+2011-02-01,76.25,manufactura,12
+2011-03-01,71.4285714285714,manufactura,12
+2011-04-01,51.9685039370079,manufactura,12
+2011-05-01,56.0483870967742,manufactura,12
+2011-06-01,50.8771929824561,manufactura,12
+2011-07-01,57.8260869565217,manufactura,12
+2011-08-01,50.8695652173913,manufactura,12
+2011-09-01,55,manufactura,12
+2011-10-01,57.7272727272727,manufactura,12
+2011-11-01,56.4516129032258,manufactura,12
+2011-12-01,55.8333333333333,manufactura,12
+2012-01-01,57.3170731707317,manufactura,12
+2012-02-01,63.5658914728682,manufactura,12
+2012-03-01,67.479674796748,manufactura,12
+2012-04-01,70.4166666666667,manufactura,12
+2012-05-01,63.5658914728682,manufactura,12
+2012-06-01,61.8110236220472,manufactura,12
+2012-07-01,60.15625,manufactura,12
+2012-08-01,58.9622641509434,manufactura,12
+2012-09-01,64.6017699115044,manufactura,12
+2012-10-01,67.8899082568807,manufactura,12
+2012-11-01,63.6363636363636,manufactura,12
+2012-12-01,68.8073394495413,manufactura,12
+2013-01-01,72.9357798165138,manufactura,12
+2013-02-01,70.2702702702703,manufactura,12
+2013-03-01,69.4444444444444,manufactura,12
+2013-04-01,61.9047619047619,manufactura,12
+2013-05-01,55.940594059406,manufactura,12
+2013-06-01,52.3584905660377,manufactura,12
+2013-07-01,52.4038461538462,manufactura,12
+2013-08-01,50,manufactura,12
+2013-09-01,56.7307692307692,manufactura,12
+2013-10-01,56.0747663551402,manufactura,12
+2013-11-01,61.8811881188119,manufactura,12
+2013-12-01,63.4020618556701,manufactura,12
+2014-01-01,64.9532710280374,manufactura,12
+2014-02-01,64.9122807017544,manufactura,12
+2014-03-01,55.9633027522936,manufactura,12
+2014-04-01,56.25,manufactura,12
+2014-05-01,57.8947368421053,manufactura,12
+2014-06-01,53.6036036036036,manufactura,12
+2014-07-01,54.8543689320388,manufactura,12
+2014-08-01,57.1428571428571,manufactura,12
+2014-09-01,62.5,manufactura,12
+2014-10-01,60.3603603603604,manufactura,12
+2014-11-01,57.6190476190476,manufactura,12
+2014-12-01,60.2678571428571,manufactura,12
+2015-01-01,66.9811320754717,manufactura,12
+2015-02-01,61.3636363636364,manufactura,12
+2015-03-01,59.8360655737705,manufactura,12
+2015-04-01,55.7251908396947,manufactura,12
+2015-05-01,55.1470588235294,manufactura,12
+2015-06-01,55.4263565891473,manufactura,12
+2015-07-01,55.9027777777778,manufactura,12
+2015-08-01,49.3630573248408,manufactura,12
+2015-09-01,51.6891891891892,manufactura,12
+2015-10-01,53.1914893617021,manufactura,12
+2015-11-01,53.2846715328467,manufactura,12
+2015-12-01,56.4748201438849,manufactura,12
+2016-01-01,55.1094890510949,manufactura,12
+2016-02-01,56.4285714285714,manufactura,12
+2016-03-01,59.2198581560284,manufactura,12
+2016-04-01,64.3939393939394,manufactura,12
+2016-05-01,63.6363636363636,manufactura,12
+2016-06-01,65.530303030303,manufactura,12
+2016-07-01,69.7080291970803,manufactura,12
+2016-08-01,70.7317073170732,manufactura,12
+2016-09-01,71.8045112781955,manufactura,12
+2016-10-01,71.031746031746,manufactura,12
+2016-11-01,69.6969696969697,manufactura,12
+2016-12-01,70.3846153846154,manufactura,12
+2017-01-01,68.4426229508197,manufactura,12
+2017-02-01,62.8099173553719,manufactura,12
+2017-03-01,57.5,manufactura,12
+2017-04-01,66.4179104477612,manufactura,12
+2017-05-01,66.5492957746479,manufactura,12
+2017-06-01,67.1328671328671,manufactura,12
+2017-07-01,68.8,manufactura,12
+2017-08-01,72.3577235772358,manufactura,12
+2017-09-01,74.21875,manufactura,12
+2017-10-01,77.3809523809524,manufactura,12
+2017-11-01,77.5590551181102,manufactura,12
+2017-12-01,68.8,manufactura,12
+2018-01-01,70.4166666666667,manufactura,12
+2018-02-01,65.1785714285714,manufactura,12
+2018-03-01,63.4453781512605,manufactura,12
+2018-04-01,69.3548387096774,manufactura,12
+2018-05-01,70.2205882352941,manufactura,12
+2018-06-01,65.9420289855072,manufactura,12
+2018-07-01,66.6666666666667,manufactura,12
+2018-08-01,67.6691729323308,manufactura,12
+2018-09-01,66.9354838709677,manufactura,12
+2018-10-01,65.0406504065041,manufactura,12
+2018-11-01,65.3543307086614,manufactura,12
+2018-12-01,68.018018018018,manufactura,12
+2019-01-01,70.4166666666667,manufactura,12
+2019-02-01,68.8976377952756,manufactura,12
+2019-03-01,70.6140350877193,manufactura,12
+2019-04-01,66.9491525423729,manufactura,12
+2019-05-01,62.1212121212121,manufactura,12
+2019-06-01,60.4838709677419,manufactura,12
+2019-07-01,59.6153846153846,manufactura,12
+2019-08-01,53.2258064516129,manufactura,12
+2019-09-01,55.1587301587302,manufactura,12
+2019-10-01,54.8245614035088,manufactura,12
+2019-11-01,58.7301587301587,manufactura,12
+2019-12-01,60.1694915254237,manufactura,12
+2020-01-01,58.4070796460177,manufactura,12
+2020-02-01,57.2033898305085,manufactura,12
+2020-03-01,42.5531914893617,manufactura,12
+2020-04-01,28.90625,manufactura,12
+2020-05-01,40.5263157894737,manufactura,12
+2020-06-01,54.3689320388349,manufactura,12
+2020-07-01,56.7307692307692,manufactura,12
+2020-08-01,63.302752293578,manufactura,12
+2020-09-01,68.75,manufactura,12
+2020-10-01,70.5357142857143,manufactura,12
+2020-11-01,72.6415094339623,manufactura,12
+2020-12-01,66.6666666666667,manufactura,12
+2021-01-01,63.9175257731959,manufactura,12
+2021-02-01,65.4639175257732,manufactura,12
+2021-03-01,66.2037037037037,manufactura,12
+2021-04-01,54.5045045045045,manufactura,12
+2021-05-01,56.8181818181818,manufactura,12
+2021-06-01,50.531914893617,manufactura,12
+2021-07-01,48.5148514851485,manufactura,12
+2021-08-01,45.045045045045,manufactura,12
+2021-09-01,43.75,manufactura,12
+2021-10-01,51.5463917525773,manufactura,12
+2021-11-01,51.5151515151515,manufactura,12
+2021-12-01,50,manufactura,12
+2022-01-01,58.0357142857143,manufactura,12
+2022-02-01,55.3398058252427,manufactura,12
+2022-03-01,47.979797979798,manufactura,12
+2022-04-01,45.7894736842105,manufactura,12
+2022-05-01,44.3877551020408,manufactura,12
+2022-06-01,40.8163265306122,manufactura,12
+2022-07-01,43.6842105263158,manufactura,12
+2022-08-01,45.7446808510638,manufactura,12
+2022-09-01,46.7289719626168,manufactura,12
+2022-10-01,42.4242424242424,manufactura,12
+2022-11-01,42.2330097087379,manufactura,12
+2022-12-01,52.1505376344086,manufactura,12
+2023-01-01,45.5882352941176,manufactura,12
+2023-02-01,48.9583333333333,manufactura,12
+2010-01-01,75,construccion,03
+2010-02-01,76.0869565217391,construccion,03
+2010-03-01,77.2727272727273,construccion,03
+2010-04-01,73.8095238095238,construccion,03
+2010-05-01,72.5,construccion,03
+2010-06-01,73.5294117647059,construccion,03
+2010-07-01,73.8095238095238,construccion,03
+2010-08-01,77.7777777777778,construccion,03
+2010-09-01,71.0526315789474,construccion,03
+2010-10-01,69.4444444444444,construccion,03
+2010-11-01,76.4705882352941,construccion,03
+2010-12-01,63.3333333333333,construccion,03
+2011-01-01,68.75,construccion,03
+2011-02-01,68.4210526315789,construccion,03
+2011-03-01,68.4210526315789,construccion,03
+2011-04-01,43.1818181818182,construccion,03
+2011-05-01,55,construccion,03
+2011-06-01,47.7272727272727,construccion,03
+2011-07-01,52.9411764705882,construccion,03
+2011-08-01,52.3809523809524,construccion,03
+2011-09-01,60.5263157894737,construccion,03
+2011-10-01,61.7647058823529,construccion,03
+2011-11-01,65,construccion,03
+2011-12-01,67.5,construccion,03
+2012-01-01,65,construccion,03
+2012-02-01,61.1111111111111,construccion,03
+2012-03-01,63.8888888888889,construccion,03
+2012-04-01,63.8888888888889,construccion,03
+2012-05-01,62.5,construccion,03
+2012-06-01,65,construccion,03
+2012-07-01,66.0714285714286,construccion,03
+2012-08-01,61.2903225806452,construccion,03
+2012-09-01,71.4285714285714,construccion,03
+2012-10-01,74.0740740740741,construccion,03
+2012-11-01,72.8571428571428,construccion,03
+2012-12-01,72.2222222222222,construccion,03
+2013-01-01,75,construccion,03
+2013-02-01,68.5185185185185,construccion,03
+2013-03-01,74.0740740740741,construccion,03
+2013-04-01,75,construccion,03
+2013-05-01,70.5882352941176,construccion,03
+2013-06-01,60,construccion,03
+2013-07-01,50,construccion,03
+2013-08-01,58.3333333333333,construccion,03
+2013-09-01,56.5217391304348,construccion,03
+2013-10-01,53.3333333333333,construccion,03
+2013-11-01,62.9032258064516,construccion,03
+2013-12-01,68.75,construccion,03
+2014-01-01,67.5675675675676,construccion,03
+2014-02-01,67.1052631578947,construccion,03
+2014-03-01,57.5,construccion,03
+2014-04-01,53.030303030303,construccion,03
+2014-05-01,54.7619047619048,construccion,03
+2014-06-01,56.9444444444444,construccion,03
+2014-07-01,55.7142857142857,construccion,03
+2014-08-01,48.8636363636364,construccion,03
+2014-09-01,57.1428571428571,construccion,03
+2014-10-01,54.5454545454545,construccion,03
+2014-11-01,56.4516129032258,construccion,03
+2014-12-01,55.5555555555556,construccion,03
+2015-01-01,52.4390243902439,construccion,03
+2015-02-01,50,construccion,03
+2015-03-01,52.7027027027027,construccion,03
+2015-04-01,48.6842105263158,construccion,03
+2015-05-01,47.3684210526316,construccion,03
+2015-06-01,47.2222222222222,construccion,03
+2015-07-01,50,construccion,03
+2015-08-01,40.7894736842105,construccion,03
+2015-09-01,38.4615384615385,construccion,03
+2015-10-01,37.8048780487805,construccion,03
+2015-11-01,47.2222222222222,construccion,03
+2015-12-01,38.8888888888889,construccion,03
+2016-01-01,35.7142857142857,construccion,03
+2016-02-01,38.5714285714286,construccion,03
+2016-03-01,44.4444444444444,construccion,03
+2016-04-01,47.0588235294118,construccion,03
+2016-05-01,44.8717948717949,construccion,03
+2016-06-01,46.969696969697,construccion,03
+2016-07-01,57.3170731707317,construccion,03
+2016-08-01,60.8108108108108,construccion,03
+2016-09-01,56.0606060606061,construccion,03
+2016-10-01,57.1428571428571,construccion,03
+2016-11-01,52.5,construccion,03
+2016-12-01,48.6486486486487,construccion,03
+2017-01-01,54.1666666666667,construccion,03
+2017-02-01,47.2222222222222,construccion,03
+2017-03-01,46.875,construccion,03
+2017-04-01,54.8387096774194,construccion,03
+2017-05-01,51.7857142857143,construccion,03
+2017-06-01,46.2962962962963,construccion,03
+2017-07-01,46.2962962962963,construccion,03
+2017-08-01,43.75,construccion,03
+2017-09-01,44.4444444444444,construccion,03
+2017-10-01,55.7692307692308,construccion,03
+2017-11-01,54,construccion,03
+2017-12-01,46.2962962962963,construccion,03
+2018-01-01,42.8571428571429,construccion,03
+2018-02-01,42.3076923076923,construccion,03
+2018-03-01,39.2857142857143,construccion,03
+2018-04-01,46.1538461538462,construccion,03
+2018-05-01,50,construccion,03
+2018-06-01,42.5925925925926,construccion,03
+2018-07-01,48.2758620689655,construccion,03
+2018-08-01,44.4444444444444,construccion,03
+2018-09-01,47.9166666666667,construccion,03
+2018-10-01,36.5384615384615,construccion,03
+2018-11-01,40.7407407407407,construccion,03
+2018-12-01,44.7368421052632,construccion,03
+2019-01-01,42.8571428571429,construccion,03
+2019-02-01,47.7272727272727,construccion,03
+2019-03-01,47.7272727272727,construccion,03
+2019-04-01,44.2307692307692,construccion,03
+2019-05-01,47.9166666666667,construccion,03
+2019-06-01,34,construccion,03
+2019-07-01,39.2857142857143,construccion,03
+2019-08-01,33.9285714285714,construccion,03
+2019-09-01,37.9310344827586,construccion,03
+2019-10-01,37.5,construccion,03
+2019-11-01,39.2857142857143,construccion,03
+2019-12-01,45.8333333333333,construccion,03
+2020-01-01,46.551724137931,construccion,03
+2020-02-01,41.3793103448276,construccion,03
+2020-03-01,12.5,construccion,03
+2020-04-01,0,construccion,03
+2020-05-01,14,construccion,03
+2020-06-01,14.5833333333333,construccion,03
+2020-07-01,22.9166666666667,construccion,03
+2020-08-01,25,construccion,03
+2020-09-01,31.25,construccion,03
+2020-10-01,38,construccion,03
+2020-11-01,30.4347826086957,construccion,03
+2020-12-01,36.9565217391304,construccion,03
+2021-01-01,30.3571428571429,construccion,03
+2021-02-01,37.037037037037,construccion,03
+2021-03-01,44.6428571428572,construccion,03
+2021-04-01,30.7692307692308,construccion,03
+2021-05-01,28,construccion,03
+2021-06-01,36.9565217391304,construccion,03
+2021-07-01,30.7692307692308,construccion,03
+2021-08-01,26,construccion,03
+2021-09-01,22.9166666666667,construccion,03
+2021-10-01,31.8181818181818,construccion,03
+2021-11-01,22.7272727272727,construccion,03
+2021-12-01,20,construccion,03
+2022-01-01,29.5454545454546,construccion,03
+2022-02-01,25,construccion,03
+2022-03-01,32.6923076923077,construccion,03
+2022-04-01,26,construccion,03
+2022-05-01,27.0833333333333,construccion,03
+2022-06-01,29.1666666666667,construccion,03
+2022-07-01,30,construccion,03
+2022-08-01,32.3529411764706,construccion,03
+2022-09-01,32.6086956521739,construccion,03
+2022-10-01,21.4285714285714,construccion,03
+2022-11-01,32.5,construccion,03
+2022-12-01,38.0952380952381,construccion,03
+2023-01-01,27.5,construccion,03
+2023-02-01,39.4736842105263,construccion,03
+2010-01-01,87.5,construccion,12
+2010-02-01,84.0909090909091,construccion,12
+2010-03-01,79.5454545454545,construccion,12
+2010-04-01,80.9523809523809,construccion,12
+2010-05-01,83.3333333333333,construccion,12
+2010-06-01,82.3529411764706,construccion,12
+2010-07-01,83.3333333333333,construccion,12
+2010-08-01,77.7777777777778,construccion,12
+2010-09-01,75,construccion,12
+2010-10-01,84.2105263157895,construccion,12
+2010-11-01,83.3333333333333,construccion,12
+2010-12-01,76.6666666666667,construccion,12
+2011-01-01,81.25,construccion,12
+2011-02-01,78.9473684210526,construccion,12
+2011-03-01,76.3157894736842,construccion,12
+2011-04-01,52.3809523809524,construccion,12
+2011-05-01,60.5263157894737,construccion,12
+2011-06-01,67.5,construccion,12
+2011-07-01,58.3333333333333,construccion,12
+2011-08-01,54.7619047619048,construccion,12
+2011-09-01,63.1578947368421,construccion,12
+2011-10-01,66.6666666666667,construccion,12
+2011-11-01,77.5,construccion,12
+2011-12-01,62.5,construccion,12
+2012-01-01,67.5,construccion,12
+2012-02-01,66.6666666666667,construccion,12
+2012-03-01,61.1111111111111,construccion,12
+2012-04-01,73.5294117647059,construccion,12
+2012-05-01,67.5,construccion,12
+2012-06-01,67.5,construccion,12
+2012-07-01,73.2142857142857,construccion,12
+2012-08-01,72.5806451612903,construccion,12
+2012-09-01,73.2142857142857,construccion,12
+2012-10-01,74.0740740740741,construccion,12
+2012-11-01,75.7142857142857,construccion,12
+2012-12-01,81.4814814814815,construccion,12
+2013-01-01,81.8181818181818,construccion,12
+2013-02-01,77.7777777777778,construccion,12
+2013-03-01,77.7777777777778,construccion,12
+2013-04-01,72.7272727272727,construccion,12
+2013-05-01,70.5882352941176,construccion,12
+2013-06-01,62,construccion,12
+2013-07-01,51.7857142857143,construccion,12
+2013-08-01,54.1666666666667,construccion,12
+2013-09-01,65.2173913043478,construccion,12
+2013-10-01,65,construccion,12
+2013-11-01,75.8064516129032,construccion,12
+2013-12-01,69.6969696969697,construccion,12
+2014-01-01,68.9189189189189,construccion,12
+2014-02-01,73.0769230769231,construccion,12
+2014-03-01,69.7368421052632,construccion,12
+2014-04-01,72.5806451612903,construccion,12
+2014-05-01,65.8536585365854,construccion,12
+2014-06-01,63.8888888888889,construccion,12
+2014-07-01,68.5714285714286,construccion,12
+2014-08-01,58.3333333333333,construccion,12
+2014-09-01,70.8333333333333,construccion,12
+2014-10-01,69.6969696969697,construccion,12
+2014-11-01,68.3333333333333,construccion,12
+2014-12-01,71.4285714285714,construccion,12
+2015-01-01,63.4146341463415,construccion,12
+2015-02-01,63.1578947368421,construccion,12
+2015-03-01,53.9473684210526,construccion,12
+2015-04-01,56.4102564102564,construccion,12
+2015-05-01,52.7027027027027,construccion,12
+2015-06-01,56.9444444444444,construccion,12
+2015-07-01,58.974358974359,construccion,12
+2015-08-01,46.1538461538462,construccion,12
+2015-09-01,46.0526315789474,construccion,12
+2015-10-01,48.7179487179487,construccion,12
+2015-11-01,60,construccion,12
+2015-12-01,54.0540540540541,construccion,12
+2016-01-01,54.1666666666667,construccion,12
+2016-02-01,61.4285714285714,construccion,12
+2016-03-01,62.5,construccion,12
+2016-04-01,72.0588235294118,construccion,12
+2016-05-01,67.5,construccion,12
+2016-06-01,70.8333333333333,construccion,12
+2016-07-01,79.4871794871795,construccion,12
+2016-08-01,73.0769230769231,construccion,12
+2016-09-01,81.8181818181818,construccion,12
+2016-10-01,81.4285714285714,construccion,12
+2016-11-01,75.609756097561,construccion,12
+2016-12-01,68.9189189189189,construccion,12
+2017-01-01,71.6216216216216,construccion,12
+2017-02-01,66.6666666666667,construccion,12
+2017-03-01,64.0625,construccion,12
+2017-04-01,65,construccion,12
+2017-05-01,62.5,construccion,12
+2017-06-01,57.4074074074074,construccion,12
+2017-07-01,62.5,construccion,12
+2017-08-01,59.6774193548387,construccion,12
+2017-09-01,72.9166666666667,construccion,12
+2017-10-01,77.0833333333333,construccion,12
+2017-11-01,77.5,construccion,12
+2017-12-01,62.5,construccion,12
+2018-01-01,54,construccion,12
+2018-02-01,59.0909090909091,construccion,12
+2018-03-01,54,construccion,12
+2018-04-01,57.1428571428571,construccion,12
+2018-05-01,60.8695652173913,construccion,12
+2018-06-01,65.2173913043478,construccion,12
+2018-07-01,55.7692307692308,construccion,12
+2018-08-01,63.6363636363636,construccion,12
+2018-09-01,73.8095238095238,construccion,12
+2018-10-01,57.5,construccion,12
+2018-11-01,62,construccion,12
+2018-12-01,66.6666666666667,construccion,12
+2019-01-01,54,construccion,12
+2019-02-01,50,construccion,12
+2019-03-01,61.1111111111111,construccion,12
+2019-04-01,57.5,construccion,12
+2019-05-01,52.5,construccion,12
+2019-06-01,40.9090909090909,construccion,12
+2019-07-01,46.1538461538462,construccion,12
+2019-08-01,45.8333333333333,construccion,12
+2019-09-01,50,construccion,12
+2019-10-01,50,construccion,12
+2019-11-01,58.3333333333333,construccion,12
+2019-12-01,59.5238095238095,construccion,12
+2020-01-01,60,construccion,12
+2020-02-01,57.5,construccion,12
+2020-03-01,27.2727272727273,construccion,12
+2020-04-01,30,construccion,12
+2020-05-01,23.9130434782609,construccion,12
+2020-06-01,39.1304347826087,construccion,12
+2020-07-01,45.8333333333333,construccion,12
+2020-08-01,41.6666666666667,construccion,12
+2020-09-01,56.5217391304348,construccion,12
+2020-10-01,59.5238095238095,construccion,12
+2020-11-01,57.1428571428571,construccion,12
+2020-12-01,50,construccion,12
+2021-01-01,41.6666666666667,construccion,12
+2021-02-01,48.0769230769231,construccion,12
+2021-03-01,62.5,construccion,12
+2021-04-01,42,construccion,12
+2021-05-01,41.6666666666667,construccion,12
+2021-06-01,43.1818181818182,construccion,12
+2021-07-01,39.5833333333333,construccion,12
+2021-08-01,33.3333333333333,construccion,12
+2021-09-01,32.6086956521739,construccion,12
+2021-10-01,45,construccion,12
+2021-11-01,40,construccion,12
+2021-12-01,44.4444444444444,construccion,12
+2022-01-01,39.4736842105263,construccion,12
+2022-02-01,40.4761904761905,construccion,12
+2022-03-01,36.9565217391304,construccion,12
+2022-04-01,32.5,construccion,12
+2022-05-01,40.4761904761905,construccion,12
+2022-06-01,43.1818181818182,construccion,12
+2022-07-01,36.1111111111111,construccion,12
+2022-08-01,46.6666666666667,construccion,12
+2022-09-01,35,construccion,12
+2022-10-01,36.1111111111111,construccion,12
+2022-11-01,38.2352941176471,construccion,12
+2022-12-01,52.7777777777778,construccion,12
+2023-01-01,38.2352941176471,construccion,12
+2023-02-01,47.0588235294118,construccion,12
+2010-01-01,75.9259259259259,comercio,03
+2010-02-01,70.4918032786885,comercio,03
+2010-03-01,71.6981132075472,comercio,03
+2010-04-01,75,comercio,03
+2010-05-01,72.3214285714286,comercio,03
+2010-06-01,74.5098039215686,comercio,03
+2010-07-01,66.1016949152542,comercio,03
+2010-08-01,67.7966101694915,comercio,03
+2010-09-01,64.8148148148148,comercio,03
+2010-10-01,70.7547169811321,comercio,03
+2010-11-01,71.6981132075472,comercio,03
+2010-12-01,66.3461538461538,comercio,03
+2011-01-01,64.2857142857143,comercio,03
+2011-02-01,67.3076923076923,comercio,03
+2011-03-01,61.5384615384615,comercio,03
+2011-04-01,46.7213114754098,comercio,03
+2011-05-01,53.5087719298246,comercio,03
+2011-06-01,48.2142857142857,comercio,03
+2011-07-01,46.09375,comercio,03
+2011-08-01,53.3898305084746,comercio,03
+2011-09-01,50.8064516129032,comercio,03
+2011-10-01,59.8214285714286,comercio,03
+2011-11-01,55.6451612903226,comercio,03
+2011-12-01,50.8196721311475,comercio,03
+2012-01-01,61.1111111111111,comercio,03
+2012-02-01,60.4477611940298,comercio,03
+2012-03-01,65.3333333333333,comercio,03
+2012-04-01,64.7058823529412,comercio,03
+2012-05-01,59.0909090909091,comercio,03
+2012-06-01,57.2222222222222,comercio,03
+2012-07-01,55.421686746988,comercio,03
+2012-08-01,58.2089552238806,comercio,03
+2012-09-01,55.3030303030303,comercio,03
+2012-10-01,58.9041095890411,comercio,03
+2012-11-01,61.3924050632911,comercio,03
+2012-12-01,64.5833333333333,comercio,03
+2013-01-01,68.75,comercio,03
+2013-02-01,69.5652173913043,comercio,03
+2013-03-01,61.1940298507463,comercio,03
+2013-04-01,56.5573770491803,comercio,03
+2013-05-01,50,comercio,03
+2013-06-01,47.7611940298507,comercio,03
+2013-07-01,51.3513513513513,comercio,03
+2013-08-01,49.3421052631579,comercio,03
+2013-09-01,48.8095238095238,comercio,03
+2013-10-01,55.7971014492754,comercio,03
+2013-11-01,50,comercio,03
+2013-12-01,59.5588235294118,comercio,03
+2014-01-01,58.8607594936709,comercio,03
+2014-02-01,57.4324324324324,comercio,03
+2014-03-01,52.2058823529412,comercio,03
+2014-04-01,53.4246575342466,comercio,03
+2014-05-01,55.6962025316456,comercio,03
+2014-06-01,47.5903614457831,comercio,03
+2014-07-01,53.5714285714286,comercio,03
+2014-08-01,49.2307692307692,comercio,03
+2014-09-01,52.2388059701493,comercio,03
+2014-10-01,52.8985507246377,comercio,03
+2014-11-01,50,comercio,03
+2014-12-01,53.5211267605634,comercio,03
+2015-01-01,54.6875,comercio,03
+2015-02-01,49.2857142857143,comercio,03
+2015-03-01,49.2424242424242,comercio,03
+2015-04-01,43.3333333333333,comercio,03
+2015-05-01,47.2602739726027,comercio,03
+2015-06-01,51.8072289156626,comercio,03
+2015-07-01,48.1012658227848,comercio,03
+2015-08-01,42.7710843373494,comercio,03
+2015-09-01,45.7317073170732,comercio,03
+2015-10-01,47.887323943662,comercio,03
+2015-11-01,43.8271604938272,comercio,03
+2015-12-01,50.7246376811594,comercio,03
+2016-01-01,43.8356164383562,comercio,03
+2016-02-01,50.6756756756757,comercio,03
+2016-03-01,46.7105263157895,comercio,03
+2016-04-01,55.8441558441558,comercio,03
+2016-05-01,58.3333333333333,comercio,03
+2016-06-01,54.2857142857143,comercio,03
+2016-07-01,66.8604651162791,comercio,03
+2016-08-01,62.1621621621622,comercio,03
+2016-09-01,64.4736842105263,comercio,03
+2016-10-01,62.6760563380282,comercio,03
+2016-11-01,60.2941176470588,comercio,03
+2016-12-01,57.8571428571428,comercio,03
+2017-01-01,58.4415584415584,comercio,03
+2017-02-01,57.9710144927536,comercio,03
+2017-03-01,50,comercio,03
+2017-04-01,50,comercio,03
+2017-05-01,52.9411764705882,comercio,03
+2017-06-01,53.2258064516129,comercio,03
+2017-07-01,58.8235294117647,comercio,03
+2017-08-01,56.8181818181818,comercio,03
+2017-09-01,66.6666666666667,comercio,03
+2017-10-01,65.2777777777778,comercio,03
+2017-11-01,64.2857142857143,comercio,03
+2017-12-01,58.8235294117647,comercio,03
+2018-01-01,64.6153846153846,comercio,03
+2018-02-01,59.3220338983051,comercio,03
+2018-03-01,57.03125,comercio,03
+2018-04-01,61.71875,comercio,03
+2018-05-01,61.1111111111111,comercio,03
+2018-06-01,57.6923076923077,comercio,03
+2018-07-01,64.1666666666667,comercio,03
+2018-08-01,71.2121212121212,comercio,03
+2018-09-01,64.0350877192982,comercio,03
+2018-10-01,62.0967741935484,comercio,03
+2018-11-01,61.7647058823529,comercio,03
+2018-12-01,68.4210526315789,comercio,03
+2019-01-01,64.6153846153846,comercio,03
+2019-02-01,63.28125,comercio,03
+2019-03-01,65.0793650793651,comercio,03
+2019-04-01,61.2068965517241,comercio,03
+2019-05-01,56.5573770491803,comercio,03
+2019-06-01,50.7575757575758,comercio,03
+2019-07-01,51.3698630136986,comercio,03
+2019-08-01,50.7142857142857,comercio,03
+2019-09-01,52.5974025974026,comercio,03
+2019-10-01,54.1666666666667,comercio,03
+2019-11-01,53.90625,comercio,03
+2019-12-01,52.8571428571429,comercio,03
+2020-01-01,58.2191780821918,comercio,03
+2020-02-01,50,comercio,03
+2020-03-01,25,comercio,03
+2020-04-01,17.1052631578947,comercio,03
+2020-05-01,14.1666666666667,comercio,03
+2020-06-01,31.8181818181818,comercio,03
+2020-07-01,31.5789473684211,comercio,03
+2020-08-01,45.3846153846154,comercio,03
+2020-09-01,45.4545454545455,comercio,03
+2020-10-01,52.9850746268657,comercio,03
+2020-11-01,57.3529411764706,comercio,03
+2020-12-01,52.8985507246377,comercio,03
+2021-01-01,40.4761904761905,comercio,03
+2021-02-01,44.6153846153846,comercio,03
+2021-03-01,56.140350877193,comercio,03
+2021-04-01,40.9722222222222,comercio,03
+2021-05-01,47.8260869565217,comercio,03
+2021-06-01,40.6779661016949,comercio,03
+2021-07-01,46.875,comercio,03
+2021-08-01,36.2903225806452,comercio,03
+2021-09-01,36.4406779661017,comercio,03
+2021-10-01,41.5254237288136,comercio,03
+2021-11-01,45,comercio,03
+2021-12-01,47.2222222222222,comercio,03
+2022-01-01,49.2307692307692,comercio,03
+2022-02-01,46.6101694915254,comercio,03
+2022-03-01,44.9152542372881,comercio,03
+2022-04-01,40.625,comercio,03
+2022-05-01,36.1538461538462,comercio,03
+2022-06-01,31.0344827586207,comercio,03
+2022-07-01,39.84375,comercio,03
+2022-08-01,35.3846153846154,comercio,03
+2022-09-01,37.3239436619718,comercio,03
+2022-10-01,37.0967741935484,comercio,03
+2022-11-01,40.625,comercio,03
+2022-12-01,44.9152542372881,comercio,03
+2023-01-01,33.6065573770492,comercio,03
+2023-02-01,41.1290322580645,comercio,03
+2010-01-01,85.4545454545455,comercio,12
+2010-02-01,83.0508474576271,comercio,12
+2010-03-01,77.8846153846154,comercio,12
+2010-04-01,84.9056603773585,comercio,12
+2010-05-01,80.3571428571429,comercio,12
+2010-06-01,79.8076923076923,comercio,12
+2010-07-01,78.5714285714286,comercio,12
+2010-08-01,75.4237288135593,comercio,12
+2010-09-01,78.1818181818182,comercio,12
+2010-10-01,79.2452830188679,comercio,12
+2010-11-01,77.3584905660377,comercio,12
+2010-12-01,71.6981132075472,comercio,12
+2011-01-01,69.3877551020408,comercio,12
+2011-02-01,75,comercio,12
+2011-03-01,75.9615384615385,comercio,12
+2011-04-01,54.0983606557377,comercio,12
+2011-05-01,55.2631578947368,comercio,12
+2011-06-01,52.6785714285714,comercio,12
+2011-07-01,56.25,comercio,12
+2011-08-01,60.3448275862069,comercio,12
+2011-09-01,56.4516129032258,comercio,12
+2011-10-01,59.8214285714286,comercio,12
+2011-11-01,60.4838709677419,comercio,12
+2011-12-01,56.6666666666667,comercio,12
+2012-01-01,66.1290322580645,comercio,12
+2012-02-01,65.9090909090909,comercio,12
+2012-03-01,74.3421052631579,comercio,12
+2012-04-01,75.7352941176471,comercio,12
+2012-05-01,68.8311688311688,comercio,12
+2012-06-01,65.5555555555556,comercio,12
+2012-07-01,60.9756097560976,comercio,12
+2012-08-01,62.8787878787879,comercio,12
+2012-09-01,63.4328358208955,comercio,12
+2012-10-01,66.4383561643836,comercio,12
+2012-11-01,68.5897435897436,comercio,12
+2012-12-01,74.6478873239437,comercio,12
+2013-01-01,73.5714285714286,comercio,12
+2013-02-01,75.3623188405797,comercio,12
+2013-03-01,70.1492537313433,comercio,12
+2013-04-01,62.5,comercio,12
+2013-05-01,57.2463768115942,comercio,12
+2013-06-01,54.4776119402985,comercio,12
+2013-07-01,56.0810810810811,comercio,12
+2013-08-01,56.4102564102564,comercio,12
+2013-09-01,61.3095238095238,comercio,12
+2013-10-01,69.5652173913043,comercio,12
+2013-11-01,62.3376623376623,comercio,12
+2013-12-01,71.4285714285714,comercio,12
+2014-01-01,70.625,comercio,12
+2014-02-01,67.8082191780822,comercio,12
+2014-03-01,60.8695652173913,comercio,12
+2014-04-01,63.8888888888889,comercio,12
+2014-05-01,65.8227848101266,comercio,12
+2014-06-01,61.3095238095238,comercio,12
+2014-07-01,67.1428571428572,comercio,12
+2014-08-01,66.1538461538461,comercio,12
+2014-09-01,64.3939393939394,comercio,12
+2014-10-01,65.4411764705882,comercio,12
+2014-11-01,63.8461538461538,comercio,12
+2014-12-01,64.4927536231884,comercio,12
+2015-01-01,69.53125,comercio,12
+2015-02-01,57.9710144927536,comercio,12
+2015-03-01,53.7878787878788,comercio,12
+2015-04-01,52.7397260273973,comercio,12
+2015-05-01,59.1549295774648,comercio,12
+2015-06-01,55.952380952381,comercio,12
+2015-07-01,53.1645569620253,comercio,12
+2015-08-01,48.2352941176471,comercio,12
+2015-09-01,53.75,comercio,12
+2015-10-01,59.4202898550725,comercio,12
+2015-11-01,58.5365853658536,comercio,12
+2015-12-01,58.2089552238806,comercio,12
+2016-01-01,62.5,comercio,12
+2016-02-01,65.5405405405405,comercio,12
+2016-03-01,58.7837837837838,comercio,12
+2016-04-01,69.4805194805195,comercio,12
+2016-05-01,69.6428571428571,comercio,12
+2016-06-01,72.1428571428571,comercio,12
+2016-07-01,79.1666666666667,comercio,12
+2016-08-01,76.3157894736842,comercio,12
+2016-09-01,78.6666666666667,comercio,12
+2016-10-01,75.3623188405797,comercio,12
+2016-11-01,77.8571428571429,comercio,12
+2016-12-01,69.7183098591549,comercio,12
+2017-01-01,68.8311688311688,comercio,12
+2017-02-01,69.0140845070423,comercio,12
+2017-03-01,59.1549295774648,comercio,12
+2017-04-01,65.9090909090909,comercio,12
+2017-05-01,63.4328358208955,comercio,12
+2017-06-01,64.84375,comercio,12
+2017-07-01,72.9508196721311,comercio,12
+2017-08-01,74.5901639344262,comercio,12
+2017-09-01,79.6875,comercio,12
+2017-10-01,78.3333333333333,comercio,12
+2017-11-01,74.1666666666667,comercio,12
+2017-12-01,72.9508196721311,comercio,12
+2018-01-01,74.5901639344262,comercio,12
+2018-02-01,59.5744680851064,comercio,12
+2018-03-01,71.6981132075472,comercio,12
+2018-04-01,68.3673469387755,comercio,12
+2018-05-01,73.2142857142857,comercio,12
+2018-06-01,69.4444444444444,comercio,12
+2018-07-01,74.5283018867924,comercio,12
+2018-08-01,80,comercio,12
+2018-09-01,74.468085106383,comercio,12
+2018-10-01,68.8679245283019,comercio,12
+2018-11-01,75,comercio,12
+2018-12-01,76.9230769230769,comercio,12
+2019-01-01,74.5901639344262,comercio,12
+2019-02-01,77.1186440677966,comercio,12
+2019-03-01,71.0526315789474,comercio,12
+2019-04-01,71.1538461538462,comercio,12
+2019-05-01,69.0909090909091,comercio,12
+2019-06-01,60.7142857142857,comercio,12
+2019-07-01,57.8571428571428,comercio,12
+2019-08-01,60.655737704918,comercio,12
+2019-09-01,57.9710144927536,comercio,12
+2019-10-01,59.375,comercio,12
+2019-11-01,66.1290322580645,comercio,12
+2019-12-01,61.71875,comercio,12
+2020-01-01,66.1538461538461,comercio,12
+2020-02-01,57.258064516129,comercio,12
+2020-03-01,51.7857142857143,comercio,12
+2020-04-01,37.8378378378378,comercio,12
+2020-05-01,42.3728813559322,comercio,12
+2020-06-01,55.7692307692308,comercio,12
+2020-07-01,54.6296296296296,comercio,12
+2020-08-01,63.7096774193548,comercio,12
+2020-09-01,67.1875,comercio,12
+2020-10-01,68.1818181818182,comercio,12
+2020-11-01,70.6349206349206,comercio,12
+2020-12-01,68.4615384615385,comercio,12
+2021-01-01,61.9047619047619,comercio,12
+2021-02-01,65.3225806451613,comercio,12
+2021-03-01,67.2727272727273,comercio,12
+2021-04-01,55.3030303030303,comercio,12
+2021-05-01,57.8125,comercio,12
+2021-06-01,47.3684210526316,comercio,12
+2021-07-01,52.4193548387097,comercio,12
+2021-08-01,46.551724137931,comercio,12
+2021-09-01,50.8771929824561,comercio,12
+2021-10-01,54.3103448275862,comercio,12
+2021-11-01,52.6785714285714,comercio,12
+2021-12-01,50.9615384615385,comercio,12
+2022-01-01,57.9365079365079,comercio,12
+2022-02-01,55.5555555555556,comercio,12
+2022-03-01,53.5714285714286,comercio,12
+2022-04-01,45.1612903225806,comercio,12
+2022-05-01,45.1612903225806,comercio,12
+2022-06-01,44.6428571428571,comercio,12
+2022-07-01,50.8333333333333,comercio,12
+2022-08-01,43.5483870967742,comercio,12
+2022-09-01,42.0289855072464,comercio,12
+2022-10-01,43.3333333333333,comercio,12
+2022-11-01,50,comercio,12
+2022-12-01,60.5263157894737,comercio,12
+2023-01-01,54.1666666666667,comercio,12
+2023-02-01,55,comercio,12
+2010-01-01,68.6274509803922,servicios,03
+2010-02-01,70.8333333333333,servicios,03
+2010-03-01,68.5185185185185,servicios,03
+2010-04-01,70.3389830508475,servicios,03
+2010-05-01,70.5357142857143,servicios,03
+2010-06-01,76.4705882352941,servicios,03
+2010-07-01,77.3584905660377,servicios,03
+2010-08-01,69.7916666666667,servicios,03
+2010-09-01,72.2222222222222,servicios,03
+2010-10-01,70.5882352941176,servicios,03
+2010-11-01,66.6666666666667,servicios,03
+2010-12-01,65.9090909090909,servicios,03
+2011-01-01,68.8888888888889,servicios,03
+2011-02-01,64.4736842105263,servicios,03
+2011-03-01,63.0952380952381,servicios,03
+2011-04-01,47.1698113207547,servicios,03
+2011-05-01,50.8771929824561,servicios,03
+2011-06-01,48.936170212766,servicios,03
+2011-07-01,56.25,servicios,03
+2011-08-01,59.1836734693878,servicios,03
+2011-09-01,59.0909090909091,servicios,03
+2011-10-01,62.2222222222222,servicios,03
+2011-11-01,64.0350877192982,servicios,03
+2011-12-01,64.8148148148148,servicios,03
+2012-01-01,64.4230769230769,servicios,03
+2012-02-01,67.6470588235294,servicios,03
+2012-03-01,70,servicios,03
+2012-04-01,73.5294117647059,servicios,03
+2012-05-01,64.3939393939394,servicios,03
+2012-06-01,58.0882352941177,servicios,03
+2012-07-01,55.7692307692308,servicios,03
+2012-08-01,64.6666666666667,servicios,03
+2012-09-01,64.2857142857143,servicios,03
+2012-10-01,66.1764705882353,servicios,03
+2012-11-01,67.3076923076923,servicios,03
+2012-12-01,65.8333333333333,servicios,03
+2013-01-01,68.75,servicios,03
+2013-02-01,69.620253164557,servicios,03
+2013-03-01,66.4285714285714,servicios,03
+2013-04-01,65.9090909090909,servicios,03
+2013-05-01,58.955223880597,servicios,03
+2013-06-01,54.1666666666667,servicios,03
+2013-07-01,53.4722222222222,servicios,03
+2013-08-01,52.0833333333333,servicios,03
+2013-09-01,57.258064516129,servicios,03
+2013-10-01,56.9444444444444,servicios,03
+2013-11-01,60,servicios,03
+2013-12-01,60.5263157894737,servicios,03
+2014-01-01,64.6666666666667,servicios,03
+2014-02-01,60.625,servicios,03
+2014-03-01,56.0975609756098,servicios,03
+2014-04-01,58.3333333333333,servicios,03
+2014-05-01,50,servicios,03
+2014-06-01,53.0864197530864,servicios,03
+2014-07-01,51.8292682926829,servicios,03
+2014-08-01,50,servicios,03
+2014-09-01,56.4935064935065,servicios,03
+2014-10-01,60,servicios,03
+2014-11-01,64.1891891891892,servicios,03
+2014-12-01,53.8461538461538,servicios,03
+2015-01-01,56,servicios,03
+2015-02-01,50.6849315068493,servicios,03
+2015-03-01,41.7808219178082,servicios,03
+2015-04-01,48.876404494382,servicios,03
+2015-05-01,42.3529411764706,servicios,03
+2015-06-01,48.2142857142857,servicios,03
+2015-07-01,45.2941176470588,servicios,03
+2015-08-01,43.2291666666667,servicios,03
+2015-09-01,45.3488372093023,servicios,03
+2015-10-01,45.8333333333333,servicios,03
+2015-11-01,46.4705882352941,servicios,03
+2015-12-01,42.1348314606742,servicios,03
+2016-01-01,44.8051948051948,servicios,03
+2016-02-01,47.4358974358974,servicios,03
+2016-03-01,46.3855421686747,servicios,03
+2016-04-01,56.0975609756098,servicios,03
+2016-05-01,56.5217391304348,servicios,03
+2016-06-01,61.1111111111111,servicios,03
+2016-07-01,64.7435897435898,servicios,03
+2016-08-01,67.2839506172839,servicios,03
+2016-09-01,63.9240506329114,servicios,03
+2016-10-01,66.1764705882353,servicios,03
+2016-11-01,62.987012987013,servicios,03
+2016-12-01,63.75,servicios,03
+2017-01-01,57.0588235294118,servicios,03
+2017-02-01,53.7878787878788,servicios,03
+2017-03-01,37.3239436619718,servicios,03
+2017-04-01,56.9230769230769,servicios,03
+2017-05-01,52.1739130434783,servicios,03
+2017-06-01,52.7777777777778,servicios,03
+2017-07-01,53.2258064516129,servicios,03
+2017-08-01,57.2463768115942,servicios,03
+2017-09-01,58.8235294117647,servicios,03
+2017-10-01,66.1764705882353,servicios,03
+2017-11-01,62.1212121212121,servicios,03
+2017-12-01,53.2258064516129,servicios,03
+2018-01-01,58.9285714285714,servicios,03
+2018-02-01,53.90625,servicios,03
+2018-03-01,54.0322580645161,servicios,03
+2018-04-01,58.4615384615385,servicios,03
+2018-05-01,61.864406779661,servicios,03
+2018-06-01,64.6153846153846,servicios,03
+2018-07-01,59.5238095238095,servicios,03
+2018-08-01,57.6271186440678,servicios,03
+2018-09-01,57.0175438596491,servicios,03
+2018-10-01,50.8474576271186,servicios,03
+2018-11-01,56.8627450980392,servicios,03
+2018-12-01,59,servicios,03
+2019-01-01,58.9285714285714,servicios,03
+2019-02-01,56.0344827586207,servicios,03
+2019-03-01,58.6538461538462,servicios,03
+2019-04-01,58.9285714285714,servicios,03
+2019-05-01,51.6949152542373,servicios,03
+2019-06-01,51.6393442622951,servicios,03
+2019-07-01,48.3050847457627,servicios,03
+2019-08-01,48.3333333333333,servicios,03
+2019-09-01,46.7741935483871,servicios,03
+2019-10-01,46.551724137931,servicios,03
+2019-11-01,49.1803278688525,servicios,03
+2019-12-01,48.4375,servicios,03
+2020-01-01,55.7971014492754,servicios,03
+2020-02-01,47.6190476190476,servicios,03
+2020-03-01,13.8888888888889,servicios,03
+2020-04-01,7.77777777777778,servicios,03
+2020-05-01,11.6071428571429,servicios,03
+2020-06-01,30,servicios,03
+2020-07-01,29.6610169491525,servicios,03
+2020-08-01,30.8333333333333,servicios,03
+2020-09-01,41.2280701754386,servicios,03
+2020-10-01,50,servicios,03
+2020-11-01,50.8620689655172,servicios,03
+2020-12-01,48.2758620689655,servicios,03
+2021-01-01,42.4528301886792,servicios,03
+2021-02-01,43.75,servicios,03
+2021-03-01,50.8620689655172,servicios,03
+2021-04-01,41.2280701754386,servicios,03
+2021-05-01,47.4576271186441,servicios,03
+2021-06-01,35.8490566037736,servicios,03
+2021-07-01,46.1538461538462,servicios,03
+2021-08-01,34.1666666666667,servicios,03
+2021-09-01,37.037037037037,servicios,03
+2021-10-01,38.6792452830189,servicios,03
+2021-11-01,39,servicios,03
+2021-12-01,42.4528301886792,servicios,03
+2022-01-01,39.8305084745763,servicios,03
+2022-02-01,43.4426229508197,servicios,03
+2022-03-01,33.6363636363636,servicios,03
+2022-04-01,27.6785714285714,servicios,03
+2022-05-01,33.9285714285714,servicios,03
+2022-06-01,29.8245614035088,servicios,03
+2022-07-01,27.6785714285714,servicios,03
+2022-08-01,32.5396825396825,servicios,03
+2022-09-01,37.0967741935484,servicios,03
+2022-10-01,38.7096774193548,servicios,03
+2022-11-01,42.6229508196721,servicios,03
+2022-12-01,43.5483870967742,servicios,03
+2023-01-01,28.0701754385965,servicios,03
+2023-02-01,44.2622950819672,servicios,03
+2010-01-01,87,servicios,12
+2010-02-01,83.3333333333333,servicios,12
+2010-03-01,85.8490566037736,servicios,12
+2010-04-01,85.2459016393443,servicios,12
+2010-05-01,83.9285714285714,servicios,12
+2010-06-01,85,servicios,12
+2010-07-01,88.4615384615385,servicios,12
+2010-08-01,80.2083333333333,servicios,12
+2010-09-01,81.1111111111111,servicios,12
+2010-10-01,80,servicios,12
+2010-11-01,77.6595744680851,servicios,12
+2010-12-01,75.609756097561,servicios,12
+2011-01-01,74.4444444444444,servicios,12
+2011-02-01,76.3157894736842,servicios,12
+2011-03-01,73.8095238095238,servicios,12
+2011-04-01,52.8301886792453,servicios,12
+2011-05-01,62.7272727272727,servicios,12
+2011-06-01,60.6382978723404,servicios,12
+2011-07-01,62.5,servicios,12
+2011-08-01,64.5833333333333,servicios,12
+2011-09-01,64.7727272727273,servicios,12
+2011-10-01,72.2222222222222,servicios,12
+2011-11-01,67.2413793103448,servicios,12
+2011-12-01,73.1481481481482,servicios,12
+2012-01-01,73.0769230769231,servicios,12
+2012-02-01,75.9615384615385,servicios,12
+2012-03-01,76.4705882352941,servicios,12
+2012-04-01,79.4117647058824,servicios,12
+2012-05-01,76.5151515151515,servicios,12
+2012-06-01,69.8529411764706,servicios,12
+2012-07-01,64.7435897435898,servicios,12
+2012-08-01,70.6666666666667,servicios,12
+2012-09-01,71.4285714285714,servicios,12
+2012-10-01,71.6417910447761,servicios,12
+2012-11-01,76.9230769230769,servicios,12
+2012-12-01,77.9661016949153,servicios,12
+2013-01-01,78.7671232876712,servicios,12
+2013-02-01,81.8181818181818,servicios,12
+2013-03-01,77.1428571428571,servicios,12
+2013-04-01,75,servicios,12
+2013-05-01,58.955223880597,servicios,12
+2013-06-01,59.6491228070175,servicios,12
+2013-07-01,60,servicios,12
+2013-08-01,55.7971014492754,servicios,12
+2013-09-01,67.910447761194,servicios,12
+2013-10-01,68.3098591549296,servicios,12
+2013-11-01,72.0779220779221,servicios,12
+2013-12-01,69.3333333333333,servicios,12
+2014-01-01,70.2702702702703,servicios,12
+2014-02-01,66.4556962025316,servicios,12
+2014-03-01,63.5802469135802,servicios,12
+2014-04-01,63.5869565217391,servicios,12
+2014-05-01,55.8139534883721,servicios,12
+2014-06-01,59.4936708860759,servicios,12
+2014-07-01,60.4938271604938,servicios,12
+2014-08-01,64.7727272727273,servicios,12
+2014-09-01,66.4473684210526,servicios,12
+2014-10-01,66.6666666666667,servicios,12
+2014-11-01,70,servicios,12
+2014-12-01,64.7435897435898,servicios,12
+2015-01-01,64.1891891891892,servicios,12
+2015-02-01,66.6666666666667,servicios,12
+2015-03-01,54.7945205479452,servicios,12
+2015-04-01,60.5555555555556,servicios,12
+2015-05-01,52.9069767441861,servicios,12
+2015-06-01,56.7073170731707,servicios,12
+2015-07-01,53.5294117647059,servicios,12
+2015-08-01,54.7368421052632,servicios,12
+2015-09-01,51.1363636363636,servicios,12
+2015-10-01,53.6144578313253,servicios,12
+2015-11-01,60,servicios,12
+2015-12-01,58.0459770114943,servicios,12
+2016-01-01,56.4102564102564,servicios,12
+2016-02-01,59.7402597402597,servicios,12
+2016-03-01,62.5,servicios,12
+2016-04-01,69.0476190476191,servicios,12
+2016-05-01,70.9677419354839,servicios,12
+2016-06-01,68.125,servicios,12
+2016-07-01,77.6315789473684,servicios,12
+2016-08-01,75.3012048192771,servicios,12
+2016-09-01,74.3589743589744,servicios,12
+2016-10-01,76.4285714285714,servicios,12
+2016-11-01,74.6835443037975,servicios,12
+2016-12-01,72.0779220779221,servicios,12
+2017-01-01,65.2941176470588,servicios,12
+2017-02-01,66.6666666666667,servicios,12
+2017-03-01,55.7142857142857,servicios,12
+2017-04-01,68.6567164179104,servicios,12
+2017-05-01,65,servicios,12
+2017-06-01,67.8571428571429,servicios,12
+2017-07-01,72.8813559322034,servicios,12
+2017-08-01,72.0588235294118,servicios,12
+2017-09-01,80.1587301587302,servicios,12
+2017-10-01,78.125,servicios,12
+2017-11-01,77.5,servicios,12
+2017-12-01,72.8813559322034,servicios,12
+2018-01-01,71.6981132075472,servicios,12
+2018-02-01,67.7966101694915,servicios,12
+2018-03-01,71.1864406779661,servicios,12
+2018-04-01,75.8928571428571,servicios,12
+2018-05-01,73.5849056603774,servicios,12
+2018-06-01,78.448275862069,servicios,12
+2018-07-01,71.9298245614035,servicios,12
+2018-08-01,69.811320754717,servicios,12
+2018-09-01,67.5925925925926,servicios,12
+2018-10-01,63.3928571428571,servicios,12
+2018-11-01,67,servicios,12
+2018-12-01,72.4489795918367,servicios,12
+2019-01-01,71.6981132075472,servicios,12
+2019-02-01,72.2222222222222,servicios,12
+2019-03-01,71.2765957446808,servicios,12
+2019-04-01,68.2692307692308,servicios,12
+2019-05-01,61.4035087719298,servicios,12
+2019-06-01,62.9310344827586,servicios,12
+2019-07-01,57.0175438596491,servicios,12
+2019-08-01,48.1481481481482,servicios,12
+2019-09-01,65.4545454545455,servicios,12
+2019-10-01,65.6862745098039,servicios,12
+2019-11-01,57.7586206896552,servicios,12
+2019-12-01,62.7118644067797,servicios,12
+2020-01-01,62.8787878787879,servicios,12
+2020-02-01,55.9322033898305,servicios,12
+2020-03-01,39.7058823529412,servicios,12
+2020-04-01,17.8571428571429,servicios,12
+2020-05-01,35.8490566037736,servicios,12
+2020-06-01,48.936170212766,servicios,12
+2020-07-01,43.75,servicios,12
+2020-08-01,50.8771929824561,servicios,12
+2020-09-01,63.6363636363636,servicios,12
+2020-10-01,66.9811320754717,servicios,12
+2020-11-01,69.811320754717,servicios,12
+2020-12-01,68.2692307692308,servicios,12
+2021-01-01,63.7254901960784,servicios,12
+2021-02-01,59.4339622641509,servicios,12
+2021-03-01,60.377358490566,servicios,12
+2021-04-01,50.9433962264151,servicios,12
+2021-05-01,53.5087719298246,servicios,12
+2021-06-01,44.2307692307692,servicios,12
+2021-07-01,52.0408163265306,servicios,12
+2021-08-01,45.3703703703704,servicios,12
+2021-09-01,46.078431372549,servicios,12
+2021-10-01,54.0816326530612,servicios,12
+2021-11-01,42,servicios,12
+2021-12-01,48.1132075471698,servicios,12
+2022-01-01,56.25,servicios,12
+2022-02-01,50.8928571428571,servicios,12
+2022-03-01,44.4444444444444,servicios,12
+2022-04-01,33.6538461538462,servicios,12
+2022-05-01,41.8181818181818,servicios,12
+2022-06-01,40.7407407407407,servicios,12
+2022-07-01,37.5,servicios,12
+2022-08-01,42.1052631578947,servicios,12
+2022-09-01,44.2622950819672,servicios,12
+2022-10-01,51.7241379310345,servicios,12
+2022-11-01,44.9152542372881,servicios,12
+2022-12-01,54.0983606557377,servicios,12
+2023-01-01,47.3214285714286,servicios,12
+2023-02-01,60.5263157894737,servicios,12
