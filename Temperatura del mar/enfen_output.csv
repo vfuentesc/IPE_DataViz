@@ -1,105 +1,105 @@
-Orden,Categoría,Fecha,Prob
-1,Niña Fuerte,2023-04-28,1
-1,Niña Fuerte,2023-05-12,0
-1,Niña Fuerte,2023-06-01,0
-1,Niña Fuerte,2023-06-16,0
-1,Niña Fuerte,2023-07-05,0
-1,Niña Fuerte,2023-07-21,0
-1,Niña Fuerte,2023-08-11,0
-1,Niña Fuerte,2023-08-31,0
-1,Niña Fuerte,2023-09-14,0
-1,Niña Fuerte,2023-09-29,0
-1,Niña Fuerte,2023-10-13,0
-1,Niña Fuerte,2023-10-28,0
-1,Niña Fuerte,2023-11-10,0
-2,Niña Moderada,2023-04-28,1
-2,Niña Moderada,2023-05-12,1
-2,Niña Moderada,2023-06-01,0
-2,Niña Moderada,2023-06-16,0
-2,Niña Moderada,2023-07-05,0
-2,Niña Moderada,2023-07-21,0
-2,Niña Moderada,2023-08-11,0
-2,Niña Moderada,2023-08-31,0
-2,Niña Moderada,2023-09-14,0
-2,Niña Moderada,2023-09-29,0
-2,Niña Moderada,2023-10-13,0
-2,Niña Moderada,2023-10-28,0
-2,Niña Moderada,2023-11-10,0
-3,Niña Débil,2023-04-28,5
-3,Niña Débil,2023-05-12,5
-3,Niña Débil,2023-06-01,3
-3,Niña Débil,2023-06-16,1
-3,Niña Débil,2023-07-05,1
-3,Niña Débil,2023-07-21,1
-3,Niña Débil,2023-08-11,1
-3,Niña Débil,2023-08-31,0
-3,Niña Débil,2023-09-14,0
-3,Niña Débil,2023-09-29,0
-3,Niña Débil,2023-10-13,0
-3,Niña Débil,2023-10-28,0
-3,Niña Débil,2023-11-10,0
-4,Neutro,2023-04-28,26
-4,Neutro,2023-05-12,28
-4,Neutro,2023-06-01,20
-4,Neutro,2023-06-16,11
-4,Neutro,2023-07-05,18
-4,Neutro,2023-07-21,12
-4,Neutro,2023-08-11,7
-4,Neutro,2023-08-31,1
-4,Neutro,2023-09-14,2
-4,Neutro,2023-09-29,3
-4,Neutro,2023-10-13,3
-4,Neutro,2023-10-28,0
-4,Neutro,2023-11-10,2
-5,Niño Débil,2023-04-28,33
-5,Niño Débil,2023-05-12,34
-5,Niño Débil,2023-06-01,35
-5,Niño Débil,2023-06-16,44
-5,Niño Débil,2023-07-05,37
-5,Niño Débil,2023-07-21,40
-5,Niño Débil,2023-08-11,38
-5,Niño Débil,2023-08-31,15
-5,Niño Débil,2023-09-14,16
-5,Niño Débil,2023-09-29,10
-5,Niño Débil,2023-10-13,8
-5,Niño Débil,2023-10-28,3
-5,Niño Débil,2023-11-10,14
-6,Niño Moderado,2023-04-28,24
-6,Niño Moderado,2023-05-12,23
-6,Niño Moderado,2023-06-01,33
-6,Niño Moderado,2023-06-16,38
-6,Niño Moderado,2023-07-05,33
-6,Niño Moderado,2023-07-21,35
-6,Niño Moderado,2023-08-11,40
-6,Niño Moderado,2023-08-31,58
-6,Niño Moderado,2023-09-14,56
-6,Niño Moderado,2023-09-29,51
-6,Niño Moderado,2023-10-13,55
-6,Niño Moderado,2023-10-28,47
-6,Niño Moderado,2023-11-10,41
-7,Niño Fuerte,2023-04-28,9
-7,Niño Fuerte,2023-05-12,8
-7,Niño Fuerte,2023-06-01,8
-7,Niño Fuerte,2023-06-16,5
-7,Niño Fuerte,2023-07-05,10
-7,Niño Fuerte,2023-07-21,11
-7,Niño Fuerte,2023-08-11,13
-7,Niño Fuerte,2023-08-31,25
-7,Niño Fuerte,2023-09-14,25
-7,Niño Fuerte,2023-09-29,35
-7,Niño Fuerte,2023-10-13,33
-7,Niño Fuerte,2023-10-28,49
-7,Niño Fuerte,2023-11-10,42
-8,Niño Extraordinario,2023-04-28,1
-8,Niño Extraordinario,2023-05-12,1
-8,Niño Extraordinario,2023-06-01,1
-8,Niño Extraordinario,2023-06-16,1
-8,Niño Extraordinario,2023-07-05,1
-8,Niño Extraordinario,2023-07-21,1
-8,Niño Extraordinario,2023-08-11,1
-8,Niño Extraordinario,2023-08-31,1
-8,Niño Extraordinario,2023-09-14,1
-8,Niño Extraordinario,2023-09-29,1
-8,Niño Extraordinario,2023-10-13,1
-8,Niño Extraordinario,2023-10-28,1
-8,Niño Extraordinario,2023-11-10,1
+Orden,Tipo,Categoría,Fecha,Prob
+1,Niña,Fuerte,2023-04-28,1
+1,Niña,Fuerte,2023-05-12,0
+1,Niña,Fuerte,2023-06-01,0
+1,Niña,Fuerte,2023-06-16,0
+1,Niña,Fuerte,2023-07-05,0
+1,Niña,Fuerte,2023-07-21,0
+1,Niña,Fuerte,2023-08-11,0
+1,Niña,Fuerte,2023-08-31,0
+1,Niña,Fuerte,2023-09-14,0
+1,Niña,Fuerte,2023-09-29,0
+1,Niña,Fuerte,2023-10-13,0
+1,Niña,Fuerte,2023-10-28,0
+1,Niña,Fuerte,2023-11-10,0
+2,Niña,Moderada,2023-04-28,1
+2,Niña,Moderada,2023-05-12,1
+2,Niña,Moderada,2023-06-01,0
+2,Niña,Moderada,2023-06-16,0
+2,Niña,Moderada,2023-07-05,0
+2,Niña,Moderada,2023-07-21,0
+2,Niña,Moderada,2023-08-11,0
+2,Niña,Moderada,2023-08-31,0
+2,Niña,Moderada,2023-09-14,0
+2,Niña,Moderada,2023-09-29,0
+2,Niña,Moderada,2023-10-13,0
+2,Niña,Moderada,2023-10-28,0
+2,Niña,Moderada,2023-11-10,0
+3,Niña,Débil,2023-04-28,5
+3,Niña,Débil,2023-05-12,5
+3,Niña,Débil,2023-06-01,3
+3,Niña,Débil,2023-06-16,1
+3,Niña,Débil,2023-07-05,1
+3,Niña,Débil,2023-07-21,1
+3,Niña,Débil,2023-08-11,1
+3,Niña,Débil,2023-08-31,0
+3,Niña,Débil,2023-09-14,0
+3,Niña,Débil,2023-09-29,0
+3,Niña,Débil,2023-10-13,0
+3,Niña,Débil,2023-10-28,0
+3,Niña,Débil,2023-11-10,0
+4,Niño,Neutro,2023-04-28,26
+4,Niño,Neutro,2023-05-12,28
+4,Niño,Neutro,2023-06-01,20
+4,Niño,Neutro,2023-06-16,11
+4,Niño,Neutro,2023-07-05,18
+4,Niño,Neutro,2023-07-21,12
+4,Niño,Neutro,2023-08-11,7
+4,Niño,Neutro,2023-08-31,1
+4,Niño,Neutro,2023-09-14,2
+4,Niño,Neutro,2023-09-29,3
+4,Niño,Neutro,2023-10-13,3
+4,Niño,Neutro,2023-10-28,0
+4,Niño,Neutro,2023-11-10,2
+5,Niño,Débil,2023-04-28,33
+5,Niño,Débil,2023-05-12,34
+5,Niño,Débil,2023-06-01,35
+5,Niño,Débil,2023-06-16,44
+5,Niño,Débil,2023-07-05,37
+5,Niño,Débil,2023-07-21,40
+5,Niño,Débil,2023-08-11,38
+5,Niño,Débil,2023-08-31,15
+5,Niño,Débil,2023-09-14,16
+5,Niño,Débil,2023-09-29,10
+5,Niño,Débil,2023-10-13,8
+5,Niño,Débil,2023-10-28,3
+5,Niño,Débil,2023-11-10,14
+6,Niño,Moderado,2023-04-28,24
+6,Niño,Moderado,2023-05-12,23
+6,Niño,Moderado,2023-06-01,33
+6,Niño,Moderado,2023-06-16,38
+6,Niño,Moderado,2023-07-05,33
+6,Niño,Moderado,2023-07-21,35
+6,Niño,Moderado,2023-08-11,40
+6,Niño,Moderado,2023-08-31,58
+6,Niño,Moderado,2023-09-14,56
+6,Niño,Moderado,2023-09-29,51
+6,Niño,Moderado,2023-10-13,55
+6,Niño,Moderado,2023-10-28,47
+6,Niño,Moderado,2023-11-10,41
+7,Niño,Fuerte,2023-04-28,9
+7,Niño,Fuerte,2023-05-12,8
+7,Niño,Fuerte,2023-06-01,8
+7,Niño,Fuerte,2023-06-16,5
+7,Niño,Fuerte,2023-07-05,10
+7,Niño,Fuerte,2023-07-21,11
+7,Niño,Fuerte,2023-08-11,13
+7,Niño,Fuerte,2023-08-31,25
+7,Niño,Fuerte,2023-09-14,25
+7,Niño,Fuerte,2023-09-29,35
+7,Niño,Fuerte,2023-10-13,33
+7,Niño,Fuerte,2023-10-28,49
+7,Niño,Fuerte,2023-11-10,42
+8,Niño,Extraordinario,2023-04-28,1
+8,Niño,Extraordinario,2023-05-12,1
+8,Niño,Extraordinario,2023-06-01,1
+8,Niño,Extraordinario,2023-06-16,1
+8,Niño,Extraordinario,2023-07-05,1
+8,Niño,Extraordinario,2023-07-21,1
+8,Niño,Extraordinario,2023-08-11,1
+8,Niño,Extraordinario,2023-08-31,1
+8,Niño,Extraordinario,2023-09-14,1
+8,Niño,Extraordinario,2023-09-29,1
+8,Niño,Extraordinario,2023-10-13,1
+8,Niño,Extraordinario,2023-10-28,1
+8,Niño,Extraordinario,2023-11-10,1
