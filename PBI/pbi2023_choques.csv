@@ -7,8 +7,8 @@ El Niño Costero,Agregado,-1.1,0.65
 Pérdida de confianza empresarial,Agregado,-0.3,-0.05
 Menores exportaciones no tradicionales,Agregado,-0.2,-0.3
 Menor inversión de gobiernos subnacionales,Agregado,-0.1,-0.45
-Proyectado,Agregado,-0.5,-0.6
-Potencial,BlancoP,0,2.3
+Proyectado,Agregado,-0.5,-0.55
+Potencial,BlancoP,0,2.25
 Sequías,BlancoP,2.1,2.15
 Gripe aviar,BlancoP,2,2.05
 Conflictos sociales,BlancoP,1.2,1.6
@@ -16,8 +16,8 @@ El Niño Costero,BlancoP,0.1,0.65
 Pérdida de confianza empresarial,BlancoP,0,-0.05
 Menores exportaciones no tradicionales,BlancoP,0,-0.3
 Menor inversión de gobiernos subnacionales,BlancoP,0,-0.45
-Proyectado,BlancoP,0,-0.6
-Potencial,BlancoN,0,2.3
+Proyectado,BlancoP,0,-0.55
+Potencial,BlancoN,0,2.25
 Sequías,BlancoN,0,2.15
 Gripe aviar,BlancoN,0,2.05
 Conflictos sociales,BlancoN,0,1.6
@@ -25,8 +25,8 @@ El Niño Costero,BlancoN,0,0.65
 Pérdida de confianza empresarial,BlancoN,0,-0.05
 Menores exportaciones no tradicionales,BlancoN,-0.2,-0.3
 Menor inversión de gobiernos subnacionales,BlancoN,-0.4,-0.45
-Proyectado,BlancoN,0,-0.6
-Potencial,MarginalP,2.2,2.3
+Proyectado,BlancoN,0,-0.55
+Potencial,MarginalP,2.2,2.25
 Sequías,MarginalP,0.1,2.15
 Gripe aviar,MarginalP,0.1,2.05
 Conflictos sociales,MarginalP,0.8,1.6
@@ -34,8 +34,8 @@ El Niño Costero,MarginalP,1.1,0.65
 Pérdida de confianza empresarial,MarginalP,0.1,-0.05
 Menores exportaciones no tradicionales,MarginalP,0,-0.3
 Menor inversión de gobiernos subnacionales,MarginalP,0,-0.45
-Proyectado,MarginalP,0,-0.6
-Potencial,MarginalN,0,2.3
+Proyectado,MarginalP,0,-0.55
+Potencial,MarginalN,0,2.25
 Sequías,MarginalN,0,2.15
 Gripe aviar,MarginalN,0,2.05
 Conflictos sociales,MarginalN,0,1.6
