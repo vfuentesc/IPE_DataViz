@@ -14,6 +14,7 @@ Orden,Categoría,Fecha,Prob
 1,Niña Fuerte,2023-11-10,0
 1,Niña Fuerte,2023-11-24,0
 1,Niña Fuerte,2023-12-15,0
+1,Niña Fuerte,2023-12-29,0
 2,Niña Moderada,2023-04-28,1
 2,Niña Moderada,2023-05-12,1
 2,Niña Moderada,2023-06-01,0
@@ -29,6 +30,7 @@ Orden,Categoría,Fecha,Prob
 2,Niña Moderada,2023-11-10,0
 2,Niña Moderada,2023-11-24,0
 2,Niña Moderada,2023-12-15,0
+2,Niña Moderada,2023-12-29,0
 3,Niña Débil,2023-04-28,5
 3,Niña Débil,2023-05-12,5
 3,Niña Débil,2023-06-01,3
@@ -44,6 +46,7 @@ Orden,Categoría,Fecha,Prob
 3,Niña Débil,2023-11-10,0
 3,Niña Débil,2023-11-24,0
 3,Niña Débil,2023-12-15,0
+3,Niña Débil,2023-12-29,0
 4,Neutro,2023-04-28,26
 4,Neutro,2023-05-12,28
 4,Neutro,2023-06-01,20
@@ -59,6 +62,7 @@ Orden,Categoría,Fecha,Prob
 4,Neutro,2023-11-10,2
 4,Neutro,2023-11-24,5
 4,Neutro,2023-12-15,3
+4,Neutro,2023-12-29,18
 5,Niño Débil,2023-04-28,33
 5,Niño Débil,2023-05-12,34
 5,Niño Débil,2023-06-01,35
@@ -74,6 +78,7 @@ Orden,Categoría,Fecha,Prob
 5,Niño Débil,2023-11-10,14
 5,Niño Débil,2023-11-24,17
 5,Niño Débil,2023-12-15,20
+5,Niño Débil,2023-12-29,33
 6,Niño Moderado,2023-04-28,24
 6,Niño Moderado,2023-05-12,23
 6,Niño Moderado,2023-06-01,33
@@ -89,6 +94,7 @@ Orden,Categoría,Fecha,Prob
 6,Niño Moderado,2023-11-10,41
 6,Niño Moderado,2023-11-24,38
 6,Niño Moderado,2023-12-15,54
+6,Niño Moderado,2023-12-29,37
 7,Niño Fuerte,2023-04-28,9
 7,Niño Fuerte,2023-05-12,8
 7,Niño Fuerte,2023-06-01,8
@@ -104,6 +110,7 @@ Orden,Categoría,Fecha,Prob
 7,Niño Fuerte,2023-11-10,42
 7,Niño Fuerte,2023-11-24,39
 7,Niño Fuerte,2023-12-15,22
+7,Niño Fuerte,2023-12-29,12
 8,Niño Extraordinario,2023-04-28,1
 8,Niño Extraordinario,2023-05-12,1
 8,Niño Extraordinario,2023-06-01,1
@@ -119,3 +126,4 @@ Orden,Categoría,Fecha,Prob
 8,Niño Extraordinario,2023-11-10,1
 8,Niño Extraordinario,2023-11-24,1
 8,Niño Extraordinario,2023-12-15,1
+8,Niño Extraordinario,2023-12-29,0
