@@ -1,0 +1,2113 @@
+ubigeo,geografia,regi,regi_nom,prov,prov_nom,dist,dist_nom,p_2018,p_2019,p_2020,p_2021,p_2022
+000000,Perú,00,NA,00,NA,00,NA,31562130,32131400,32625948.30082373,33035304,33396698
+010000,Amazonas,01,Amazonas,00,NA,00,NA,419833,423863,426806,428512,429483
+010100,Chachapoyas,01,Amazonas,01,Chachapoyas,00,NA,61078,62207,63188,63661,64058
+010101,Chachapoyas,01,Amazonas,01,Chachapoyas,01,Chachapoyas,36602,37870,39051,39691,40274
+010102,Asunción,01,Amazonas,01,Chachapoyas,02,Asunción,283,281,278,277,276
+010103,Balsas,01,Amazonas,01,Chachapoyas,03,Balsas,1222,1202,1180,1169,1158
+010104,Cheto,01,Amazonas,01,Chachapoyas,04,Cheto,687,696,702,705,707
+010105,Chiliquin,01,Amazonas,01,Chachapoyas,05,Chiliquin,619,604,589,581,575
+010106,Chuquibamba,01,Amazonas,01,Chachapoyas,06,Chuquibamba,1970,1955,1933,1922,1910
+010107,Granada,01,Amazonas,01,Chachapoyas,07,Granada,523,532,539,541,543
+010108,Huancas,01,Amazonas,01,Chachapoyas,08,Huancas,1334,1395,1456,1481,1500
+010109,La Jalca,01,Amazonas,01,Chachapoyas,09,La Jalca,4187,4080,3966,3834,3697
+010110,Leimebamba,01,Amazonas,01,Chachapoyas,10,Leimebamba,3862,3845,3815,3799,3781
+010111,Levanto,01,Amazonas,01,Chachapoyas,11,Levanto,830,817,803,796,789
+010112,Magdalena,01,Amazonas,01,Chachapoyas,12,Magdalena,913,913,911,910,906
+010113,Mariscal Castilla,01,Amazonas,01,Chachapoyas,13,Mariscal Castilla,1474,1507,1534,1561,1586
+010114,Molinopampa,01,Amazonas,01,Chachapoyas,14,Molinopampa,2320,2296,2266,2251,2235
+010115,Montevideo,01,Amazonas,01,Chachapoyas,15,Montevideo,519,503,487,479,472
+010116,Olleros,01,Amazonas,01,Chachapoyas,16,Olleros,422,429,435,438,441
+010117,Quinjalca,01,Amazonas,01,Chachapoyas,17,Quinjalca,819,807,792,785,778
+010118,San Francisco de Daguas,01,Amazonas,01,Chachapoyas,18,San Francisco de Daguas,321,323,323,325,326
+010119,San Isidro de Maino,01,Amazonas,01,Chachapoyas,19,San Isidro de Maino,608,599,590,585,581
+010120,Soloco,01,Amazonas,01,Chachapoyas,20,Soloco,1293,1279,1261,1252,1243
+010121,Sonche,01,Amazonas,01,Chachapoyas,21,Sonche,270,274,277,279,280
+010200,Bagua,01,Amazonas,02,Bagua,00,NA,82816,83850,84672,85375,85835
+010201,Bagua,01,Amazonas,02,Bagua,01,Bagua,29096,29540,29905,30240,30479
+010202,Aramango,01,Amazonas,02,Bagua,02,Aramango,10422,10300,10149,10049,9919
+010203,Copallín,01,Amazonas,02,Bagua,03,Copallín,4903,4787,4660,4563,4452
+010204,El Parco,01,Amazonas,02,Bagua,04,El Parco,1294,1292,1287,1281,1273
+010205,Imaza,01,Amazonas,02,Bagua,05,Imaza,30392,31300,32136,32789,33338
+010206,La Peca,01,Amazonas,02,Bagua,06,La Peca,6709,6631,6535,6453,6374
+010300,Bongará,01,Amazonas,03,Bongará,00,NA,27042,26972,26830,26655,26449
+010301,Jumbilla,01,Amazonas,03,Bongará,01,Jumbilla,1373,1354,1332,1309,1283
+010302,Chisquilla,01,Amazonas,03,Bongará,02,Chisquilla,323,321,319,317,313
+010303,Churuja,01,Amazonas,03,Bongará,03,Churuja,299,301,301,300,298
+010304,Corosha,01,Amazonas,03,Bongará,04,Corosha,810,819,825,831,835
+010305,Cuispes,01,Amazonas,03,Bongará,05,Cuispes,702,694,684,673,662
+010306,Florida,01,Amazonas,03,Bongará,06,Florida,6400,6409,6397,6380,6353
+010307,Jazán,01,Amazonas,03,Bongará,07,Jazán,8035,7994,7931,7855,7774
+010308,Recta,01,Amazonas,03,Bongará,08,Recta,220,219,218,215,216
+010309,San Carlos,01,Amazonas,03,Bongará,09,San Carlos,519,535,551,565,579
+010310,Shipasbamba,01,Amazonas,03,Bongará,10,Shipasbamba,1630,1656,1678,1698,1716
+010311,Valera,01,Amazonas,03,Bongará,11,Valera,898,868,837,806,775
+010312,Yambrasbamba,01,Amazonas,03,Bongará,12,Yambrasbamba,5833,5802,5757,5706,5645
+010400,Condorcanqui,01,Amazonas,04,Condorcanqui,00,NA,50180,50827,51344,51787,52082
+010401,Nieva,01,Amazonas,04,Condorcanqui,01,Nieva,21231,21071,20847,20569,20264
+010402,El Cenepa,01,Amazonas,04,Condorcanqui,02,El Cenepa,11863,12213,12537,12854,13122
+010403,Río Santiago,01,Amazonas,04,Condorcanqui,03,Río Santiago,17086,17543,17960,18364,18696
+010500,Luya,01,Amazonas,05,Luya,00,NA,48110,48032,47827,47482,47081
+010501,Lamud,01,Amazonas,05,Luya,01,Lamud,2379,2381,2375,2363,2345
+010502,Camporredondo,01,Amazonas,05,Luya,02,Camporredondo,7313,7422,7515,7584,7644
+010503,Cocabamba,01,Amazonas,05,Luya,03,Cocabamba,2087,2068,2045,2015,1983
+010504,Colcamar,01,Amazonas,05,Luya,04,Colcamar,2011,1975,1933,1887,1838
+010505,Conila,01,Amazonas,05,Luya,05,Conila,1950,1939,1923,1899,1875
+010506,Inguilpata,01,Amazonas,05,Luya,06,Inguilpata,517,502,486,469,451
+010507,Longuita,01,Amazonas,05,Luya,07,Longuita,898,892,883,873,860
+010508,Lonya Chico,01,Amazonas,05,Luya,08,Lonya Chico,891,876,858,838,817
+010509,Luya,01,Amazonas,05,Luya,09,Luya,4147,4139,4118,4086,4047
+010510,Luya Viejo,01,Amazonas,05,Luya,10,Luya Viejo,408,407,405,401,398
+010511,María,01,Amazonas,05,Luya,11,María,792,785,776,764,752
+010512,Ocalli,01,Amazonas,05,Luya,12,Ocalli,3919,3939,3950,3953,3957
+010513,Ocumal,01,Amazonas,05,Luya,13,Ocumal,3744,3734,3712,3679,3641
+010514,Pisuquia,01,Amazonas,05,Luya,14,Pisuquia,5160,5125,5075,5012,4940
+010515,Providencia,01,Amazonas,05,Luya,15,Providencia,1406,1399,1389,1374,1356
+010516,San Cristóbal,01,Amazonas,05,Luya,16,San Cristóbal,576,563,550,535,520
+010517,San Francisco del Yeso,01,Amazonas,05,Luya,17,San Francisco del Yeso,745,739,732,722,711
+010518,San Jerónimo,01,Amazonas,05,Luya,18,San Jerónimo,668,645,621,597,571
+010519,San Juan de Lopecancha,01,Amazonas,05,Luya,19,San Juan de Lopecancha,453,445,434,423,411
+010520,Santa Catalina,01,Amazonas,05,Luya,20,Santa Catalina,2078,2114,2145,2168,2189
+010521,Santo Tomás,01,Amazonas,05,Luya,21,Santo Tomás,3176,3127,3070,3004,2935
+010522,Tingo,01,Amazonas,05,Luya,22,Tingo,1355,1367,1375,1378,1381
+010523,Trita,01,Amazonas,05,Luya,23,Trita,1437,1449,1457,1458,1459
+010600,Rodríguez de Mendoza,01,Amazonas,06,Rodríguez de Mendoza,00,NA,32513,33122,33651,33895,34099
+010601,San Nicolás,01,Amazonas,06,Rodríguez de Mendoza,01,San Nicolás,6278,6399,6499,6551,6594
+010602,Chirimoto,01,Amazonas,06,Rodríguez de Mendoza,02,Chirimoto,2713,2799,2877,2914,2946
+010603,Cochamal,01,Amazonas,06,Rodríguez de Mendoza,03,Cochamal,628,633,636,638,639
+010604,Huambo,01,Amazonas,06,Rodríguez de Mendoza,04,Huambo,2772,2722,2664,2590,2515
+010605,Limabamba,01,Amazonas,06,Rodríguez de Mendoza,05,Limabamba,2491,2465,2431,2385,2338
+010606,Longar,01,Amazonas,06,Rodríguez de Mendoza,06,Longar,1704,1691,1673,1647,1621
+010607,Mariscal Benavides,01,Amazonas,06,Rodríguez de Mendoza,07,Mariscal Benavides,1568,1566,1559,1539,1519
+010608,Milpuc,01,Amazonas,06,Rodríguez de Mendoza,08,Milpuc,458,439,419,411,405
+010609,Omia,01,Amazonas,06,Rodríguez de Mendoza,09,Omia,9603,9830,10028,10127,10206
+010610,Santa Rosa,01,Amazonas,06,Rodríguez de Mendoza,10,Santa Rosa,538,534,529,527,526
+010611,Totora,01,Amazonas,06,Rodríguez de Mendoza,11,Totora,293,290,288,289,286
+010612,Vista Alegre,01,Amazonas,06,Rodríguez de Mendoza,12,Vista Alegre,3467,3754,4048,4277,4504
+010700,Utcubamba,01,Amazonas,07,Utcubamba,00,NA,118094,118853,119294,119657,119879
+010701,Bagua Grande,01,Amazonas,07,Utcubamba,01,Bagua Grande,56257,57076,57746,58380,58947
+010702,Cajaruro,01,Amazonas,07,Utcubamba,02,Cajaruro,24996,24794,24525,24236,23916
+010703,Cumba,01,Amazonas,07,Utcubamba,03,Cumba,8852,8819,8760,8695,8620
+010704,El Milagro,01,Amazonas,07,Utcubamba,04,El Milagro,6422,6471,6503,6531,6551
+010705,Jamalca,01,Amazonas,07,Utcubamba,05,Jamalca,7303,7269,7215,7156,7087
+010706,Lonya Grande,01,Amazonas,07,Utcubamba,06,Lonya Grande,11034,11182,11300,11412,11509
+010707,Yamón,01,Amazonas,07,Utcubamba,07,Yamón,3230,3242,3245,3247,3249
+020000,Áncash,02,Áncash,00,NA,00,NA,1155451,1169522,1180638,1188391,1194156
+020100,Huaraz,02,Áncash,01,Huaraz,00,NA,178027,181866,185276,188106,190612
+020101,Huaraz,02,Áncash,01,Huaraz,01,Huaraz,66195,67418,68466,69249,69882
+020102,Cochabamba,02,Áncash,01,Huaraz,02,Cochabamba,1745,1723,1698,1682,1669
+020103,Colcabamba,02,Áncash,01,Huaraz,03,Colcabamba,314,293,274,262,252
+020104,Huanchay,02,Áncash,01,Huaraz,04,Huanchay,1726,1689,1652,1627,1608
+020105,Independencia,02,Áncash,01,Huaraz,05,Independencia,82563,84931,87112,88989,90711
+020106,Jangas,02,Áncash,01,Huaraz,06,Jangas,5056,5138,5206,5254,5292
+020107,La Libertad,02,Áncash,01,Huaraz,07,La Libertad,1132,1122,1110,1102,1095
+020108,Olleros,02,Áncash,01,Huaraz,08,Olleros,2513,2514,2507,2503,2498
+020109,Pampas,02,Áncash,01,Huaraz,09,Pampas,1040,1020,998,984,973
+020110,Pariacoto,02,Áncash,01,Huaraz,10,Pariacoto,5078,5163,5235,5287,5328
+020111,Pira,02,Áncash,01,Huaraz,11,Pira,3536,3518,3489,3472,3456
+020112,Tarica,02,Áncash,01,Huaraz,12,Tarica,7129,7337,7529,7695,7848
+020200,Aija,02,Áncash,02,Aija,00,NA,6632,6541,6433,6305,6170
+020201,Aija,02,Áncash,02,Aija,01,Aija,2158,2175,2182,2186,2184
+020202,Coris,02,Áncash,02,Aija,02,Coris,1713,1683,1649,1594,1538
+020203,Huacllan,02,Áncash,02,Aija,03,Huacllan,383,371,358,342,327
+020204,La Merced,02,Áncash,02,Aija,04,La Merced,1627,1573,1517,1468,1418
+020205,Succha,02,Áncash,02,Aija,05,Succha,751,739,727,715,703
+020300,Antonio Raymondi,02,Áncash,03,Antonio Raymondi,00,NA,14349,14168,13950,13690,13404
+020301,Llamellin,02,Áncash,03,Antonio Raymondi,01,Llamellin,3468,3446,3413,3373,3325
+020302,Aczo,02,Áncash,03,Antonio Raymondi,02,Aczo,2013,1988,1958,1914,1863
+020303,Chaccho,02,Áncash,03,Antonio Raymondi,03,Chaccho,1421,1385,1346,1314,1283
+020304,Chingas,02,Áncash,03,Antonio Raymondi,04,Chingas,1960,1956,1946,1898,1843
+020305,Mirgas,02,Áncash,03,Antonio Raymondi,05,Mirgas,4279,4212,4135,4063,3986
+020306,San Juan de Rontoy,02,Áncash,03,Antonio Raymondi,06,San Juan de Rontoy,1208,1181,1152,1128,1104
+020400,Asunción,02,Áncash,04,Asunción,00,NA,7879,7805,7710,7591,7457
+020401,Chacas,02,Áncash,04,Asunción,01,Chacas,4852,4825,4787,4731,4665
+020402,Acochaca,02,Áncash,04,Asunción,02,Acochaca,3027,2980,2923,2860,2792
+020500,Bolognesi,02,Áncash,05,Bolognesi,00,NA,24877,24474,24012,23475,22902
+020501,Chiquián,02,Áncash,05,Bolognesi,01,Chiquián,4092,4095,4087,4047,3990
+020502,Abelardo Pardo Lezameta,02,Áncash,05,Bolognesi,02,Abelardo Pardo Lezameta,249,231,215,210,203
+020503,Antonio Raymondi,02,Áncash,05,Bolognesi,03,Antonio Raymondi,1046,1034,1020,990,958
+020504,Aquia,02,Áncash,05,Bolognesi,04,Aquia,2188,2136,2079,2000,1925
+020505,Cajacay,02,Áncash,05,Bolognesi,05,Cajacay,1838,1856,1868,1888,1899
+020506,Canis,02,Áncash,05,Bolognesi,06,Canis,318,298,279,261,246
+020507,Colquioc,02,Áncash,05,Bolognesi,07,Colquioc,2452,2404,2348,2265,2183
+020508,Huallanca,02,Áncash,05,Bolognesi,08,Huallanca,6727,6610,6473,6401,6304
+020509,Huasta,02,Áncash,05,Bolognesi,09,Huasta,1474,1408,1341,1271,1210
+020510,Huayllacayan,02,Áncash,05,Bolognesi,10,Huayllacayan,1352,1361,1365,1336,1298
+020511,La Primavera,02,Áncash,05,Bolognesi,11,La Primavera,473,458,444,421,399
+020512,Mangas,02,Áncash,05,Bolognesi,12,Mangas,524,520,515,501,486
+020513,Pacllón,02,Áncash,05,Bolognesi,13,Pacllón,955,915,874,830,792
+020514,San Miguel de Corpanqui,02,Áncash,05,Bolognesi,14,San Miguel de Corpanqui,511,492,471,449,429
+020515,Ticllos,02,Áncash,05,Bolognesi,15,Ticllos,678,656,633,605,580
+020600,Carhuaz,02,Áncash,06,Carhuaz,00,NA,48797,49466,50007,50386,50669
+020601,Carhuaz,02,Áncash,06,Carhuaz,01,Carhuaz,16139,16428,16675,16804,16917
+020602,Acopampa,02,Áncash,06,Carhuaz,02,Acopampa,2734,2768,2794,2812,2820
+020603,Amashca,02,Áncash,06,Carhuaz,03,Amashca,1535,1529,1520,1507,1491
+020604,Anta,02,Áncash,06,Carhuaz,04,Anta,2553,2579,2598,2610,2613
+020605,Ataquero,02,Áncash,06,Carhuaz,05,Ataquero,1593,1607,1617,1624,1628
+020606,Marcara,02,Áncash,06,Carhuaz,06,Marcara,10378,10593,10782,10940,11067
+020607,Pariahuanca,02,Áncash,06,Carhuaz,07,Pariahuanca,1457,1458,1455,1455,1454
+020608,San Miguel de Aco,02,Áncash,06,Carhuaz,08,San Miguel de Aco,2502,2505,2502,2502,2498
+020609,Shilla,02,Áncash,06,Carhuaz,09,Shilla,2962,2943,2915,2901,2886
+020610,Tinco,02,Áncash,06,Carhuaz,10,Tinco,3687,3778,3861,3933,3995
+020611,Yungar,02,Áncash,06,Carhuaz,11,Yungar,3257,3278,3288,3298,3300
+020700,Carlos F. Fitzcarrald,02,Áncash,07,Carlos F. Fitzcarrald,00,NA,18848,18697,18496,18231,17925
+020701,San Luis,02,Áncash,07,Carlos F. Fitzcarrald,01,San Luis,11202,11158,11083,10975,10842
+020702,San Nicolás,02,Áncash,07,Carlos F. Fitzcarrald,02,San Nicolás,3322,3282,3233,3171,3101
+020703,Yauya,02,Áncash,07,Carlos F. Fitzcarrald,03,Yauya,4324,4257,4180,4085,3982
+020800,Casma,02,Áncash,08,Casma,00,NA,54382,55877,57256,58472,59605
+020801,Casma,02,Áncash,08,Casma,01,Casma,38133,39286,40363,41315,42209
+020802,Buena Vista Alta,02,Áncash,08,Casma,02,Buena Vista Alta,5128,5276,5413,5533,5645
+020803,Comandante Noel,02,Áncash,08,Casma,03,Comandante Noel,2280,2313,2340,2360,2375
+020804,Yautan,02,Áncash,08,Casma,04,Yautan,8841,9002,9140,9264,9376
+020900,Corongo,02,Áncash,09,Corongo,00,NA,8034,8037,8017,7969,7906
+020901,Corongo,02,Áncash,09,Corongo,01,Corongo,1789,1792,1790,1794,1795
+020902,Aco,02,Áncash,09,Corongo,02,Aco,401,391,380,366,352
+020903,Bambas,02,Áncash,09,Corongo,03,Bambas,483,483,481,474,464
+020904,Cusca,02,Áncash,09,Corongo,04,Cusca,2856,2874,2881,2892,2901
+020905,La Pampa,02,Áncash,09,Corongo,05,La Pampa,1088,1084,1078,1062,1044
+020906,Yanac,02,Áncash,09,Corongo,06,Yanac,676,672,666,654,638
+020907,Yupán,02,Áncash,09,Corongo,07,Yupán,741,741,741,727,712
+021000,Huari,02,Áncash,10,Huari,00,NA,62909,63173,63264,63344,63382
+021001,Huari,02,Áncash,10,Huari,01,Huari,9781,9806,9803,9796,9786
+021002,Anra,02,Áncash,10,Huari,02,Anra,1467,1443,1414,1394,1371
+021003,Cajay,02,Áncash,10,Huari,03,Cajay,2711,2690,2661,2651,2637
+021004,Chavín de Huántar,02,Áncash,10,Huari,04,Chavín de Huántar,8548,8517,8462,8467,8464
+021005,Huacachi,02,Áncash,10,Huari,05,Huacachi,1880,1862,1841,1836,1830
+021006,Huacchis,02,Áncash,10,Huari,06,Huacchis,1488,1446,1401,1366,1330
+021007,Huachis,02,Áncash,10,Huari,07,Huachis,3611,3604,3589,3602,3614
+021008,Huántar,02,Áncash,10,Huari,08,Huántar,2782,2768,2746,2743,2737
+021009,Masin,02,Áncash,10,Huari,09,Masin,1439,1401,1360,1329,1297
+021010,Paucas,02,Áncash,10,Huari,10,Paucas,1632,1601,1565,1539,1511
+021011,Ponto,02,Áncash,10,Huari,11,Ponto,2829,2781,2725,2688,2647
+021012,Rahuapampa,02,Áncash,10,Huari,12,Rahuapampa,749,751,751,759,764
+021013,Rapayan,02,Áncash,10,Huari,13,Rapayan,1500,1483,1461,1449,1433
+021014,San Marcos,02,Áncash,10,Huari,14,San Marcos,18446,18998,19498,19745,19991
+021015,San Pedro de Chana,02,Áncash,10,Huari,15,San Pedro de Chana,2687,2695,2694,2711,2724
+021016,Uco,02,Áncash,10,Huari,16,Uco,1359,1327,1293,1269,1246
+021100,Huarmey,02,Áncash,11,Huarmey,00,NA,32049,32599,33066,33424,33718
+021101,Huarmey,02,Áncash,11,Huarmey,01,Huarmey,26102,26644,27123,27494,27805
+021102,Cochapeti,02,Áncash,11,Huarmey,02,Cochapeti,822,820,814,806,797
+021103,Culebras,02,Áncash,11,Huarmey,03,Culebras,3350,3382,3405,3418,3424
+021104,Huayán,02,Áncash,11,Huarmey,04,Huayán,976,971,961,955,950
+021105,Malvas,02,Áncash,11,Huarmey,05,Malvas,799,782,763,751,742
+021200,Huaylas,02,Áncash,12,Huaylas,00,NA,55883,56295,56557,56738,56853
+021201,Caraz,02,Áncash,12,Huaylas,01,Caraz,26307,26663,26949,27141,27281
+021202,Huallanca,02,Áncash,12,Huaylas,02,Huallanca,1080,1096,1110,1121,1130
+021203,Huata,02,Áncash,12,Huaylas,03,Huata,1421,1410,1394,1385,1377
+021204,Huaylas,02,Áncash,12,Huaylas,04,Huaylas,1722,1712,1697,1688,1682
+021205,Mato,02,Áncash,12,Huaylas,05,Mato,1982,1977,1967,1950,1928
+021206,Pamparomas,02,Áncash,12,Huaylas,06,Pamparomas,8552,8577,8577,8580,8578
+021207,Pueblo Libre,02,Áncash,12,Huaylas,07,Pueblo Libre,6951,6980,6990,6998,7001
+021208,Santa Cruz,02,Áncash,12,Huaylas,08,Santa Cruz,4612,4606,4588,4578,4568
+021209,Santo Toribio,02,Áncash,12,Huaylas,09,Santo Toribio,1132,1113,1092,1079,1069
+021210,Yuracmarca,02,Áncash,12,Huaylas,10,Yuracmarca,2124,2161,2193,2218,2239
+021300,Mariscal Luzuriaga,02,Áncash,13,Mariscal Luzuriaga,00,NA,21935,21891,21787,21607,21386
+021301,Piscobamba,02,Áncash,13,Mariscal Luzuriaga,01,Piscobamba,3184,3158,3122,3095,3063
+021302,Casca,02,Áncash,13,Mariscal Luzuriaga,02,Casca,4046,4036,4015,3960,3902
+021303,Eleazar Guzmán Barrón,02,Áncash,13,Mariscal Luzuriaga,03,Eleazar Guzmán Barrón,1402,1413,1421,1410,1394
+021304,Fidel Olivas Escudero,02,Áncash,13,Mariscal Luzuriaga,04,Fidel Olivas Escudero,2034,2016,1993,1942,1886
+021305,Llama,02,Áncash,13,Mariscal Luzuriaga,05,Llama,1063,1040,1015,989,965
+021306,Llumpa,02,Áncash,13,Mariscal Luzuriaga,06,Llumpa,6255,6294,6315,6362,6395
+021307,Lucma,02,Áncash,13,Mariscal Luzuriaga,07,Lucma,2910,2894,2870,2831,2787
+021308,Musga,02,Áncash,13,Mariscal Luzuriaga,08,Musga,1041,1040,1036,1018,994
+021400,Ocros,02,Áncash,14,Ocros,00,NA,7477,7359,7224,7066,6897
+021401,Ocros,02,Áncash,14,Ocros,01,Ocros,1287,1275,1259,1245,1227
+021402,Acas,02,Áncash,14,Ocros,02,Acas,701,689,676,640,603
+021403,Cajamarquilla,02,Áncash,14,Ocros,03,Cajamarquilla,318,307,297,286,275
+021404,Carhuapampa,02,Áncash,14,Ocros,04,Carhuapampa,489,469,447,420,395
+021405,Cochas,02,Áncash,14,Ocros,05,Cochas,1535,1553,1566,1580,1586
+021406,Congas,02,Áncash,14,Ocros,06,Congas,1309,1313,1313,1302,1287
+021407,Llipa,02,Áncash,14,Ocros,07,Llipa,285,259,233,230,225
+021408,San Cristóbal de Raján,02,Áncash,14,Ocros,08,San Cristóbal de Raján,460,449,437,411,383
+021409,San Pedro,02,Áncash,14,Ocros,09,San Pedro,643,593,544,496,458
+021410,Santiago de Chilcas,02,Áncash,14,Ocros,10,Santiago de Chilcas,450,452,452,456,458
+021500,Pallasca,02,Áncash,15,Pallasca,00,NA,25022,24729,24371,23936,23461
+021501,Cabana,02,Áncash,15,Pallasca,01,Cabana,2619,2608,2588,2558,2522
+021502,Bolognesi,02,Áncash,15,Pallasca,02,Bolognesi,1065,1043,1017,989,959
+021503,Conchucos,02,Áncash,15,Pallasca,03,Conchucos,7879,7877,7850,7793,7720
+021504,Huacaschuque,02,Áncash,15,Pallasca,04,Huacaschuque,552,543,532,520,506
+021505,Huandoval,02,Áncash,15,Pallasca,05,Huandoval,1090,1087,1082,1072,1059
+021506,Lacabamba,02,Áncash,15,Pallasca,06,Lacabamba,537,528,517,505,494
+021507,Llapo,02,Áncash,15,Pallasca,07,Llapo,633,629,624,618,607
+021508,Pallasca,02,Áncash,15,Pallasca,08,Pallasca,2533,2529,2517,2497,2470
+021509,Pampas,02,Áncash,15,Pallasca,09,Pampas,4105,3902,3697,3490,3287
+021510,Santa Rosa,02,Áncash,15,Pallasca,10,Santa Rosa,1146,1148,1147,1140,1133
+021511,Tauca,02,Áncash,15,Pallasca,11,Tauca,2863,2835,2800,2754,2704
+021600,Pomabamba,02,Áncash,16,Pomabamba,00,NA,26773,26760,26675,26498,26269
+021601,Pomabamba,02,Áncash,16,Pomabamba,01,Pomabamba,14881,14928,14933,14886,14818
+021602,Huayllán,02,Áncash,16,Pomabamba,02,Huayllán,3130,3094,3051,2997,2936
+021603,Parobamba,02,Áncash,16,Pomabamba,03,Parobamba,6421,6404,6369,6313,6239
+021604,Quinuabamba,02,Áncash,16,Pomabamba,04,Quinuabamba,2341,2334,2322,2302,2276
+021700,Recuay,02,Áncash,17,Recuay,00,NA,18174,18154,18085,17954,17787
+021701,Recuay,02,Áncash,17,Recuay,01,Recuay,4614,4577,4527,4455,4374
+021702,Catac,02,Áncash,17,Recuay,02,Catac,4068,4070,4060,4030,3990
+021703,Cotaparaco,02,Áncash,17,Recuay,03,Cotaparaco,423,409,394,379,362
+021704,Huayllapampa,02,Áncash,17,Recuay,04,Huayllapampa,648,614,580,546,511
+021705,Llacllín,02,Áncash,17,Recuay,05,Llacllín,929,893,855,816,776
+021706,Marca,02,Áncash,17,Recuay,06,Marca,1758,1843,1924,1999,2071
+021707,Pampas Chico,02,Áncash,17,Recuay,07,Pampas Chico,947,901,854,808,762
+021708,Pararín,02,Áncash,17,Recuay,08,Pararín,1639,1681,1716,1745,1768
+021709,Tapacocha,02,Áncash,17,Recuay,09,Tapacocha,447,440,432,423,412
+021710,Ticapampa,02,Áncash,17,Recuay,10,Ticapampa,2701,2726,2743,2753,2761
+021800,Santa,02,Áncash,18,Santa,00,NA,459137,467182,474053,479362,483774
+021801,Chimbote,02,Áncash,18,Santa,01,Chimbote,215834,216601,216776,216641,216277
+021802,Cáceres del Perú,02,Áncash,18,Santa,02,Cáceres del Perú,4826,4828,4816,4782,4736
+021803,Coishco,02,Áncash,18,Santa,03,Coishco,16941,17236,17491,17626,17704
+021804,Macate,02,Áncash,18,Santa,04,Macate,3346,3315,3275,3221,3159
+021805,Moro,02,Áncash,18,Santa,05,Moro,8449,8576,8683,8748,8791
+021806,Nepeña,02,Áncash,18,Santa,06,Nepeña,14601,14742,14846,14892,14908
+021807,Samanco,02,Áncash,18,Santa,07,Samanco,5022,5129,5225,5297,5355
+021808,Santa,02,Áncash,18,Santa,08,Santa,21748,22242,22689,23030,23318
+021809,Nuevo Chimbote,02,Áncash,18,Santa,09,Nuevo Chimbote,168370,174513,180252,185125,189526
+021900,Sihuas,02,Áncash,19,Sihuas,00,NA,28840,28774,28630,28389,28091
+021901,Sihuas,02,Áncash,19,Sihuas,01,Sihuas,5652,5678,5687,5710,5726
+021902,Acobamba,02,Áncash,19,Sihuas,02,Acobamba,1695,1673,1647,1612,1572
+021903,Alfonso Ugarte,02,Áncash,19,Sihuas,03,Alfonso Ugarte,557,535,514,490,466
+021904,Cashapampa,02,Áncash,19,Sihuas,04,Cashapampa,2955,2954,2945,2918,2882
+021905,Chingalpo,02,Áncash,19,Sihuas,05,Chingalpo,947,933,916,894,870
+021906,Huayllabamba,02,Áncash,19,Sihuas,06,Huayllabamba,3769,3740,3701,3639,3567
+021907,Quiches,02,Áncash,19,Sihuas,07,Quiches,2451,2428,2400,2358,2310
+021908,Ragash,02,Áncash,19,Sihuas,08,Ragash,2452,2432,2404,2363,2315
+021909,San Juan,02,Áncash,19,Sihuas,09,San Juan,6806,6870,6914,6941,6960
+021910,Sicsibamba,02,Áncash,19,Sihuas,10,Sicsibamba,1556,1531,1502,1464,1423
+022000,Yungay,02,Áncash,20,Yungay,00,NA,55427,55675,55769,55848,55888
+022001,Yungay,02,Áncash,20,Yungay,01,Yungay,21873,22118,22302,22485,22654
+022002,Cascapara,02,Áncash,20,Yungay,02,Cascapara,1747,1725,1698,1672,1643
+022003,Mancos,02,Áncash,20,Yungay,03,Mancos,6906,6904,6881,6854,6821
+022004,Matacoto,02,Áncash,20,Yungay,04,Matacoto,1511,1519,1522,1528,1536
+022005,Quillo,02,Áncash,20,Yungay,05,Quillo,12926,13049,13137,13216,13284
+022006,Ranrahirca,02,Áncash,20,Yungay,06,Ranrahirca,2932,2952,2964,2974,2981
+022007,Shupluy,02,Áncash,20,Yungay,07,Shupluy,1955,1932,1904,1875,1845
+022008,Yanama,02,Áncash,20,Yungay,08,Yanama,5577,5476,5361,5244,5124
+030000,Apurímac,03,Apurímac,00,NA,00,NA,427323,429587,430736,430609,429720
+030100,Abancay,03,Apurímac,01,Abancay,00,NA,116371,118392,120116,120976,121501
+030101,Abancay,03,Apurímac,01,Abancay,01,Abancay,72761,74800,76639,77767,78681
+030102,Chacoche,03,Apurímac,01,Abancay,02,Chacoche,1410,1425,1437,1448,1454
+030103,Circa,03,Apurímac,01,Abancay,03,Circa,1933,1887,1836,1819,1796
+030104,Curahuasi,03,Apurímac,01,Abancay,04,Curahuasi,17136,17127,17064,17120,17128
+030105,Huanipaca,03,Apurímac,01,Abancay,05,Huanipaca,3010,2896,2778,2667,2550
+030106,Lambrama,03,Apurímac,01,Abancay,06,Lambrama,3092,2953,2813,2683,2547
+030107,Pichirhua,03,Apurímac,01,Abancay,07,Pichirhua,2877,2777,2673,2576,2471
+030108,San Pedro de Cachora,03,Apurímac,01,Abancay,08,San Pedro de Cachora,2642,2568,2490,2415,2332
+030109,Tamburco,03,Apurímac,01,Abancay,09,Tamburco,11510,11959,12386,12481,12542
+030200,Andahuaylas,03,Apurímac,02,Andahuaylas,00,NA,150105,150634,150758,151329,151731
+030201,Andahuaylas,03,Apurímac,02,Andahuaylas,01,Andahuaylas,44284,45221,46035,47143,48053
+030202,Andarapa,03,Apurímac,02,Andahuaylas,02,Andarapa,5730,5655,5565,5458,5368
+030203,Chiara,03,Apurímac,02,Andahuaylas,03,Chiara,1236,1224,1209,1193,1180
+030204,Huancarama,03,Apurímac,02,Andahuaylas,04,Huancarama,5378,5229,5070,4834,4654
+030205,Huancaray,03,Apurímac,02,Andahuaylas,05,Huancaray,3951,3904,3846,3780,3724
+030206,Huayana,03,Apurímac,02,Andahuaylas,06,Huayana,786,770,751,727,708
+030207,Kishuara,03,Apurímac,02,Andahuaylas,07,Kishuara,6385,6234,6069,5833,5650
+030208,Pacobamba,03,Apurímac,02,Andahuaylas,08,Pacobamba,3562,3451,3334,3156,3022
+030209,Pacucha,03,Apurímac,02,Andahuaylas,09,Pacucha,8638,8514,8367,8185,8037
+030210,Pampachiri,03,Apurímac,02,Andahuaylas,10,Pampachiri,2314,2293,2268,2267,2256
+030211,Pomacocha,03,Apurímac,02,Andahuaylas,11,Pomacocha,908,901,890,880,871
+030212,San Antonio de Cachi,03,Apurímac,02,Andahuaylas,12,San Antonio de Cachi,3048,3028,3000,2978,2955
+030213,San Jerónimo,03,Apurímac,02,Andahuaylas,13,San Jerónimo,22061,22184,22241,22469,22601
+030214,San Miguel de Chaccrampa,03,Apurímac,02,Andahuaylas,14,San Miguel de Chaccrampa,1690,1673,1650,1626,1605
+030215,Santa María de Chicmo,03,Apurímac,02,Andahuaylas,15,Santa María de Chicmo,8754,8674,8570,8466,8373
+030216,Talavera,03,Apurímac,02,Andahuaylas,16,Talavera,19465,19711,19901,20291,20572
+030217,Tumay Huaraca,03,Apurímac,02,Andahuaylas,17,Tumay Huaraca,1960,1939,1912,1883,1857
+030218,Turpo,03,Apurímac,02,Andahuaylas,18,Turpo,3810,3778,3736,3696,3660
+030219,Kaquiabamba,03,Apurímac,02,Andahuaylas,19,Kaquiabamba,1851,1802,1748,1669,1610
+030220,José María Arguedas,03,Apurímac,02,Andahuaylas,20,José María Arguedas,4294,4449,4596,4795,4975
+030300,Antabamba,03,Apurímac,03,Antabamba,00,NA,11895,11854,11781,11622,11429
+030301,Antabamba,03,Apurímac,03,Antabamba,01,Antabamba,2922,2895,2860,2808,2747
+030302,El Oro,03,Apurímac,03,Antabamba,02,El Oro,584,590,595,602,607
+030303,Huaquirca,03,Apurímac,03,Antabamba,03,Huaquirca,1955,2005,2049,2074,2094
+030304,Juan Espinoza Medrano,03,Apurímac,03,Antabamba,04,Juan Espinoza Medrano,1783,1763,1738,1705,1664
+030305,Oropesa,03,Apurímac,03,Antabamba,05,Oropesa,2404,2390,2369,2316,2259
+030306,Pachaconas,03,Apurímac,03,Antabamba,06,Pachaconas,1099,1091,1079,1061,1040
+030307,Sabaino,03,Apurímac,03,Antabamba,07,Sabaino,1148,1120,1091,1056,1018
+030400,Aymaraes,03,Apurímac,04,Aymaraes,00,NA,25392,25012,24570,23954,23276
+030401,Chalhuanca,03,Apurímac,04,Aymaraes,01,Chalhuanca,5122,5164,5191,5203,5208
+030402,Capaya,03,Apurímac,04,Aymaraes,02,Capaya,617,606,593,575,554
+030403,Caraybamba,03,Apurímac,04,Aymaraes,03,Caraybamba,976,949,919,882,844
+030404,Chapimarca,03,Apurímac,04,Aymaraes,04,Chapimarca,1965,1939,1907,1864,1814
+030405,Colcabamba,03,Apurímac,04,Aymaraes,05,Colcabamba,727,721,712,687,661
+030406,Cotaruse,03,Apurímac,04,Aymaraes,06,Cotaruse,2704,2598,2491,2380,2268
+030407,Huayllo,03,Apurímac,04,Aymaraes,07,Huayllo,479,466,453,443,430
+030408,Justo Apu Sahuaraura,03,Apurímac,04,Aymaraes,08,Justo Apu Sahuaraura,770,747,723,701,678
+030409,Lucre,03,Apurímac,04,Aymaraes,09,Lucre,1593,1552,1507,1443,1371
+030410,Pocohuanca,03,Apurímac,04,Aymaraes,10,Pocohuanca,1065,1054,1041,1023,1002
+030411,San Juan de Chacña,03,Apurímac,04,Aymaraes,11,San Juan de Chacña,795,784,770,745,719
+030412,Sañayca,03,Apurímac,04,Aymaraes,12,Sañayca,1152,1137,1118,1093,1063
+030413,Soraya,03,Apurímac,04,Aymaraes,13,Soraya,746,742,736,710,683
+030414,Tapairihua,03,Apurímac,04,Aymaraes,14,Tapairihua,1946,1926,1901,1867,1828
+030415,Tintay,03,Apurímac,04,Aymaraes,15,Tintay,2380,2320,2255,2161,2063
+030416,Toraya,03,Apurímac,04,Aymaraes,16,Toraya,1334,1301,1266,1215,1158
+030417,Yanaca,03,Apurímac,04,Aymaraes,17,Yanaca,1021,1006,987,962,932
+030500,Cotabambas,03,Apurímac,05,Cotabambas,00,NA,53758,54552,55208,55398,55526
+030501,Tambobamba,03,Apurímac,05,Cotabambas,01,Tambobamba,10809,10816,10789,10713,10660
+030502,Cotabambas,03,Apurímac,05,Cotabambas,02,Cotabambas,4112,4089,4052,4028,4001
+030503,Coyllurqui,03,Apurímac,05,Cotabambas,03,Coyllurqui,6943,6860,6756,6691,6651
+030504,Haquira,03,Apurímac,05,Cotabambas,04,Haquira,9935,9840,9712,9511,9474
+030505,Mara,03,Apurímac,05,Cotabambas,05,Mara,6195,6171,6127,6091,6084
+030506,Challhuahuacho,03,Apurímac,05,Cotabambas,06,Challhuahuacho,15764,16776,17772,18364,18656
+030600,Chincheros,03,Apurímac,06,Chincheros,00,NA,47471,47070,46544,46041,45494
+030601,Chincheros,03,Apurímac,06,Chincheros,01,Chincheros,5549,5529,5495,5472,5443
+030602,Anco-Huallo,03,Apurímac,06,Chincheros,02,Anco-Huallo,10770,10749,10695,10540,10382
+030603,Cocharcas,03,Apurímac,06,Chincheros,03,Cocharcas,1811,1772,1729,1718,1707
+030604,Huaccana,03,Apurímac,06,Chincheros,04,Huaccana,6944,6836,6711,5489,5389
+030605,Ocobamba,03,Apurímac,06,Chincheros,05,Ocobamba,7193,7125,7036,6962,6877
+030606,Ongoy,03,Apurímac,06,Chincheros,06,Ongoy,2459,2408,2352,2320,2287
+030607,Uranmarca,03,Apurímac,06,Chincheros,07,Uranmarca,2817,2794,2765,2743,2717
+030608,Ranracancha,03,Apurímac,06,Chincheros,08,Ranracancha,4247,4209,4158,4116,4068
+030609,Rocchacc,03,Apurímac,06,Chincheros,09,Rocchacc,2825,2810,2787,2770,2751
+030610,El Porvenir,03,Apurímac,06,Chincheros,10,El Porvenir,1801,1788,1771,1758,1743
+030611,Los Chankas,03,Apurímac,06,Chincheros,11,Los Chankas,1055,1050,1045,1043,1040
+030612,Ahuayro,03,Apurímac,06,Chincheros,12,Ahuayro,NA,NA,NA,1110,1090
+030700,Grau,03,Apurímac,07,Grau,00,NA,22331,22073,21759,21289,20763
+030701,Chuquibambilla,03,Apurímac,07,Grau,01,Chuquibambilla,5318,5295,5255,5150,5036
+030702,Curpahuasi,03,Apurímac,07,Grau,02,Curpahuasi,2033,2003,1967,1918,1861
+030703,Gamarra,03,Apurímac,07,Grau,03,Gamarra,2882,2791,2696,2588,2476
+030704,Huayllati,03,Apurímac,07,Grau,04,Huayllati,1421,1385,1346,1298,1246
+030705,Mamara,03,Apurímac,07,Grau,05,Mamara,905,900,893,879,862
+030706,Micaela Bastidas,03,Apurímac,07,Grau,06,Micaela Bastidas,959,933,905,872,835
+030707,Pataypampa,03,Apurímac,07,Grau,07,Pataypampa,832,814,794,769,742
+030708,Progreso,03,Apurímac,07,Grau,08,Progreso,3156,3194,3222,3235,3241
+030709,San Antonio,03,Apurímac,07,Grau,09,San Antonio,285,278,271,262,252
+030710,Santa Rosa,03,Apurímac,07,Grau,10,Santa Rosa,587,576,562,545,527
+030711,Turpay,03,Apurímac,07,Grau,11,Turpay,664,652,640,622,603
+030712,Vilcabamba,03,Apurímac,07,Grau,12,Vilcabamba,1314,1321,1324,1327,1326
+030713,Virundo,03,Apurímac,07,Grau,13,Virundo,693,668,643,614,583
+030714,Curasco,03,Apurímac,07,Grau,14,Curasco,1282,1263,1241,1210,1173
+040000,Arequipa,04,Arequipa,00,NA,00,NA,1428708,1464638,1497438,1526669,1553994
+040100,Arequipa,04,Arequipa,01,Arequipa,00,NA,1114721,1146418,1175765,1201896,1226404
+040101,Arequipa,04,Arequipa,01,Arequipa,01,Arequipa,55496,55033,54400,54412,54396
+040102,Alto Selva Alegre,04,Arequipa,01,Arequipa,02,Alto Selva Alegre,85790,87291,88537,90180,91755
+040103,Cayma,04,Arequipa,01,Arequipa,03,Cayma,97980,100686,103140,105760,108314
+040104,Cerro Colorado,04,Arequipa,01,Arequipa,04,Cerro Colorado,206393,217894,229142,235305,241328
+040105,Characato,04,Arequipa,01,Arequipa,05,Characato,14142,15190,16263,16987,17706
+040106,Chiguata,04,Arequipa,01,Arequipa,06,Chiguata,3039,3080,3112,3171,3227
+040107,Jacobo Hunter,04,Arequipa,01,Arequipa,07,Jacobo Hunter,50879,51442,51848,52729,53543
+040108,La Joya,04,Arequipa,01,Arequipa,08,La Joya,35441,36807,38103,39668,41181
+040109,Mariano Melgar,04,Arequipa,01,Arequipa,09,Mariano Melgar,62295,63460,64442,65809,67014
+040110,Miraflores,04,Arequipa,01,Arequipa,10,Miraflores,61362,62586,63632,65064,66339
+040111,Mollebaya,04,Arequipa,01,Arequipa,11,Mollebaya,5426,6172,6998,7363,7727
+040112,Paucarpata,04,Arequipa,01,Arequipa,12,Paucarpata,131837,133175,134099,135781,137061
+040113,Pocsi,04,Arequipa,01,Arequipa,13,Pocsi,469,458,447,442,437
+040114,Polobaya,04,Arequipa,01,Arequipa,14,Polobaya,873,836,797,771,746
+040115,Quequeña,04,Arequipa,01,Arequipa,15,Quequeña,5290,6085,6977,7324,7669
+040116,Sabandía,04,Arequipa,01,Arequipa,16,Sabandía,4397,4476,4544,4648,4745
+040117,Sachaca,04,Arequipa,01,Arequipa,17,Sachaca,25237,26163,27038,28101,29124
+040118,San Juan de Siguas,04,Arequipa,01,Arequipa,18,San Juan de Siguas,640,601,561,546,530
+040119,San Juan de Tarucani,04,Arequipa,01,Arequipa,19,San Juan de Tarucani,1404,1353,1299,1265,1233
+040120,Santa Isabel de Siguas,04,Arequipa,01,Arequipa,20,Santa Isabel de Siguas,720,686,650,635,618
+040121,Santa Rita de Siguas,04,Arequipa,01,Arequipa,21,Santa Rita de Siguas,6885,7187,7478,7821,8156
+040122,Socabaya,04,Arequipa,01,Arequipa,22,Socabaya,77115,79147,80977,83367,85605
+040123,Tiabaya,04,Arequipa,01,Arequipa,23,Tiabaya,16622,16848,17023,17297,17520
+040124,Uchumayo,04,Arequipa,01,Arequipa,24,Uchumayo,15153,15689,16195,16812,17404
+040125,Vitor,04,Arequipa,01,Arequipa,25,Vitor,4151,4332,4506,4713,4915
+040126,Yanahuara,04,Arequipa,01,Arequipa,26,Yanahuara,25766,26099,26354,26755,27081
+040127,Yarabamba,04,Arequipa,01,Arequipa,27,Yarabamba,1433,1482,1528,1584,1638
+040128,Yura,04,Arequipa,01,Arequipa,28,Yura,36865,39899,43033,44322,45585
+040129,José Luis Bustamante Y Rivero,04,Arequipa,01,Arequipa,29,José Luis Bustamante Y Rivero,81621,82261,82642,83264,83807
+040200,Camaná,04,Arequipa,02,Camaná,00,NA,59939,60900,61708,62433,63098
+040201,Camaná,04,Arequipa,02,Camaná,01,Camaná,12995,12855,12677,12527,12379
+040202,José María Químper,04,Arequipa,02,Camaná,02,José María Químper,4568,4645,4710,4761,4804
+040203,Mariano Nicolás Valcárcel,04,Arequipa,02,Camaná,03,Mariano Nicolás Valcárcel,7579,8014,8448,8863,9273
+040204,Mariscal Cáceres,04,Arequipa,02,Camaná,04,Mariscal Cáceres,6273,6371,6450,6512,6562
+040205,Nicolás de Piérola,04,Arequipa,02,Camaná,05,Nicolás de Piérola,7423,7583,7723,7843,7949
+040206,Ocoña,04,Arequipa,02,Camaná,06,Ocoña,4110,4082,4040,4005,3970
+040207,Quilca,04,Arequipa,02,Camaná,07,Quilca,1021,1048,1072,1093,1115
+040208,Samuel Pastor,04,Arequipa,02,Camaná,08,Samuel Pastor,15970,16302,16588,16829,17046
+040300,Caravelí,04,Arequipa,03,Caravelí,00,NA,42127,42961,43690,44283,44803
+040301,Caravelí,04,Arequipa,03,Caravelí,01,Caravelí,4157,4198,4227,4284,4332
+040302,Acari,04,Arequipa,03,Caravelí,02,Acari,4976,5081,5172,5283,5381
+040303,Atico,04,Arequipa,03,Caravelí,03,Atico,5641,5809,5962,6127,6271
+040304,Atiquipa,04,Arequipa,03,Caravelí,04,Atiquipa,511,493,475,466,455
+040305,Bella Unión,04,Arequipa,03,Caravelí,05,Bella Unión,3147,3065,2978,2935,2895
+040306,Cahuacho,04,Arequipa,03,Caravelí,06,Cahuacho,646,628,609,599,591
+040307,Chala,04,Arequipa,03,Caravelí,07,Chala,9338,9862,10368,10605,10832
+040308,Chaparra,04,Arequipa,03,Caravelí,08,Chaparra,3653,3639,3613,3567,3516
+040309,Huanuhuanu,04,Arequipa,03,Caravelí,09,Huanuhuanu,3080,3144,3199,3268,3327
+040310,Jaqui,04,Arequipa,03,Caravelí,10,Jaqui,1592,1585,1576,1581,1585
+040311,Lomas,04,Arequipa,03,Caravelí,11,Lomas,1511,1548,1580,1603,1625
+040312,Quicacha,04,Arequipa,03,Caravelí,12,Quicacha,1899,1903,1902,1905,1906
+040313,Yauca,04,Arequipa,03,Caravelí,13,Yauca,1976,2006,2029,2060,2087
+040400,Castilla,04,Arequipa,04,Castilla,00,NA,35129,34984,34743,34564,34389
+040401,Aplao,04,Arequipa,04,Castilla,01,Aplao,8932,8961,8964,8994,9023
+040402,Andagua,04,Arequipa,04,Castilla,02,Andagua,1049,1031,1010,993,977
+040403,Ayo,04,Arequipa,04,Castilla,03,Ayo,246,239,230,223,216
+040404,Chachas,04,Arequipa,04,Castilla,04,Chachas,1682,1664,1643,1611,1579
+040405,Chilcaymarca,04,Arequipa,04,Castilla,05,Chilcaymarca,999,1018,1034,1053,1073
+040406,Choco,04,Arequipa,04,Castilla,06,Choco,721,694,666,641,618
+040407,Huancarqui,04,Arequipa,04,Castilla,07,Huancarqui,1559,1574,1586,1602,1618
+040408,Machaguay,04,Arequipa,04,Castilla,08,Machaguay,510,484,457,433,408
+040409,Orcopampa,04,Arequipa,04,Castilla,09,Orcopampa,8501,8542,8557,8612,8667
+040410,Pampacolca,04,Arequipa,04,Castilla,10,Pampacolca,2024,1944,1862,1788,1717
+040411,Tipan,04,Arequipa,04,Castilla,11,Tipan,450,440,429,420,411
+040412,Uñón,04,Arequipa,04,Castilla,12,Uñón,210,206,202,200,197
+040413,Uraca,04,Arequipa,04,Castilla,13,Uraca,6666,6638,6590,6510,6429
+040414,Viraco,04,Arequipa,04,Castilla,14,Viraco,1580,1549,1513,1484,1456
+040500,Caylloma,04,Arequipa,05,Caylloma,00,NA,92761,95211,97458,99437,101277
+040501,Chivay,04,Arequipa,05,Caylloma,01,Chivay,5991,5948,5889,5877,5854
+040502,Achoma,04,Arequipa,05,Caylloma,02,Achoma,861,840,817,817,815
+040503,Cabanaconde,04,Arequipa,05,Caylloma,03,Cabanaconde,2199,2149,2094,2077,2059
+040504,Callalli,04,Arequipa,05,Caylloma,04,Callalli,1497,1427,1357,1334,1307
+040505,Caylloma,04,Arequipa,05,Caylloma,05,Caylloma,3739,3718,3688,3677,3659
+040506,Coporaque,04,Arequipa,05,Caylloma,06,Coporaque,1165,1147,1126,1125,1121
+040507,Huambo,04,Arequipa,05,Caylloma,07,Huambo,693,678,660,655,649
+040508,Huanca,04,Arequipa,05,Caylloma,08,Huanca,1041,1003,967,966,962
+040509,Ichupampa,04,Arequipa,05,Caylloma,09,Ichupampa,575,574,572,572,571
+040510,Lari,04,Arequipa,05,Caylloma,10,Lari,914,881,847,830,813
+040511,Lluta,04,Arequipa,05,Caylloma,11,Lluta,743,723,703,695,687
+040512,Maca,04,Arequipa,05,Caylloma,12,Maca,719,704,687,683,677
+040513,Madrigal,04,Arequipa,05,Caylloma,13,Madrigal,666,664,660,659,656
+040514,San Antonio de Chuca,04,Arequipa,05,Caylloma,14,San Antonio de Chuca,924,901,878,867,855
+040515,Sibayo,04,Arequipa,05,Caylloma,15,Sibayo,695,687,677,677,675
+040516,Tapay,04,Arequipa,05,Caylloma,16,Tapay,780,799,817,844,870
+040517,Tisco,04,Arequipa,05,Caylloma,17,Tisco,1529,1507,1483,1483,1482
+040518,Tuti,04,Arequipa,05,Caylloma,18,Tuti,636,617,598,590,581
+040519,Yanque,04,Arequipa,05,Caylloma,19,Yanque,2182,2173,2158,2150,2138
+040520,Majes,04,Arequipa,05,Caylloma,20,Majes,65212,68071,70780,72859,74846
+040600,Condesuyos,04,Arequipa,06,Condesuyos,00,NA,16720,16595,16426,16294,16167
+040601,Chuquibamba,04,Arequipa,06,Condesuyos,01,Chuquibamba,3392,3380,3361,3347,3336
+040602,Andaray,04,Arequipa,06,Condesuyos,02,Andaray,684,685,685,678,671
+040603,Cayarani,04,Arequipa,06,Condesuyos,03,Cayarani,3328,3307,3275,3263,3251
+040604,Chichas,04,Arequipa,06,Condesuyos,04,Chichas,693,684,673,663,653
+040605,Iray,04,Arequipa,06,Condesuyos,05,Iray,614,607,599,591,584
+040606,Río Grande,04,Arequipa,06,Condesuyos,06,Río Grande,3440,3450,3451,3456,3461
+040607,Salamanca,04,Arequipa,06,Condesuyos,07,Salamanca,479,448,419,396,371
+040608,Yanaquihua,04,Arequipa,06,Condesuyos,08,Yanaquihua,4090,4034,3963,3900,3840
+040700,Islay,04,Arequipa,07,Islay,00,NA,54162,54580,54851,55120,55360
+040701,Mollendo,04,Arequipa,07,Islay,01,Mollendo,25937,26230,26453,26658,26843
+040702,Cocachacra,04,Arequipa,07,Islay,02,Cocachacra,8474,8430,8363,8321,8284
+040703,Dean Valdivia,04,Arequipa,07,Islay,03,Dean Valdivia,6961,7055,7129,7196,7255
+040704,Islay,04,Arequipa,07,Islay,04,Islay,5114,5165,5202,5237,5269
+040705,Mejía,04,Arequipa,07,Islay,05,Mejía,1217,1230,1240,1250,1261
+040706,Punta de Bombón,04,Arequipa,07,Islay,06,Punta de Bombón,6459,6470,6464,6458,6448
+040800,La Unión,04,Arequipa,08,La Unión,00,NA,13149,12989,12797,12642,12496
+040801,Cotahuasi,04,Arequipa,08,La Unión,01,Cotahuasi,2981,2984,2981,2981,2982
+040802,Alca,04,Arequipa,08,La Unión,02,Alca,1892,1875,1851,1831,1813
+040803,Charcana,04,Arequipa,08,La Unión,03,Charcana,594,591,586,582,579
+040804,Huaynacotas,04,Arequipa,08,La Unión,04,Huaynacotas,1943,1907,1867,1832,1798
+040805,Pampamarca,04,Arequipa,08,La Unión,05,Pampamarca,1148,1129,1106,1087,1068
+040806,Puyca,04,Arequipa,08,La Unión,06,Puyca,2417,2384,2346,2314,2283
+040807,Quechualla,04,Arequipa,08,La Unión,07,Quechualla,277,278,278,279,279
+040808,Sayla,04,Arequipa,08,La Unión,08,Sayla,326,313,300,289,279
+040809,Tauría,04,Arequipa,08,La Unión,09,Tauría,317,315,313,311,309
+040810,Tomepampa,04,Arequipa,08,La Unión,10,Tomepampa,689,675,658,643,630
+040811,Toro,04,Arequipa,08,La Unión,11,Toro,565,538,511,493,476
+050000,Ayacucho,05,Ayacucho,00,NA,00,NA,659061,664494,668213,669979,670579
+050100,Huamanga,05,Ayacucho,01,Huamanga,00,NA,302054,310318,317801,321995,324901
+050101,Ayacucho,05,Ayacucho,01,Huamanga,01,Ayacucho,105944,108794,111370,112794,113761
+050102,Acocro,05,Ayacucho,01,Huamanga,02,Acocro,8308,8573,8818,8974,9095
+050103,Acos Vinchos,05,Ayacucho,01,Huamanga,03,Acos Vinchos,4714,4844,4964,5030,5079
+050104,Carmen Alto,05,Ayacucho,01,Huamanga,04,Carmen Alto,30156,30973,31712,32121,32402
+050105,Chiara,05,Ayacucho,01,Huamanga,05,Chiara,6318,6512,6691,6802,6886
+050106,Ocros,05,Ayacucho,01,Huamanga,06,Ocros,5848,6018,6172,6263,6328
+050107,Pacaycasa,05,Ayacucho,01,Huamanga,07,Pacaycasa,3380,3477,3565,3617,3654
+050108,Quinua,05,Ayacucho,01,Huamanga,08,Quinua,5518,5676,5821,5905,5966
+050109,San José de Ticllas,05,Ayacucho,01,Huamanga,09,San José de Ticllas,1515,1558,1596,1620,1635
+050110,San Juan Bautista,05,Ayacucho,01,Huamanga,10,San Juan Bautista,51455,52764,53934,54544,54933
+050111,Santiago de Pischa,05,Ayacucho,01,Huamanga,11,Santiago de Pischa,1552,1598,1639,1662,1680
+050112,Socos,05,Ayacucho,01,Huamanga,12,Socos,6486,6674,6846,6947,7022
+050113,Tambillo,05,Ayacucho,01,Huamanga,13,Tambillo,5655,5835,6001,6106,6187
+050114,Vinchos,05,Ayacucho,01,Huamanga,14,Vinchos,15293,15780,16233,16519,16743
+050115,Jesús Nazareno,05,Ayacucho,01,Huamanga,15,Jesús Nazareno,19955,20517,21028,21321,21530
+050116,Andrés Avelino Cáceres Dorregaray,05,Ayacucho,01,Huamanga,16,Andrés Avelino Cáceres Dorregaray,29957,30725,31411,31770,32000
+050200,Cangallo,05,Ayacucho,02,Cangallo,00,NA,32929,32750,32482,32157,31822
+050201,Cangallo,05,Ayacucho,02,Cangallo,01,Cangallo,6001,5929,5842,5742,5638
+050202,Chuschi,05,Ayacucho,02,Cangallo,02,Chuschi,9015,9080,9119,9146,9181
+050203,Los Morochucos,05,Ayacucho,02,Cangallo,03,Los Morochucos,8212,8227,8217,8188,8152
+050204,María Parado de Bellido,05,Ayacucho,02,Cangallo,04,María Parado de Bellido,2145,2088,2026,1963,1899
+050205,Paras,05,Ayacucho,02,Cangallo,05,Paras,4404,4347,4279,4202,4122
+050206,Totos,05,Ayacucho,02,Cangallo,06,Totos,3152,3079,2999,2916,2830
+050300,Huanca Sancos,05,Ayacucho,03,Huanca Sancos,00,NA,8687,8525,8341,8214,8113
+050301,Sancos,05,Ayacucho,03,Huanca Sancos,01,Sancos,3246,3217,3181,3156,3137
+050302,Carapo,05,Ayacucho,03,Huanca Sancos,02,Carapo,1892,1836,1774,1731,1696
+050303,Sacsamarca,05,Ayacucho,03,Huanca Sancos,03,Sacsamarca,1380,1346,1308,1282,1262
+050304,Santiago de Lucanamarca,05,Ayacucho,03,Huanca Sancos,04,Santiago de Lucanamarca,2169,2126,2078,2045,2018
+050400,Huanta,05,Ayacucho,04,Huanta,00,NA,96811,97144,97205,97759,98088
+050401,Huanta,05,Ayacucho,04,Huanta,01,Huanta,42245,42825,43266,43939,44491
+050402,Ayahuanco,05,Ayacucho,04,Huanta,02,Ayahuanco,1216,1139,1072,1023,981
+050403,Huamanguilla,05,Ayacucho,04,Huanta,03,Huamanguilla,4374,4287,4188,4113,4028
+050404,Iguain,05,Ayacucho,04,Huanta,04,Iguain,2859,2865,2861,2860,2857
+050405,Luricocha,05,Ayacucho,04,Huanta,05,Luricocha,6078,6157,6217,6311,6389
+050406,Santillana,05,Ayacucho,04,Huanta,06,Santillana,4058,3985,3900,3623,3553
+050407,Sivia,05,Ayacucho,04,Huanta,07,Sivia,11953,11836,11685,11594,11474
+050408,Llochegua,05,Ayacucho,04,Huanta,08,Llochegua,11241,11371,11466,11622,11748
+050409,Canayre,05,Ayacucho,04,Huanta,09,Canayre,4074,4233,4384,4515,4646
+050410,Uchuraccay,05,Ayacucho,04,Huanta,10,Uchuraccay,3842,3763,3672,3605,3526
+050411,Pucacolpa,05,Ayacucho,04,Huanta,11,Pucacolpa,2612,2453,2299,2167,2040
+050412,Chaca,05,Ayacucho,04,Huanta,12,Chaca,2259,2230,2195,2172,2143
+050413,Putis,05,Ayacucho,04,Huanta,13,Putis,NA,NA,NA,215,212
+050500,La Mar,05,Ayacucho,05,La Mar,00,NA,76706,76096,75277,74448,73649
+050501,San Miguel,05,Ayacucho,05,La Mar,01,San Miguel,11298,11373,11410,8145,8191
+050502,Anco,05,Ayacucho,05,La Mar,02,Anco,8471,8300,8105,5691,5545
+050503,Ayna,05,Ayacucho,05,La Mar,03,Ayna,10105,10067,9995,9932,9874
+050504,Chilcas,05,Ayacucho,05,La Mar,04,Chilcas,1705,1633,1558,1502,1447
+050505,Chungui,05,Ayacucho,05,La Mar,05,Chungui,4553,4505,4443,4379,4320
+050506,Luis Carranza,05,Ayacucho,05,La Mar,06,Luis Carranza,1353,1361,1365,1372,1380
+050507,Santa Rosa,05,Ayacucho,05,La Mar,07,Santa Rosa,12540,12633,12686,12728,12772
+050508,Tambo,05,Ayacucho,05,La Mar,08,Tambo,10395,9850,9302,8733,8165
+050509,Samugari,05,Ayacucho,05,La Mar,09,Samugari,10664,10847,10997,8914,9020
+050510,Anchihuay,05,Ayacucho,05,La Mar,10,Anchihuay,4500,4429,4345,4255,4170
+050511,Oroncoy,05,Ayacucho,05,La Mar,11,Oroncoy,1122,1098,1071,1049,1027
+050512,Unión Progreso,05,Ayacucho,05,La Mar,12,Unión Progreso,NA,NA,NA,2203,2146
+050513,Rio Magdalena,05,Ayacucho,05,La Mar,13,Rio Magdalena,NA,NA,NA,2214,2241
+050514,Ninabamba,05,Ayacucho,05,La Mar,14,Ninabamba,NA,NA,NA,1869,1880
+050515,Patibamba,05,Ayacucho,05,La Mar,15,Patibamba,NA,NA,NA,1462,1471
+050600,Lucanas,05,Ayacucho,06,Lucanas,00,NA,53946,52957,51838,51052,50431
+050601,Puquio,05,Ayacucho,06,Lucanas,01,Puquio,14557,14572,14535,14527,14517
+050602,Aucara,05,Ayacucho,06,Lucanas,02,Aucara,2908,2788,2665,2574,2503
+050603,Cabana,05,Ayacucho,06,Lucanas,03,Cabana,2155,2068,1976,1909,1857
+050604,Carmen Salcedo,05,Ayacucho,06,Lucanas,04,Carmen Salcedo,1743,1637,1532,1453,1391
+050605,Chaviña,05,Ayacucho,06,Lucanas,05,Chaviña,2322,2312,2296,2286,2279
+050606,Chipao,05,Ayacucho,06,Lucanas,06,Chipao,2658,2551,2443,2363,2299
+050607,Huac-Huas,05,Ayacucho,06,Lucanas,07,Huac-Huas,1702,1627,1550,1493,1449
+050608,Laramate,05,Ayacucho,06,Lucanas,08,Laramate,1723,1702,1676,1658,1645
+050609,Leoncio Prado,05,Ayacucho,06,Lucanas,09,Leoncio Prado,1170,1133,1095,1067,1045
+050610,Llauta,05,Ayacucho,06,Lucanas,10,Llauta,948,913,877,854,832
+050611,Lucanas,05,Ayacucho,06,Lucanas,11,Lucanas,2872,2790,2703,2640,2590
+050612,Ocaña,05,Ayacucho,06,Lucanas,12,Ocaña,2420,2334,2244,2178,2127
+050613,Otoca,05,Ayacucho,06,Lucanas,13,Otoca,2013,1932,1848,1786,1738
+050614,Saisa,05,Ayacucho,06,Lucanas,14,Saisa,859,854,848,844,841
+050615,San Cristóbal,05,Ayacucho,06,Lucanas,15,San Cristóbal,1855,1842,1823,1811,1802
+050616,San Juan,05,Ayacucho,06,Lucanas,16,San Juan,1028,1012,994,981,971
+050617,San Pedro,05,Ayacucho,06,Lucanas,17,San Pedro,2776,2722,2661,2618,2584
+050618,San Pedro de Palco,05,Ayacucho,06,Lucanas,18,San Pedro de Palco,983,941,898,866,841
+050619,Sancos,05,Ayacucho,06,Lucanas,19,Sancos,5008,4947,4869,4817,4776
+050620,Santa Ana de Huaycahuacho,05,Ayacucho,06,Lucanas,20,Santa Ana de Huaycahuacho,838,846,850,854,858
+050621,Santa Lucía,05,Ayacucho,06,Lucanas,21,Santa Lucía,1408,1434,1455,1473,1486
+050700,Parinacochas,05,Ayacucho,07,Parinacochas,00,NA,29337,29279,29139,29109,29015
+050701,Coracora,05,Ayacucho,07,Parinacochas,01,Coracora,13871,13733,13549,13414,13240
+050702,Chumpi,05,Ayacucho,07,Parinacochas,02,Chumpi,2312,2248,2179,2117,2053
+050703,Coronel Castañeda,05,Ayacucho,07,Parinacochas,03,Coronel Castañeda,1829,1884,1934,1992,2045
+050704,Pacapausa,05,Ayacucho,07,Parinacochas,04,Pacapausa,644,599,556,520,486
+050705,Pullo,05,Ayacucho,07,Parinacochas,05,Pullo,6757,6984,7191,7424,7641
+050706,Puyusca,05,Ayacucho,07,Parinacochas,06,Puyusca,2179,2154,2123,2098,2069
+050707,San Francisco de Ravacayco,05,Ayacucho,07,Parinacochas,07,San Francisco de Ravacayco,545,532,518,506,493
+050708,Upahuacho,05,Ayacucho,07,Parinacochas,08,Upahuacho,1200,1145,1089,1038,988
+050800,Páucar del Sara Sara,05,Ayacucho,08,Páucar del Sara Sara,00,NA,10097,10017,9909,9800,9694
+050801,Pausa,05,Ayacucho,08,Páucar del Sara Sara,01,Pausa,3354,3372,3376,3380,3385
+050802,Colta,05,Ayacucho,08,Páucar del Sara Sara,02,Colta,486,463,440,417,394
+050803,Corculla,05,Ayacucho,08,Páucar del Sara Sara,03,Corculla,466,456,445,434,423
+050804,Lampa,05,Ayacucho,08,Páucar del Sara Sara,04,Lampa,2071,2031,1983,1937,1892
+050805,Marcabamba,05,Ayacucho,08,Páucar del Sara Sara,05,Marcabamba,650,636,621,606,591
+050806,Oyolo,05,Ayacucho,08,Páucar del Sara Sara,06,Oyolo,1569,1610,1647,1682,1716
+050807,Pararca,05,Ayacucho,08,Páucar del Sara Sara,07,Pararca,430,412,392,373,354
+050808,San Javier de Alpabamba,05,Ayacucho,08,Páucar del Sara Sara,08,San Javier de Alpabamba,305,290,275,260,246
+050809,San José de Ushua,05,Ayacucho,08,Páucar del Sara Sara,09,San José de Ushua,238,242,247,251,255
+050810,Sara Sara,05,Ayacucho,08,Páucar del Sara Sara,10,Sara Sara,528,505,483,460,438
+050900,Sucre,05,Ayacucho,09,Sucre,00,NA,9774,9543,9292,9131,9013
+050901,Querobamba,05,Ayacucho,09,Sucre,01,Querobamba,2629,2618,2600,2589,2583
+050902,Belén,05,Ayacucho,09,Sucre,02,Belén,340,325,310,300,293
+050903,Chalcos,05,Ayacucho,09,Sucre,03,Chalcos,499,481,461,448,439
+050904,Chilcayoc,05,Ayacucho,09,Sucre,04,Chilcayoc,511,497,481,471,464
+050905,Huacaña,05,Ayacucho,09,Sucre,05,Huacaña,382,365,348,337,328
+050906,Morcolla,05,Ayacucho,09,Sucre,06,Morcolla,1304,1274,1243,1223,1208
+050907,Paico,05,Ayacucho,09,Sucre,07,Paico,570,544,517,499,486
+050908,San Pedro de Larcay,05,Ayacucho,09,Sucre,08,San Pedro de Larcay,842,829,814,805,798
+050909,San Salvador de Quije,05,Ayacucho,09,Sucre,09,San Salvador de Quije,1027,982,936,906,883
+050910,Santiago de Páucaray,05,Ayacucho,09,Sucre,10,Santiago de Páucaray,614,590,565,549,537
+050911,Soras,05,Ayacucho,09,Sucre,11,Soras,1056,1038,1017,1004,994
+051000,Víctor Fajardo,05,Ayacucho,10,Víctor Fajardo,00,NA,20709,20310,19866,19558,19318
+051001,Huancapi,05,Ayacucho,10,Víctor Fajardo,01,Huancapi,1963,1923,1878,1847,1823
+051002,Alcamenca,05,Ayacucho,10,Víctor Fajardo,02,Alcamenca,1548,1474,1399,1345,1302
+051003,Apongo,05,Ayacucho,10,Víctor Fajardo,03,Apongo,641,602,565,537,516
+051004,Asquipata,05,Ayacucho,10,Víctor Fajardo,04,Asquipata,486,484,482,481,480
+051005,Canaria,05,Ayacucho,10,Víctor Fajardo,05,Canaria,4050,4045,4027,4018,4012
+051006,Cayara,05,Ayacucho,10,Víctor Fajardo,06,Cayara,1174,1158,1138,1125,1115
+051007,Colca,05,Ayacucho,10,Víctor Fajardo,07,Colca,1055,1039,1020,1007,997
+051008,Huamánquiquia,05,Ayacucho,10,Víctor Fajardo,08,Huamánquiquia,1137,1124,1107,1096,1087
+051009,Huancaraylla,05,Ayacucho,10,Víctor Fajardo,09,Huancaraylla,1322,1283,1241,1211,1188
+051010,Huaya,05,Ayacucho,10,Víctor Fajardo,10,Huaya,2152,2070,1985,1924,1876
+051011,Sarhua,05,Ayacucho,10,Víctor Fajardo,11,Sarhua,2693,2661,2624,2599,2579
+051012,Vilcanchos,05,Ayacucho,10,Víctor Fajardo,12,Vilcanchos,2488,2447,2400,2368,2343
+051100,Vilcas Huamán,05,Ayacucho,11,Vilcas Huamán,00,NA,18011,17555,17063,16756,16535
+051101,Vilcas Huamán,05,Ayacucho,11,Vilcas Huamán,01,Vilcas Huamán,6798,6663,6513,6421,6353
+051102,Accomarca,05,Ayacucho,11,Vilcas Huamán,02,Accomarca,921,887,851,828,812
+051103,Carhuanca,05,Ayacucho,11,Vilcas Huamán,03,Carhuanca,861,837,812,796,785
+051104,Concepción,05,Ayacucho,11,Vilcas Huamán,04,Concepción,1725,1642,1558,1504,1465
+051105,Huambalpa,05,Ayacucho,11,Vilcas Huamán,05,Huambalpa,1402,1342,1280,1240,1212
+051106,Independencia,05,Ayacucho,11,Vilcas Huamán,06,Independencia,1191,1144,1095,1064,1042
+051107,Saurama,05,Ayacucho,11,Vilcas Huamán,07,Saurama,1105,1075,1042,1022,1007
+051108,Vischongo,05,Ayacucho,11,Vilcas Huamán,08,Vischongo,4008,3965,3912,3881,3859
+060000,Cajamarca,06,Cajamarca,00,NA,00,NA,1438325,1447891,1453711,1455245,1454217
+060100,Cajamarca,06,Cajamarca,01,Cajamarca,00,NA,375029,382068,388170,390645,392571
+060101,Cajamarca,06,Cajamarca,01,Cajamarca,01,Cajamarca,235184,240461,245137,247044,248596
+060102,Asunción,06,Cajamarca,01,Cajamarca,02,Asunción,8366,8137,7896,7632,7359
+060103,Chetilla,06,Cajamarca,01,Cajamarca,03,Chetilla,3885,3880,3863,3847,3827
+060104,Cospan,06,Cajamarca,01,Cajamarca,04,Cospan,7266,7222,7159,7117,7069
+060105,Encañada,06,Cajamarca,01,Cajamarca,05,Encañada,20512,20310,20052,19735,19393
+060106,Jesús,06,Cajamarca,01,Cajamarca,06,Jesús,16255,16483,16666,16751,16813
+060107,Llacanora,06,Cajamarca,01,Cajamarca,07,Llacanora,6342,6508,6657,6695,6723
+060108,Los Baños del Inca,06,Cajamarca,01,Cajamarca,08,Los Baños del Inca,49824,51608,53298,54396,55412
+060109,Magdalena,06,Cajamarca,01,Cajamarca,09,Magdalena,8868,8851,8809,8770,8722
+060110,Matara,06,Cajamarca,01,Cajamarca,10,Matara,3786,3795,3793,3784,3766
+060111,Namora,06,Cajamarca,01,Cajamarca,11,Namora,10169,10253,10308,10364,10406
+060112,San Juan,06,Cajamarca,01,Cajamarca,12,San Juan,4572,4560,4532,4510,4485
+060200,Cajabamba,06,Cajamarca,02,Cajabamba,00,NA,81489,82434,83167,83516,83747
+060201,Cajabamba,06,Cajamarca,02,Cajabamba,01,Cajabamba,33115,33715,34231,34538,34762
+060202,Cachachi,06,Cajamarca,02,Cajabamba,02,Cachachi,25315,25479,25575,25589,25599
+060203,Condebamba,06,Cajamarca,02,Cajabamba,03,Condebamba,14929,15143,15319,15434,15519
+060204,Sitacocha,06,Cajamarca,02,Cajabamba,04,Sitacocha,8130,8097,8042,7955,7867
+060300,Celendín,06,Cajamarca,03,Celendín,00,NA,84423,84282,83916,83575,82965
+060301,Celendín,06,Cajamarca,03,Celendín,01,Celendín,28346,28761,29097,29442,29695
+060302,Chumuch,06,Cajamarca,03,Celendín,02,Chumuch,2758,2732,2699,2667,2626
+060303,Cortegana,06,Cajamarca,03,Celendín,03,Cortegana,7449,7406,7343,7282,7197
+060304,Huasmin,06,Cajamarca,03,Celendín,04,Huasmin,11223,11069,10885,10703,10485
+060305,Jorge Chávez,06,Cajamarca,03,Celendín,05,Jorge Chávez,474,468,461,455,447
+060306,José Gálvez,06,Cajamarca,03,Celendín,06,José Gálvez,2765,2762,2751,2740,2720
+060307,Miguel Iglesias,06,Cajamarca,03,Celendín,07,Miguel Iglesias,4054,3993,3922,3853,3771
+060308,Oxamarca,06,Cajamarca,03,Celendín,08,Oxamarca,5909,5874,5824,5776,5710
+060309,Sorochuco,06,Cajamarca,03,Celendín,09,Sorochuco,7833,7683,7514,7348,7158
+060310,Sucre,06,Cajamarca,03,Celendín,10,Sucre,5511,5491,5455,5419,5364
+060311,Utco,06,Cajamarca,03,Celendín,11,Utco,1112,1097,1081,1067,1052
+060312,La Libertad de Pallán,06,Cajamarca,03,Celendín,12,La Libertad de Pallán,6989,6946,6884,6823,6740
+060400,Chota,06,Cajamarca,04,Chota,00,NA,152703,152413,151714,151243,150552
+060401,Chota,06,Cajamarca,04,Chota,01,Chota,50325,50847,51231,51686,52061
+060402,Anguía,06,Cajamarca,04,Chota,02,Anguía,3356,3290,3216,3147,3074
+060403,Chadín,06,Cajamarca,04,Chota,03,Chadín,3697,3669,3632,3600,3563
+060404,Chiguirip,06,Cajamarca,04,Chota,04,Chiguirip,3771,3704,3628,3558,3483
+060405,Chimban,06,Cajamarca,04,Chota,05,Chimban,2345,2274,2201,2130,2056
+060406,Choropampa,06,Cajamarca,04,Chota,06,Choropampa,2439,2377,2311,2248,2182
+060407,Cochabamba,06,Cajamarca,04,Chota,07,Cochabamba,5950,5899,5832,5774,5708
+060408,Conchán,06,Cajamarca,04,Chota,08,Conchán,6013,5986,5944,5911,5869
+060409,Huambos,06,Cajamarca,04,Chota,09,Huambos,8711,8660,8584,8522,8448
+060410,Lajas,06,Cajamarca,04,Chota,10,Lajas,11745,11681,11586,11509,11415
+060411,Llama,06,Cajamarca,04,Chota,11,Llama,7484,7444,7385,7337,7278
+060412,Miracosta,06,Cajamarca,04,Chota,12,Miracosta,3358,3333,3300,3272,3239
+060413,Paccha,06,Cajamarca,04,Chota,13,Paccha,4697,4666,4621,4584,4540
+060414,Pión,06,Cajamarca,04,Chota,14,Pión,1272,1248,1222,1197,1171
+060415,Querocoto,06,Cajamarca,04,Chota,15,Querocoto,8874,8863,8826,8803,8768
+060416,San Juan de Licupis,06,Cajamarca,04,Chota,16,San Juan de Licupis,995,988,977,968,958
+060417,Tacabamba,06,Cajamarca,04,Chota,17,Tacabamba,16986,16850,16668,16513,16334
+060418,Tocmoche,06,Cajamarca,04,Chota,18,Tocmoche,896,890,880,872,864
+060419,Chalamarca,06,Cajamarca,04,Chota,19,Chalamarca,9789,9744,9670,9612,9541
+060500,Contumazá,06,Cajamarca,05,Contumazá,00,NA,29594,29516,29357,29208,28964
+060501,Contumazá,06,Cajamarca,05,Contumazá,01,Contumazá,8142,8111,8061,8017,7945
+060502,Chilete,06,Cajamarca,05,Contumazá,02,Chilete,2806,2783,2752,2721,2669
+060503,Cupisnique,06,Cajamarca,05,Contumazá,03,Cupisnique,1424,1415,1402,1389,1369
+060504,Guzmango,06,Cajamarca,05,Contumazá,04,Guzmango,2855,2854,2845,2842,2835
+060505,San Benito,06,Cajamarca,05,Contumazá,05,San Benito,3591,3605,3607,3608,3612
+060506,Santa Cruz de Toledo,06,Cajamarca,05,Contumazá,06,Santa Cruz de Toledo,1059,1054,1047,1040,1030
+060507,Tantarica,06,Cajamarca,05,Contumazá,07,Tantarica,2628,2643,2650,2651,2653
+060508,Yonan,06,Cajamarca,05,Contumazá,08,Yonan,7089,7051,6993,6940,6851
+060600,Cutervo,06,Cajamarca,06,Cutervo,00,NA,125818,125048,123948,123361,122594
+060601,Cutervo,06,Cajamarca,06,Cutervo,01,Cutervo,51462,51440,51272,51313,51275
+060602,Callayuc,06,Cajamarca,06,Cutervo,02,Callayuc,9736,9694,9627,9598,9554
+060603,Choros,06,Cajamarca,06,Cutervo,03,Choros,3323,3308,3286,3277,3262
+060604,Cujillo,06,Cajamarca,06,Cutervo,04,Cujillo,2616,2595,2569,2552,2532
+060605,La Ramada,06,Cajamarca,06,Cutervo,05,La Ramada,4077,4032,3977,3940,3897
+060606,Pimpingos,06,Cajamarca,06,Cutervo,06,Pimpingos,5269,5202,5121,5063,4998
+060607,Querocotillo,06,Cajamarca,06,Cutervo,07,Querocotillo,13843,13646,13416,13241,13051
+060608,San Andrés de Cutervo,06,Cajamarca,06,Cutervo,08,San Andrés de Cutervo,4419,4353,4276,4219,4155
+060609,San Juan de Cutervo,06,Cajamarca,06,Cutervo,09,San Juan de Cutervo,1897,1878,1856,1840,1822
+060610,San Luis de Lucma,06,Cajamarca,06,Cutervo,10,San Luis de Lucma,3127,3067,2999,2945,2888
+060611,Santa Cruz,06,Cajamarca,06,Cutervo,11,Santa Cruz,2747,2713,2671,2641,2608
+060612,Santo Domingo de La Capilla,06,Cajamarca,06,Cutervo,12,Santo Domingo de La Capilla,5076,5052,5015,4999,4974
+060613,Santo Tomás,06,Cajamarca,06,Cutervo,13,Santo Tomás,7695,7660,7603,7577,7541
+060614,Socota,06,Cajamarca,06,Cutervo,14,Socota,9378,9279,9156,9072,8975
+060615,Toribio Casanova,06,Cajamarca,06,Cutervo,15,Toribio Casanova,1153,1129,1104,1084,1062
+060700,Hualgayoc,06,Cajamarca,07,Hualgayoc,00,NA,84617,84378,83913,83473,82766
+060701,Bambamarca,06,Cajamarca,07,Hualgayoc,01,Bambamarca,65279,65077,64702,64343,63780
+060702,Chugur,06,Cajamarca,07,Hualgayoc,02,Chugur,3039,3003,2959,2917,2866
+060703,Hualgayoc,06,Cajamarca,07,Hualgayoc,03,Hualgayoc,16299,16298,16252,16213,16120
+060800,Jaén,06,Cajamarca,08,Jaén,00,NA,199911,202081,203724,204729,205445
+060801,Jaén,06,Cajamarca,08,Jaén,01,Jaén,102445,104361,106009,107039,107925
+060802,Bellavista,06,Cajamarca,08,Jaén,02,Bellavista,16212,16313,16370,16428,16464
+060803,Chontali,06,Cajamarca,08,Jaén,03,Chontali,10329,10374,10391,10435,10464
+060804,Colasay,06,Cajamarca,08,Jaén,04,Colasay,10682,10639,10567,10498,10414
+060805,Huabal,06,Cajamarca,08,Jaén,05,Huabal,8762,8887,8989,9021,9041
+060806,Las Pirias,06,Cajamarca,08,Jaén,06,Las Pirias,4586,4621,4643,4660,4670
+060807,Pomahuaca,06,Cajamarca,08,Jaén,07,Pomahuaca,9151,9211,9245,9278,9299
+060808,Pucara,06,Cajamarca,08,Jaén,08,Pucara,6878,6873,6850,6873,6888
+060809,Sallique,06,Cajamarca,08,Jaén,09,Sallique,7542,7536,7509,7509,7502
+060810,San Felipe,06,Cajamarca,08,Jaén,10,San Felipe,4868,4809,4740,4662,4577
+060811,San José del Alto,06,Cajamarca,08,Jaén,11,San José del Alto,7847,7959,8050,8114,8151
+060812,Santa Rosa,06,Cajamarca,08,Jaén,12,Santa Rosa,10609,10498,10361,10212,10050
+060900,San Ignacio,06,Cajamarca,09,San Ignacio,00,NA,143012,144580,145770,146477,146978
+060901,San Ignacio,06,Cajamarca,09,San Ignacio,01,San Ignacio,38745,39506,40171,40710,41202
+060902,Chirinos,06,Cajamarca,09,San Ignacio,02,Chirinos,15530,15773,15974,16121,16246
+060903,Huarango,06,Cajamarca,09,San Ignacio,03,Huarango,18874,18766,18607,18384,18131
+060904,La Coipa,06,Cajamarca,09,San Ignacio,04,La Coipa,20778,21032,21229,21354,21446
+060905,Namballe,06,Cajamarca,09,San Ignacio,05,Namballe,9967,9970,9945,9885,9809
+060906,San José de Lourdes,06,Cajamarca,09,San Ignacio,06,San José de Lourdes,19570,19757,19890,19955,19989
+060907,Tabaconas,06,Cajamarca,09,San Ignacio,07,Tabaconas,19548,19776,19954,20068,20155
+061000,San Marcos,06,Cajamarca,10,San Marcos,00,NA,51448,51633,51678,51882,52012
+061001,Pedro Gálvez,06,Cajamarca,10,San Marcos,01,Pedro Gálvez,21245,21494,21685,21941,22165
+061002,Chancay,06,Cajamarca,10,San Marcos,02,Chancay,3099,3088,3069,3058,3042
+061003,Eduardo Villanueva,06,Cajamarca,10,San Marcos,03,Eduardo Villanueva,2903,2975,3039,3114,3186
+061004,Gregorio Pita,06,Cajamarca,10,San Marcos,04,Gregorio Pita,5406,5284,5150,5035,4913
+061005,Ichocan,06,Cajamarca,10,San Marcos,05,Ichocan,1995,1987,1971,1961,1950
+061006,José Manuel Quiroz,06,Cajamarca,10,San Marcos,06,José Manuel Quiroz,3703,3670,3627,3595,3558
+061007,José Sabogal,06,Cajamarca,10,San Marcos,07,José Sabogal,13097,13135,13137,13178,13198
+061100,San Miguel,06,Cajamarca,11,San Miguel,00,NA,48330,47782,47114,46468,45681
+061101,San Miguel,06,Cajamarca,11,San Miguel,01,San Miguel,14260,14167,14036,13919,13767
+061102,Bolívar,06,Cajamarca,11,San Miguel,02,Bolívar,1359,1336,1310,1285,1252
+061103,Calquis,06,Cajamarca,11,San Miguel,03,Calquis,4298,4295,4281,4273,4260
+061104,Catilluc,06,Cajamarca,11,San Miguel,04,Catilluc,2890,2855,2813,2772,2721
+061105,El Prado,06,Cajamarca,11,San Miguel,05,El Prado,1699,1680,1657,1635,1608
+061106,La Florida,06,Cajamarca,11,San Miguel,06,La Florida,2216,2193,2165,2138,2105
+061107,Llapa,06,Cajamarca,11,San Miguel,07,Llapa,4689,4633,4563,4497,4414
+061108,Nanchoc,06,Cajamarca,11,San Miguel,08,Nanchoc,1374,1373,1370,1368,1365
+061109,Niepos,06,Cajamarca,11,San Miguel,09,Niepos,3434,3359,3276,3193,3089
+061110,San Gregorio,06,Cajamarca,11,San Miguel,10,San Gregorio,2306,2293,2274,2257,2236
+061111,San Silvestre de Cochán,06,Cajamarca,11,San Miguel,11,San Silvestre de Cochán,3840,3781,3711,3643,3558
+061112,Tongod,06,Cajamarca,11,San Miguel,12,Tongod,2756,2644,2530,2402,2274
+061113,Unión Agua Blanca,06,Cajamarca,11,San Miguel,13,Unión Agua Blanca,3209,3173,3128,3086,3032
+061200,San Pablo,06,Cajamarca,12,San Pablo,00,NA,22657,22677,22638,22449,22225
+061201,San Pablo,06,Cajamarca,12,San Pablo,01,San Pablo,13417,13457,13460,13372,13263
+061202,San Bernardino,06,Cajamarca,12,San Pablo,02,San Bernardino,4590,4590,4578,4536,4487
+061203,San Luis,06,Cajamarca,12,San Pablo,03,San Luis,983,953,922,886,850
+061204,Tumbaden,06,Cajamarca,12,San Pablo,04,Tumbaden,3667,3677,3678,3655,3625
+061300,Santa Cruz,06,Cajamarca,13,Santa Cruz,00,NA,39294,38999,38602,38219,37717
+061301,Santa Cruz,06,Cajamarca,13,Santa Cruz,01,Santa Cruz,9814,9799,9756,9715,9640
+061302,Andabamba,06,Cajamarca,13,Santa Cruz,02,Andabamba,1371,1343,1311,1280,1247
+061303,Catache,06,Cajamarca,13,Santa Cruz,03,Catache,9808,9852,9870,9891,9875
+061304,Chancaybaños,06,Cajamarca,13,Santa Cruz,04,Chancaybaños,3532,3505,3468,3432,3386
+061305,La Esperanza,06,Cajamarca,13,Santa Cruz,05,La Esperanza,2426,2391,2351,2311,2264
+061306,Ninabamba,06,Cajamarca,13,Santa Cruz,06,Ninabamba,2131,2067,1999,1933,1864
+061307,Pulan,06,Cajamarca,13,Santa Cruz,07,Pulan,4026,3962,3887,3815,3731
+061308,Saucepampa,06,Cajamarca,13,Santa Cruz,08,Saucepampa,1482,1442,1399,1357,1314
+061309,Sexi,06,Cajamarca,13,Santa Cruz,09,Sexi,447,443,437,433,426
+061310,Uticyacu,06,Cajamarca,13,Santa Cruz,10,Uticyacu,1310,1284,1255,1226,1194
+061311,Yauyucán,06,Cajamarca,13,Santa Cruz,11,Yauyucán,2947,2911,2869,2826,2776
+070000,Prov. Const. del Callao,07,Prov. Const. del Callao,00,NA,00,NA,1078789,1105512,1129854,1151480,1171648
+070100,Callao,07,Prov. Const. del Callao,01,Callao,00,NA,1078789,1105512,1129854,1151480,1171648
+070101,Callao,07,Prov. Const. del Callao,01,Callao,01,Callao,492879,503234,512386,520709,528405
+070102,Bellavista,07,Prov. Const. del Callao,01,Callao,02,Bellavista,79358,80139,80704,81122,81428
+070103,Carmen de La Legua Reynoso,07,Prov. Const. del Callao,01,Callao,03,Carmen de La Legua Reynoso,45396,45963,46409,46772,47071
+070104,La Perla,07,Prov. Const. del Callao,01,Callao,04,La Perla,63657,64142,64454,64524,64612
+070105,La Punta,07,Prov. Const. del Callao,01,Callao,05,La Punta,3979,3963,3935,3902,3862
+070106,Ventanilla,07,Prov. Const. del Callao,01,Callao,06,Ventanilla,343900,357035,369618,380894,391564
+070107,Mi Perú,07,Prov. Const. del Callao,01,Callao,07,Mi Perú,49620,51036,52348,53557,54706
+080000,Cusco,08,Cusco,00,NA,00,NA,1320530,1340457,1357075,1369932,1380594
+080100,Cusco,08,Cusco,01,Cusco,00,NA,484248,498169,511019,520558,528541
+080101,Cusco,08,Cusco,01,Cusco,01,Cusco,117110,117821,118127,118510,118843
+080102,Ccorca,08,Cusco,01,Cusco,02,Ccorca,2403,2408,2405,2407,2407
+080103,Poroy,08,Cusco,01,Cusco,03,Poroy,10535,11418,12333,12969,13497
+080104,San Jerónimo,08,Cusco,01,Cusco,04,San Jerónimo,62369,66405,70453,73312,75696
+080105,San Sebastián,08,Cusco,01,Cusco,05,San Sebastián,122835,128607,134182,138200,141559
+080106,Santiago,08,Cusco,01,Cusco,06,Santiago,100663,102400,103817,104961,105919
+080107,Saylla,08,Cusco,01,Cusco,07,Saylla,7090,7702,8338,8779,9146
+080108,Wanchaq,08,Cusco,01,Cusco,08,Wanchaq,61243,61408,61364,61420,61474
+080200,Acomayo,08,Cusco,02,Acomayo,00,NA,24437,24251,24000,23855,23732
+080201,Acomayo,08,Cusco,02,Acomayo,01,Acomayo,4726,4678,4616,4579,4548
+080202,Acopia,08,Cusco,02,Acomayo,02,Acopia,2964,3010,3048,3077,3102
+080203,Acos,08,Cusco,02,Acomayo,03,Acos,2378,2367,2350,2341,2333
+080204,Mosoc Llacta,08,Cusco,02,Acomayo,04,Mosoc Llacta,1167,1118,1069,1036,1007
+080205,Pomacanchi,08,Cusco,02,Acomayo,05,Pomacanchi,7701,7661,7598,7564,7537
+080206,Rondocán,08,Cusco,02,Acomayo,06,Rondocán,2046,1982,1915,1871,1832
+080207,Sangarará,08,Cusco,02,Acomayo,07,Sangarará,3455,3435,3404,3387,3373
+080300,Anta,08,Cusco,03,Anta,00,NA,61564,62428,63131,63665,64097
+080301,Anta,08,Cusco,03,Anta,01,Anta,23817,24667,25464,26038,26512
+080302,Ancahuasi,08,Cusco,03,Anta,02,Ancahuasi,7616,7711,7784,7835,7873
+080303,Cachimayo,08,Cusco,03,Anta,03,Cachimayo,2615,2681,2742,2787,2823
+080304,Chinchaypujio,08,Cusco,03,Anta,04,Chinchaypujio,4394,4370,4333,4311,4292
+080305,Huarocondo,08,Cusco,03,Anta,05,Huarocondo,4796,4722,4634,4576,4528
+080306,Limatambo,08,Cusco,03,Anta,06,Limatambo,7958,7868,7754,7681,7620
+080307,Mollepata,08,Cusco,03,Anta,07,Mollepata,3395,3450,3496,3531,3559
+080308,Pucyura,08,Cusco,03,Anta,08,Pucyura,3223,3199,3166,3146,3128
+080309,Zurite,08,Cusco,03,Anta,09,Zurite,3750,3760,3758,3760,3762
+080400,Calca,08,Cusco,04,Calca,00,NA,70370,71071,71582,71906,72114
+080401,Calca,08,Cusco,04,Calca,01,Calca,22681,23082,23423,23653,23833
+080402,Coya,08,Cusco,04,Calca,02,Coya,3649,3652,3645,3639,3631
+080403,Lamay,08,Cusco,04,Calca,03,Lamay,5856,5920,5967,5997,6016
+080404,Lares,08,Cusco,04,Calca,04,Lares,6513,6472,6412,6368,6324
+080405,Pisac,08,Cusco,04,Calca,05,Pisac,11214,11425,11607,11728,11817
+080406,San Salvador,08,Cusco,04,Calca,06,San Salvador,6002,6097,6175,6225,6258
+080407,Taray,08,Cusco,04,Calca,07,Taray,4771,4832,4880,4911,4932
+080408,Yanatile,08,Cusco,04,Calca,08,Yanatile,9684,9591,9473,9385,9303
+080500,Canas,08,Cusco,05,Canas,00,NA,35199,35024,34754,34605,34487
+080501,Yanaoca,08,Cusco,05,Canas,01,Yanaoca,9314,9302,9270,9256,9247
+080502,Checca,08,Cusco,05,Canas,02,Checca,5547,5523,5485,5464,5448
+080503,Kunturkanki,08,Cusco,05,Canas,03,Kunturkanki,5214,5204,5178,5166,5158
+080504,Langui,08,Cusco,05,Canas,04,Langui,2174,2142,2104,2079,2060
+080505,Layo,08,Cusco,05,Canas,05,Layo,5635,5600,5548,5518,5495
+080506,Pampamarca,08,Cusco,05,Canas,06,Pampamarca,1909,1903,1889,1885,1878
+080507,Quehue,08,Cusco,05,Canas,07,Quehue,2741,2704,2660,2632,2609
+080508,Túpac Amaru,08,Cusco,05,Canas,08,Túpac Amaru,2665,2646,2620,2605,2592
+080600,Canchis,08,Cusco,06,Canchis,00,NA,104611,105685,106476,106990,107333
+080601,Sicuani,08,Cusco,06,Canchis,01,Sicuani,62983,63931,64711,65225,65594
+080602,Checacupe,08,Cusco,06,Canchis,02,Checacupe,5150,5191,5217,5235,5246
+080603,Combapata,08,Cusco,06,Canchis,03,Combapata,5035,5038,5026,5017,5006
+080604,Marangani,08,Cusco,06,Canchis,04,Marangani,10479,10453,10399,10359,10320
+080605,Pitumarca,08,Cusco,06,Canchis,05,Pitumarca,8126,8257,8366,8440,8496
+080606,San Pablo,08,Cusco,06,Canchis,06,San Pablo,4542,4515,4475,4446,4420
+080607,San Pedro,08,Cusco,06,Canchis,07,San Pedro,2827,2821,2808,2798,2789
+080608,Tinta,08,Cusco,06,Canchis,08,Tinta,5469,5479,5474,5470,5462
+080700,Chumbivilcas,08,Cusco,07,Chumbivilcas,00,NA,70794,70565,70143,69930,69763
+080701,Santo Tomás,08,Cusco,07,Chumbivilcas,01,Santo Tomás,23039,22958,22809,22733,22673
+080702,Capacmarca,08,Cusco,07,Chumbivilcas,02,Capacmarca,4185,4158,4119,4097,4079
+080703,Chamaca,08,Cusco,07,Chumbivilcas,03,Chamaca,6671,6596,6503,6445,6399
+080704,Colquemarca,08,Cusco,07,Chumbivilcas,04,Colquemarca,7327,7228,7110,7036,6974
+080705,Livitaca,08,Cusco,07,Chumbivilcas,05,Livitaca,12575,12704,12798,12879,12949
+080706,Llusco,08,Cusco,07,Chumbivilcas,06,Llusco,4594,4462,4322,4227,4149
+080707,Quiñota,08,Cusco,07,Chumbivilcas,07,Quiñota,4051,4036,4010,3997,3986
+080708,Velille,08,Cusco,07,Chumbivilcas,08,Velille,8352,8423,8472,8516,8554
+080800,Espinar,08,Cusco,08,Espinar,00,NA,61987,62108,62059,62098,62140
+080801,Espinar,08,Cusco,08,Espinar,01,Espinar,37493,38252,38886,39539,40173
+080802,Condoroma,08,Cusco,08,Espinar,02,Condoroma,919,896,872,854,839
+080803,Coporaque,08,Cusco,08,Espinar,03,Coporaque,10632,10236,9824,9434,9055
+080804,Ocoruro,08,Cusco,08,Espinar,04,Ocoruro,1074,1035,995,962,931
+080805,Pallpata,08,Cusco,08,Espinar,05,Pallpata,5137,5130,5111,5094,5075
+080806,Pichigua,08,Cusco,08,Espinar,06,Pichigua,2960,2896,2824,2767,2714
+080807,Suyckutambo,08,Cusco,08,Espinar,07,Suyckutambo,1712,1640,1566,1498,1433
+080808,Alto Pichigua,08,Cusco,08,Espinar,08,Alto Pichigua,2060,2023,1981,1950,1920
+080900,La Convención,08,Cusco,09,La Convención,00,NA,167312,167846,167910,168159,168389
+080901,Santa Ana,08,Cusco,09,La Convención,01,Santa Ana,30570,30330,29990,29744,29650
+080902,Echarate,08,Cusco,09,La Convención,02,Echarate,26660,26006,25281,18650,18247
+080903,Huayopata,08,Cusco,09,La Convención,03,Huayopata,5545,5525,5487,5462,5440
+080904,Maranura,08,Cusco,09,La Convención,04,Maranura,5448,5336,5209,5108,5017
+080905,Ocobamba,08,Cusco,09,La Convención,05,Ocobamba,6061,6025,5985,5944,5903
+080906,Quellouno,08,Cusco,09,La Convención,06,Quellouno,15173,15187,15150,15132,15112
+080907,Kimbiri ,08,Cusco,09,La Convención,07,Kimbiri ,18240,18702,19099,13688,13885
+080908,Santa Teresa,08,Cusco,09,La Convención,08,Santa Teresa,6972,6969,6945,6933,6921
+080909,Vilcabamba,08,Cusco,09,La Convención,09,Vilcabamba,10464,10359,10240,10146,10058
+080910,Pichari,08,Cusco,09,La Convención,10,Pichari,25025,26160,27234,22680,23299
+080911,Inkawasi,08,Cusco,09,La Convención,11,Inkawasi,4913,4979,5031,5079,5125
+080912,Villa Virgen,08,Cusco,09,La Convención,12,Villa Virgen,2332,2365,2391,2416,2437
+080913,Villa Kintiarina,08,Cusco,09,La Convención,13,Villa Kintiarina,2322,2350,2369,2388,2405
+080914,Megantoni,08,Cusco,09,La Convención,14,Megantoni,7587,7553,7499,7461,7427
+080915,Kumpirushiato,08,Cusco,09,La Convención,15,Kumpirushiato,NA,NA,NA,6054,5923
+080916,Cielo Punco,08,Cusco,09,La Convención,16,Cielo Punco,NA,NA,NA,2204,2235
+080917,Manitea,08,Cusco,09,La Convención,17,Manitea,NA,NA,NA,3531,3582
+080918,Unión Asháninka,08,Cusco,09,La Convención,18,Unión Asháninka,NA,NA,NA,5539,5723
+081000,Paruro,08,Cusco,10,Paruro,00,NA,27212,26964,26644,26450,26293
+081001,Paruro,08,Cusco,10,Paruro,01,Paruro,3473,3479,3474,3474,3475
+081002,Accha,08,Cusco,10,Paruro,02,Accha,3224,3179,3125,3091,3064
+081003,Ccapi,08,Cusco,10,Paruro,03,Ccapi,3221,3175,3121,3087,3059
+081004,Colcha,08,Cusco,10,Paruro,04,Colcha,999,974,948,931,916
+081005,Huanoquite,08,Cusco,10,Paruro,05,Huanoquite,5140,5116,5078,5057,5040
+081006,Omacha,08,Cusco,10,Paruro,06,Omacha,5923,5891,5842,5814,5792
+081007,Paccaritambo,08,Cusco,10,Paruro,07,Paccaritambo,2139,2118,2092,2076,2063
+081008,Pillpinto,08,Cusco,10,Paruro,08,Pillpinto,1072,1054,1033,1020,1009
+081009,Yaurisque,08,Cusco,10,Paruro,09,Yaurisque,2021,1978,1931,1900,1875
+081100,Paucartambo,08,Cusco,11,Paucartambo,00,NA,47175,47442,47579,47732,47866
+081101,Paucartambo,08,Cusco,11,Paucartambo,01,Paucartambo,13177,13323,13435,13536,13627
+081102,Caicay,08,Cusco,11,Paucartambo,02,Caicay,2952,3005,3050,3089,3122
+081103,Challabamba,08,Cusco,11,Paucartambo,03,Challabamba,9488,9468,9421,9398,9379
+081104,Colquepata,08,Cusco,11,Paucartambo,04,Colquepata,9004,8973,8915,8883,8858
+081105,Huancarani,08,Cusco,11,Paucartambo,05,Huancarani,7689,7788,7866,7923,7966
+081106,Kosñipata,08,Cusco,11,Paucartambo,06,Kosñipata,4865,4885,4892,4903,4914
+081200,Quispicanchi,08,Cusco,12,Quispicanchi,00,NA,98076,100027,101735,103046,104148
+081201,Urcos,08,Cusco,12,Quispicanchi,01,Urcos,11785,11984,12152,12279,12416
+081202,Andahuaylillas,08,Cusco,12,Quispicanchi,02,Andahuaylillas,6567,6760,6938,7095,7245
+081203,Camanti,08,Cusco,12,Quispicanchi,03,Camanti,2502,2556,2603,2638,2668
+081204,Ccarhuayo,08,Cusco,12,Quispicanchi,04,Ccarhuayo,3107,3136,3156,3172,3186
+081205,Ccatca,08,Cusco,12,Quispicanchi,05,Ccatca,14950,15039,15084,15122,15165
+081206,Cusipata,08,Cusco,12,Quispicanchi,06,Cusipata,4672,4673,4661,4654,4652
+081207,Huaro,08,Cusco,12,Quispicanchi,07,Huaro,4860,4919,4965,5000,5032
+081208,Lucre,08,Cusco,12,Quispicanchi,08,Lucre,4971,5103,5223,5326,5423
+081209,Marcapata,08,Cusco,12,Quispicanchi,09,Marcapata,4873,4917,4947,4971,4994
+081210,Ocongate,08,Cusco,12,Quispicanchi,10,Ocongate,17664,18147,18587,18796,19019
+081211,Oropesa,08,Cusco,12,Quispicanchi,11,Oropesa,10535,11054,11563,12050,12323
+081212,Quiquijana,08,Cusco,12,Quispicanchi,12,Quiquijana,11590,11739,11856,11943,12025
+081300,Urubamba,08,Cusco,13,Urubamba,00,NA,67545,68877,70043,70938,71691
+081301,Urubamba,08,Cusco,13,Urubamba,01,Urubamba,22637,23222,23754,24178,24550
+081302,Chinchero,08,Cusco,13,Urubamba,02,Chinchero,11761,12043,12298,12498,12671
+081303,Huayllabamba,08,Cusco,13,Urubamba,03,Huayllabamba,6062,6192,6308,6395,6467
+081304,Machupicchu,08,Cusco,13,Urubamba,04,Machupicchu,5623,5671,5704,5729,5746
+081305,Maras,08,Cusco,13,Urubamba,05,Maras,6670,6729,6769,6799,6822
+081306,Ollantaytambo,08,Cusco,13,Urubamba,06,Ollantaytambo,11447,11642,11808,11918,12000
+081307,Yucay,08,Cusco,13,Urubamba,07,Yucay,3345,3378,3402,3421,3435
+090000,Huancavelica,09,Huancavelica,00,NA,00,NA,376346,371260,365317.3008237257,358356,350845
+090100,Huancavelica,09,Huancavelica,01,Huancavelica,00,NA,123958,122765,121265,119976,118575
+090101,Huancavelica,09,Huancavelica,01,Huancavelica,01,Huancavelica,42325,42674,42858,42962,43082
+090102,Acobambilla,09,Huancavelica,01,Huancavelica,02,Acobambilla,2146,2027,1909,1807,1702
+090103,Acoria,09,Huancavelica,01,Huancavelica,03,Acoria,18954,18013,17056,16315,15483
+090104,Conayca,09,Huancavelica,01,Huancavelica,04,Conayca,909,879,848,827,804
+090105,Cuenca,09,Huancavelica,01,Huancavelica,05,Cuenca,1191,1130,1071,1024,975
+090106,Huachocolpa,09,Huancavelica,01,Huancavelica,06,Huachocolpa,1975,1893,1807,1745,1674
+090107,Huayllahuara,09,Huancavelica,01,Huancavelica,07,Huayllahuara,700,681,662,651,637
+090108,Izcuchaca,09,Huancavelica,01,Huancavelica,08,Izcuchaca,923,916,905,905,906
+090109,Laria,09,Huancavelica,01,Huancavelica,09,Laria,779,747,717,694,669
+090110,Manta,09,Huancavelica,01,Huancavelica,10,Manta,1006,962,917,883,846
+090111,Mariscal Cáceres,09,Huancavelica,01,Huancavelica,11,Mariscal Cáceres,532,514,494,482,470
+090112,Moya,09,Huancavelica,01,Huancavelica,12,Moya,1025,966,911,865,814
+090113,Nuevo Occoro,09,Huancavelica,01,Huancavelica,13,Nuevo Occoro,1829,1769,1706,1664,1617
+090114,Palca,09,Huancavelica,01,Huancavelica,14,Palca,2102,2005,1906,1831,1746
+090115,Pilchaca,09,Huancavelica,01,Huancavelica,15,Pilchaca,537,528,517,512,508
+090116,Vilca,09,Huancavelica,01,Huancavelica,16,Vilca,2008,1922,1834,1769,1695
+090117,Yauli,09,Huancavelica,01,Huancavelica,17,Yauli,21166,20557,19892,19291,18684
+090118,Ascensión,09,Huancavelica,01,Huancavelica,18,Ascensión,17124,17963,18765,19388,20031
+090119,Huando,09,Huancavelica,01,Huancavelica,19,Huando,6727,6619,6490,6361,6232
+090200,Acobamba,09,Huancavelica,02,Acobamba,00,NA,40672,39108,37503,35858,34179
+090201,Acobamba,09,Huancavelica,02,Acobamba,01,Acobamba,9689,9652,9579,9468,9320
+090202,Andabamba,09,Huancavelica,02,Acobamba,02,Andabamba,3396,3287,3171,3050,2922
+090203,Anta,09,Huancavelica,02,Acobamba,03,Anta,4951,4718,4483,4244,4004
+090204,Caja,09,Huancavelica,02,Acobamba,04,Caja,1962,1887,1809,1729,1645
+090205,Marcas,09,Huancavelica,02,Acobamba,05,Marcas,1633,1577,1519,1457,1394
+090206,Paucará,09,Huancavelica,02,Acobamba,06,Paucará,10733,9911,9117,8355,7625
+090207,Pomacocha,09,Huancavelica,02,Acobamba,07,Pomacocha,3067,2973,2873,2766,2654
+090208,Rosario,09,Huancavelica,02,Acobamba,08,Rosario,5241,5103,4952,4789,4615
+090300,Angaraes,09,Huancavelica,03,Angaraes,00,NA,53985,54015,53901,52928,51904
+090301,Lircay,09,Huancavelica,03,Angaraes,01,Lircay,25639,25801,25891,25649,25384
+090302,Anchonga,09,Huancavelica,03,Angaraes,02,Anchonga,7734,7781,7805,7684,7557
+090303,Callanmarca,09,Huancavelica,03,Angaraes,03,Callanmarca,652,634,615,585,555
+090304,Ccochaccasa,09,Huancavelica,03,Angaraes,04,Ccochaccasa,3226,3216,3198,3118,3032
+090305,Chincho,09,Huancavelica,03,Angaraes,05,Chincho,1014,991,967,925,885
+090306,Congalla,09,Huancavelica,03,Angaraes,06,Congalla,3866,3831,3786,3677,3566
+090307,Huanca-Huanca,09,Huancavelica,03,Angaraes,07,Huanca-Huanca,1437,1423,1405,1360,1311
+090308,Huayllay Grande,09,Huancavelica,03,Angaraes,08,Huayllay Grande,1155,1103,1051,982,915
+090309,Julcamarca,09,Huancavelica,03,Angaraes,09,Julcamarca,1879,1907,1929,1911,1889
+090310,San Antonio de Antaparco,09,Huancavelica,03,Angaraes,10,San Antonio de Antaparco,2513,2474,2429,2337,2243
+090311,Santo Tomás de Pata,09,Huancavelica,03,Angaraes,11,Santo Tomás de Pata,1555,1536,1513,1460,1405
+090312,Secclla,09,Huancavelica,03,Angaraes,12,Secclla,3315,3318,3312,3240,3162
+090400,Castrovirreyna,09,Huancavelica,04,Castrovirreyna,00,NA,15214,14917,14588,14227,13833
+090401,Castrovirreyna,09,Huancavelica,04,Castrovirreyna,01,Castrovirreyna,3217,3199,3172,3134,3084
+090402,Arma,09,Huancavelica,04,Castrovirreyna,02,Arma,1042,1008,972,935,895
+090403,Aurahua,09,Huancavelica,04,Castrovirreyna,03,Aurahua,1585,1543,1497,1447,1395
+090404,Capillas,09,Huancavelica,04,Castrovirreyna,04,Capillas,980,948,915,880,844
+090405,Chupamarca,09,Huancavelica,04,Castrovirreyna,05,Chupamarca,964,950,935,916,894
+090406,Cocas,09,Huancavelica,04,Castrovirreyna,06,Cocas,768,754,737,718,699
+090407,Huachos,09,Huancavelica,04,Castrovirreyna,07,Huachos,985,933,880,828,777
+090408,Huamatambo,09,Huancavelica,04,Castrovirreyna,08,Huamatambo,423,422,418,415,408
+090409,Mollepampa,09,Huancavelica,04,Castrovirreyna,09,Mollepampa,1253,1229,1201,1172,1138
+090410,San Juan,09,Huancavelica,04,Castrovirreyna,10,San Juan,745,758,769,777,784
+090411,Santa Ana,09,Huancavelica,04,Castrovirreyna,11,Santa Ana,943,886,834,783,735
+090412,Tantará,09,Huancavelica,04,Castrovirreyna,12,Tantará,705,699,691,680,668
+090413,Ticrapo,09,Huancavelica,04,Castrovirreyna,13,Ticrapo,1604,1588,1567,1542,1512
+090500,Churcampa,09,Huancavelica,05,Churcampa,00,NA,35290,34625,33883,33066,32173
+090501,Churcampa,09,Huancavelica,05,Churcampa,01,Churcampa,5562,5534,5493,5441,5376
+090502,Anco,09,Huancavelica,05,Churcampa,02,Anco,5941,5896,5833,5757,5667
+090503,Chinchihuasi,09,Huancavelica,05,Churcampa,03,Chinchihuasi,2084,1987,1889,1789,1687
+090504,El Carmen,09,Huancavelica,05,Churcampa,04,El Carmen,2611,2576,2533,2482,2423
+090505,La Merced,09,Huancavelica,05,Churcampa,05,La Merced,1173,1178,1179,1183,1186
+090506,Locroja,09,Huancavelica,05,Churcampa,06,Locroja,3596,3534,3464,3379,3284
+090507,Paucarbamba,09,Huancavelica,05,Churcampa,07,Paucarbamba,4721,4544,4362,4167,3966
+090508,San Miguel de Mayocc,09,Huancavelica,05,Churcampa,08,San Miguel de Mayocc,801,777,751,726,699
+090509,San Pedro de Coris,09,Huancavelica,05,Churcampa,09,San Pedro de Coris,3664,3604,3535,3452,3357
+090510,Pachamarca,09,Huancavelica,05,Churcampa,10,Pachamarca,1997,1930,1861,1791,1718
+090511,Cosme,09,Huancavelica,05,Churcampa,11,Cosme,3140,3065,2983,2899,2810
+090600,Huaytará,09,Huancavelica,06,Huaytará,00,NA,18833,18529,18182,17793,17361
+090601,Huaytará,09,Huancavelica,06,Huaytará,01,Huaytará,2371,2375,2374,2365,2350
+090602,Ayavi,09,Huancavelica,06,Huaytará,02,Ayavi,833,833,830,824,816
+090603,Cordova,09,Huancavelica,06,Huaytará,03,Cordova,1058,991,927,865,801
+090604,Huayacundo Arma,09,Huancavelica,06,Huaytará,04,Huayacundo Arma,485,488,488,492,494
+090605,Laramarca,09,Huancavelica,06,Huaytará,05,Laramarca,905,892,876,855,829
+090606,Ocoyo,09,Huancavelica,06,Huaytará,06,Ocoyo,858,795,735,684,631
+090607,Pilpichaca,09,Huancavelica,06,Huaytará,07,Pilpichaca,3038,2973,2899,2799,2691
+090608,Querco,09,Huancavelica,06,Huaytará,08,Querco,1151,1183,1211,1241,1272
+090609,Quito-Arma,09,Huancavelica,06,Huaytará,09,Quito-Arma,745,733,718,699,676
+090610,San Antonio de Cusicancha,09,Huancavelica,06,Huaytará,10,San Antonio de Cusicancha,1473,1455,1431,1399,1362
+090611,San Francisco de Sangayaico,09,Huancavelica,06,Huaytará,11,San Francisco de Sangayaico,998,1015,1029,1043,1055
+090612,San Isidro,09,Huancavelica,06,Huaytará,12,San Isidro,1149,1150,1148,1142,1133
+090613,Santiago de Chocorvos,09,Huancavelica,06,Huaytará,13,Santiago de Chocorvos,1812,1706,1600,1492,1381
+090614,Santiago de Quirahuara,09,Huancavelica,06,Huaytará,14,Santiago de Quirahuara,397,377,356,333,311
+090615,Santo Domingo de Capillas,09,Huancavelica,06,Huaytará,15,Santo Domingo de Capillas,801,778,751,725,697
+090616,Tambo,09,Huancavelica,06,Huaytará,16,Tambo,759,785,809,835,862
+090700,Tayacaja,09,Huancavelica,07,Tayacaja,00,NA,88394,87301,85995.30082372569,84508,82820
+090701,Pampas,09,Huancavelica,07,Tayacaja,01,Pampas,10892,11101,11278,11419,11515
+090702,Acostambo,09,Huancavelica,07,Tayacaja,02,Acostambo,3530,3453,3365,3269,3166
+090703,Acraquia,09,Huancavelica,07,Tayacaja,03,Acraquia,3772,3664,3548,3424,3293
+090704,Ahuaycha,09,Huancavelica,07,Tayacaja,04,Ahuaycha,4154,4071,3978,3873,3758
+090705,Colcabamba,09,Huancavelica,07,Tayacaja,05,Colcabamba,12206,12112,11989,11822,11614
+090706,Daniel Hernandez,09,Huancavelica,07,Tayacaja,06,Daniel Hernandez,9959,9996,10002,10033,10052
+090707,Huachocolpa,09,Huancavelica,07,Tayacaja,07,Huachocolpa,3433,3320,2426,2380,2329
+090709,Huaribamba,09,Huancavelica,07,Tayacaja,09,Huaribamba,3222,3141,3052,2955,2852
+090710,Ñahuimpuquio,09,Huancavelica,07,Tayacaja,10,Ñahuimpuquio,1573,1527,1479,1426,1372
+090711,Pazos,09,Huancavelica,07,Tayacaja,11,Pazos,5513,5361,5198,5021,4834
+090713,Quishuar,09,Huancavelica,07,Tayacaja,13,Quishuar,779,767,752,736,718
+090714,Salcabamba,09,Huancavelica,07,Tayacaja,14,Salcabamba,4166,4090,4005,3907,3799
+090715,Salcahuasi,09,Huancavelica,07,Tayacaja,15,Salcahuasi,2884,2813,2734,2648,2557
+090716,San Marcos de Rocchac,09,Huancavelica,07,Tayacaja,16,San Marcos de Rocchac,1959,1875,1789,1703,1613
+090717,Surcubamba,09,Huancavelica,07,Tayacaja,17,Surcubamba,5099,5104,4236.300823725686,4158,4068
+090718,Tintay Puncu,09,Huancavelica,07,Tayacaja,18,Tintay Puncu,3219,3057,2893,1677,1575
+090719,Quichuas,09,Huancavelica,07,Tayacaja,19,Quichuas,4307,4301,4281,4246,4198
+090720,Andaymarca,09,Huancavelica,07,Tayacaja,20,Andaymarca,2630,2650,2662,2671,2677
+090721,Roble,09,Huancavelica,07,Tayacaja,21,Roble,1374,1294,1216,1140,1066
+090722,Pichos,09,Huancavelica,07,Tayacaja,22,Pichos,2076,1986,1894,1800,1705
+090723,Santiago de Tucuma,09,Huancavelica,07,Tayacaja,23,Santiago de Tucuma,1647,1618,1585,1545,1503
+090724,Lambras,09,Huancavelica,07,Tayacaja,24,Lambras,NA,NA,1633,1603,1568
+090725,Cochabamba,09,Huancavelica,07,Tayacaja,25,Cochabamba,NA,NA,NA,1052,988
+100000,Huánuco,10,Huánuco,00,NA,00,NA,757467,759851,760267,758416,755213
+100100,Huánuco,10,Huánuco,01,Huánuco,00,NA,307723,312201,315799,318371,320269
+100101,Huánuco,10,Huánuco,01,Huánuco,01,Huánuco,92440,94200,95540,96397,97086
+100102,Amarilis,10,Huánuco,01,Huánuco,02,Amarilis,85811,87373,88635,89553,90762
+100103,Chinchao,10,Huánuco,01,Huánuco,03,Chinchao,13316,13262,13159,13015,12920
+100104,Churubamba,10,Huánuco,01,Huánuco,04,Churubamba,16764,16080,15364,14619,13954
+100105,Margos,10,Huánuco,01,Huánuco,05,Margos,4514,4312,4120,3935,3784
+100106,Quisqui,10,Huánuco,01,Huánuco,06,Quisqui,3637,3454,3279,3108,2963
+100107,San Francisco de Cayrán,10,Huánuco,01,Huánuco,07,San Francisco de Cayrán,4897,4881,4847,4798,4767
+100108,San Pedro de Chaulán,10,Huánuco,01,Huánuco,08,San Pedro de Chaulán,3502,3074,2748,2538,2484
+100109,Santa María del Valle,10,Huánuco,01,Huánuco,09,Santa María del Valle,21395,21672,21872,21987,22123
+100110,Yarumayo,10,Huánuco,01,Huánuco,10,Yarumayo,1590,1588,1584,1578,1578
+100111,Pillco Marca,10,Huánuco,01,Huánuco,11,Pillco Marca,46137,48775,51354,53829,55072
+100112,Yacus,10,Huánuco,01,Huánuco,12,Yacus,5293,5200,5092,4965,4857
+100113,San Pablo de Pillao,10,Huánuco,01,Huánuco,13,San Pablo de Pillao,8427,8330,8205,8049,7919
+100200,Ambo,10,Huánuco,02,Ambo,00,NA,53549,53474,53247,52850,52348
+100201,Ambo,10,Huánuco,02,Ambo,01,Ambo,22143,22746,23267,23696,24054
+100202,Cayna,10,Huánuco,02,Ambo,02,Cayna,2577,2486,2391,2290,2188
+100203,Colpas,10,Huánuco,02,Ambo,03,Colpas,1770,1700,1629,1555,1482
+100204,Conchamarca,10,Huánuco,02,Ambo,04,Conchamarca,4644,4533,4411,4276,4135
+100205,Huácar,10,Huánuco,02,Ambo,05,Huácar,8100,8090,8053,7994,7920
+100206,San Francisco,10,Huánuco,02,Ambo,06,San Francisco,1565,1467,1374,1284,1199
+100207,San Rafael,10,Huánuco,02,Ambo,07,San Rafael,9223,9009,8772,8508,8230
+100208,Tomay Kichwa,10,Huánuco,02,Ambo,08,Tomay Kichwa,3527,3443,3350,3247,3140
+100300,Dos de Mayo,10,Huánuco,03,Dos de Mayo,00,NA,34376,33436,32427,31346,30239
+100301,La Unión,10,Huánuco,03,Dos de Mayo,01,La Unión,6992,7056,7093,7102,7108
+100307,Chuquis,10,Huánuco,03,Dos de Mayo,07,Chuquis,3395,3262,3123,2980,2833
+100311,Marías,10,Huánuco,03,Dos de Mayo,11,Marías,5867,5714,5547,5363,5170
+100313,Pachas,10,Huánuco,03,Dos de Mayo,13,Pachas,5543,5179,4821,4470,4131
+100316,Quivilla,10,Huánuco,03,Dos de Mayo,16,Quivilla,1218,1156,1094,1031,968
+100317,Ripan,10,Huánuco,03,Dos de Mayo,17,Ripan,5502,5422,5324,5208,5078
+100321,Shunqui,10,Huánuco,03,Dos de Mayo,21,Shunqui,1701,1636,1567,1496,1423
+100322,Sillapata,10,Huánuco,03,Dos de Mayo,22,Sillapata,1824,1744,1662,1578,1493
+100323,Yanas,10,Huánuco,03,Dos de Mayo,23,Yanas,2334,2267,2196,2118,2035
+100400,Huacaybamba,10,Huánuco,04,Huacaybamba,00,NA,16939,16677,16372,16020,15644
+100401,Huacaybamba,10,Huánuco,04,Huacaybamba,01,Huacaybamba,5950,5888,5809,5711,5602
+100402,Canchabamba,10,Huánuco,04,Huacaybamba,02,Canchabamba,2775,2754,2725,2688,2645
+100403,Cochabamba,10,Huánuco,04,Huacaybamba,03,Cochabamba,1611,1533,1454,1375,1297
+100404,Pinra,10,Huánuco,04,Huacaybamba,04,Pinra,6603,6502,6384,6246,6100
+100500,Huamalíes,10,Huánuco,05,Huamalíes,00,NA,54108,53168,52095,50876,49585
+100501,Llata,10,Huánuco,05,Huamalíes,01,Llata,13925,13842,13718,13583,13439
+100502,Arancay,10,Huánuco,05,Huamalíes,02,Arancay,1381,1351,1316,1278,1237
+100503,Chavín de Pariarca,10,Huánuco,05,Huamalíes,03,Chavín de Pariarca,3938,3908,3866,3808,3739
+100504,Jacas Grande,10,Huánuco,05,Huamalíes,04,Jacas Grande,5992,5958,5906,5828,5735
+100505,Jircán,10,Huánuco,05,Huamalíes,05,Jircán,1428,1338,1249,1163,1079
+100506,Miraflores,10,Huánuco,05,Huamalíes,06,Miraflores,3180,3156,3124,3077,3023
+100507,Monzón,10,Huánuco,05,Huamalíes,07,Monzón,12980,12540,12077,11578,11068
+100508,Punchao,10,Huánuco,05,Huamalíes,08,Punchao,2032,2006,1976,1937,1893
+100509,Puños,10,Huánuco,05,Huamalíes,09,Puños,4240,4199,4146,4075,3995
+100510,Singa,10,Huánuco,05,Huamalíes,10,Singa,3182,3115,3039,2952,2861
+100511,Tantamayo,10,Huánuco,05,Huamalíes,11,Tantamayo,1830,1755,1678,1597,1516
+100600,Leoncio Prado,10,Huánuco,06,Leoncio Prado,00,NA,134572,136609,138275,139505,140453
+100601,Rupa-Rupa,10,Huánuco,06,Leoncio Prado,01,Rupa-Rupa,55795,57034,58126,59087,59894
+100602,Daniel Alomía Robles,10,Huánuco,06,Leoncio Prado,02,Daniel Alomía Robles,6833,6867,6880,6887,6890
+100603,Hermilio Valdizán,10,Huánuco,06,Leoncio Prado,03,Hermilio Valdizán,3707,3704,3691,3668,3635
+100604,José Crespo Y Castillo,10,Huánuco,06,Leoncio Prado,04,José Crespo Y Castillo,23280,23581,23817,23875,23918
+100605,Luyando,10,Huánuco,06,Leoncio Prado,05,Luyando,9335,9424,9485,9505,9519
+100606,Mariano Damaso Beraún,10,Huánuco,06,Leoncio Prado,06,Mariano Damaso Beraún,10868,11042,11187,11304,11390
+100607,Pucayacu,10,Huánuco,06,Leoncio Prado,07,Pucayacu,3910,3920,3917,3922,3924
+100608,Castillo Grande,10,Huánuco,06,Leoncio Prado,08,Castillo Grande,13672,13904,14099,14260,14382
+100609,Pueblo Nuevo,10,Huánuco,06,Leoncio Prado,09,Pueblo Nuevo,4447,4433,4406,4369,4320
+100610,Santo Domingo de Anda,10,Huánuco,06,Leoncio Prado,10,Santo Domingo de Anda,2725,2700,2667,2628,2581
+100700,Marañón,10,Huánuco,07,Marañón,00,NA,28715,28978,29160,29249,29277
+100701,Huacrachuco,10,Huánuco,07,Marañón,01,Huacrachuco,15178,15142,15048,15077,15077
+100702,Cholón,10,Huánuco,07,Marañón,02,Cholón,5793,5722,5629,5573,5507
+100703,San Buenaventura,10,Huánuco,07,Marañón,03,San Buenaventura,2173,2139,2097,2059,2010
+100704,La Morada,10,Huánuco,07,Marañón,04,La Morada,3127,3415,3713,3811,3902
+100705,Santa Rosa de Alto Yanajanca,10,Huánuco,07,Marañón,05,Santa Rosa de Alto Yanajanca,2444,2560,2673,2729,2781
+100800,Pachitea,10,Huánuco,08,Pachitea,00,NA,51870,51043,50086,48986,47812
+100801,Panao,10,Huánuco,08,Pachitea,01,Panao,18400,18291,18126,17963,17778
+100802,Chaglla,10,Huánuco,08,Pachitea,02,Chaglla,10733,10518,10278,10009,9714
+100803,Molino,10,Huánuco,08,Pachitea,03,Molino,11117,11030,10912,10601,10277
+100804,Umari,10,Huánuco,08,Pachitea,04,Umari,11620,11204,10770,10413,10043
+100900,Puerto Inca,10,Huánuco,09,Puerto Inca,00,NA,36016,36550,36987,37306,37553
+100901,Puerto Inca,10,Huánuco,09,Puerto Inca,01,Puerto Inca,10318,10505,10665,10781,10870
+100902,Codo del Pozuzo,10,Huánuco,09,Puerto Inca,02,Codo del Pozuzo,7862,8065,8248,8400,8532
+100903,Honoria,10,Huánuco,09,Puerto Inca,03,Honoria,4916,4856,4782,4711,4637
+100904,Tournavista,10,Huánuco,09,Puerto Inca,04,Tournavista,6281,6420,6543,6642,6723
+100905,Yuyapichis,10,Huánuco,09,Puerto Inca,05,Yuyapichis,6639,6704,6749,6772,6791
+101000,Lauricocha,10,Huánuco,10,Lauricocha,00,NA,19200,18153,17114,16080,15077
+101001,Jesús,10,Huánuco,10,Lauricocha,01,Jesús,4240,4084,3921,3751,3578
+101002,Baños,10,Huánuco,10,Lauricocha,02,Baños,1957,1776,1606,1447,1301
+101003,Jivia,10,Huánuco,10,Lauricocha,03,Jivia,1206,1120,1035,950,869
+101004,Queropalca,10,Huánuco,10,Lauricocha,04,Queropalca,1020,972,924,875,827
+101005,Rondos,10,Huánuco,10,Lauricocha,05,Rondos,3824,3589,3356,3123,2896
+101006,San Francisco de Asis,10,Huánuco,10,Lauricocha,06,San Francisco de Asis,1301,1227,1152,1078,1007
+101007,San Miguel de Cauri,10,Huánuco,10,Lauricocha,07,San Miguel de Cauri,5652,5385,5120,4856,4599
+101100,Yarowilca,10,Huánuco,11,Yarowilca,00,NA,20399,19562,18705,17827,16956
+101101,Chavinillo,10,Huánuco,11,Yarowilca,01,Chavinillo,4891,4736,4570,4390,4207
+101102,Cahuac,10,Huánuco,11,Yarowilca,02,Cahuac,1144,1032,928,874,821
+101103,Chacabamba,10,Huánuco,11,Yarowilca,03,Chacabamba,1092,991,898,847,795
+101104,Aparicio Pomares,10,Huánuco,11,Yarowilca,04,Aparicio Pomares,4942,4857,4754,4566,4379
+101105,Jacas Chico,10,Huánuco,11,Yarowilca,05,Jacas Chico,1118,1062,1006,948,892
+101106,Obas,10,Huánuco,11,Yarowilca,06,Obas,4002,3846,3684,3513,3342
+101107,Pampamarca,10,Huánuco,11,Yarowilca,07,Pampamarca,1138,1067,996,925,859
+101108,Choras,10,Huánuco,11,Yarowilca,08,Choras,2072,1971,1869,1764,1661
+110000,Ica,11,Ica,00,NA,00,NA,923175,950100,975182,998144,1020050
+110100,Ica,11,Ica,01,Ica,00,NA,421151,433860,445752,456677,467131
+110101,Ica,11,Ica,01,Ica,01,Ica,160288,164698,168765,173261,177538
+110102,La Tinguiña,11,Ica,01,Ica,02,La Tinguiña,43141,44689,46164,47727,49227
+110103,Los Aquijes,11,Ica,01,Ica,03,Los Aquijes,23802,24761,25686,26242,26796
+110104,Ocucaje,11,Ica,01,Ica,04,Ocucaje,4847,4998,5141,5297,5448
+110105,Pachacutec,11,Ica,01,Ica,05,Pachacutec,7838,8070,8284,8519,8741
+110106,Parcona,11,Ica,01,Ica,06,Parcona,58266,59294,60173,61178,62071
+110107,Pueblo Nuevo,11,Ica,01,Ica,07,Pueblo Nuevo,6920,7220,7513,7832,8150
+110108,Salas,11,Ica,01,Ica,08,Salas,27910,29202,30467,31068,31666
+110109,San José de Los Molinos,11,Ica,01,Ica,09,San José de Los Molinos,7616,7811,7989,8186,8372
+110110,San Juan Bautista,11,Ica,01,Ica,10,San Juan Bautista,14928,15246,15527,15845,16137
+110111,Santiago,11,Ica,01,Ica,11,Santiago,29524,30262,30933,31591,32245
+110112,Subtanjalla,11,Ica,01,Ica,12,Subtanjalla,29864,31277,32666,33358,34046
+110113,Tate,11,Ica,01,Ica,13,Tate,4975,5085,5184,5295,5398
+110114,Yauca del Rosario,11,Ica,01,Ica,14,Yauca del Rosario,1232,1247,1260,1278,1296
+110200,Chincha,11,Ica,02,Chincha,00,NA,248750,255687,262110,267938,273463
+110201,Chincha Alta,11,Ica,02,Chincha,01,Chincha Alta,73730,75486,77070,78523,79899
+110202,Alto Laran,11,Ica,02,Chincha,02,Alto Laran,8372,8639,8891,9119,9339
+110203,Chavín,11,Ica,02,Chincha,03,Chavín,2263,2455,2658,2856,3057
+110204,Chincha Baja,11,Ica,02,Chincha,04,Chincha Baja,14151,14401,14613,14783,14928
+110205,El Carmen,11,Ica,02,Chincha,05,El Carmen,13515,13745,13940,14093,14222
+110206,Grocio Prado,11,Ica,02,Chincha,06,Grocio Prado,27419,28264,29052,29770,30450
+110207,Pueblo Nuevo,11,Ica,02,Chincha,07,Pueblo Nuevo,69371,71511,73510,75326,77050
+110208,San Juan de Yanac,11,Ica,02,Chincha,08,San Juan de Yanac,1362,1511,1673,1831,1993
+110209,San Pedro de Huacarpana,11,Ica,02,Chincha,09,San Pedro de Huacarpana,1055,1069,1083,1098,1111
+110210,Sunampe,11,Ica,02,Chincha,10,Sunampe,31295,32204,33046,33809,34535
+110211,Tambo de Mora,11,Ica,02,Chincha,11,Tambo de Mora,6217,6402,6574,6730,6879
+110300,Nasca,11,Ica,03,Nasca,00,NA,74339,76481,78472,80285,82012
+110301,Nasca,11,Ica,03,Nasca,01,Nasca,29090,29473,29772,30312,30819
+110302,Changuillo,11,Ica,03,Nasca,02,Changuillo,2130,2155,2175,2214,2247
+110303,El Ingenio,11,Ica,03,Nasca,03,El Ingenio,3460,3527,3585,3669,3749
+110304,Marcona,11,Ica,03,Nasca,04,Marcona,17044,17563,18046,18634,19194
+110305,Vista Alegre,11,Ica,03,Nasca,05,Vista Alegre,22615,23763,24894,25456,26003
+110400,Palpa,11,Ica,04,Palpa,00,NA,14433,14652,14832,15008,15175
+110401,Palpa,11,Ica,04,Palpa,01,Palpa,8434,8589,8722,8842,8952
+110402,Llipata,11,Ica,04,Palpa,02,Llipata,1697,1732,1765,1798,1829
+110403,Río Grande,11,Ica,04,Palpa,03,Río Grande,2898,2926,2946,2970,2995
+110404,Santa Cruz,11,Ica,04,Palpa,04,Santa Cruz,1036,1039,1037,1038,1041
+110405,Tibillo,11,Ica,04,Palpa,05,Tibillo,368,366,362,360,358
+110500,Pisco,11,Ica,05,Pisco,00,NA,164502,169420,174016,178236,182269
+110501,Pisco,11,Ica,05,Pisco,01,Pisco,74035,76406,78636,80733,82721
+110502,Huancano,11,Ica,05,Pisco,02,Huancano,1492,1474,1452,1448,1443
+110503,Humay,11,Ica,05,Pisco,03,Humay,5759,5811,5846,5886,5923
+110504,Independencia,11,Ica,05,Pisco,04,Independencia,14129,14357,14544,14733,14908
+110505,Paracas,11,Ica,05,Pisco,05,Paracas,7942,8472,9011,9546,10082
+110506,San Andrés,11,Ica,05,Pisco,06,San Andrés,15450,15742,15995,16242,16471
+110507,San Clemente,11,Ica,05,Pisco,07,San Clemente,27019,27985,28904,29776,30611
+110508,Túpac Amaru Inca,11,Ica,05,Pisco,08,Túpac Amaru Inca,18676,19173,19628,19872,20110
+120000,Junín,12,Junín,00,NA,00,NA,1335139,1350021,1361467,1369003,1374221
+120100,Huancayo,12,Junín,01,Huancayo,00,NA,572314,584464,595183,603163,609721
+120101,Huancayo,12,Junín,01,Huancayo,01,Huancayo,122804,123748,124294,125146,125709
+120104,Carhuacallanga,12,Junín,01,Huancayo,04,Carhuacallanga,515,492,468,449,431
+120105,Chacapampa,12,Junín,01,Huancayo,05,Chacapampa,983,964,941,920,899
+120106,Chicche,12,Junín,01,Huancayo,06,Chicche,761,725,687,656,630
+120107,Chilca,12,Junín,01,Huancayo,07,Chilca,96609,98573,100252,101522,102548
+120108,Chongos Alto,12,Junín,01,Huancayo,08,Chongos Alto,1551,1540,1523,1503,1481
+120111,Chupuro,12,Junín,01,Huancayo,11,Chupuro,2090,2096,2095,2083,2065
+120112,Colca,12,Junín,01,Huancayo,12,Colca,1064,1047,1032,1014,996
+120113,Cullhuas,12,Junín,01,Huancayo,13,Cullhuas,1395,1351,1308,1269,1233
+120114,El Tambo,12,Junín,01,Huancayo,14,El Tambo,171500,173882,175725,177221,178306
+120116,Huacrapuquio,12,Junín,01,Huancayo,16,Huacrapuquio,1420,1420,1415,1403,1390
+120117,Hualhuas,12,Junín,01,Huancayo,17,Hualhuas,5631,5825,6006,6056,6092
+120119,Huancan,12,Junín,01,Huancayo,19,Huancan,27005,28507,29996,30981,31882
+120120,Huasicancha,12,Junín,01,Huancayo,20,Huasicancha,866,855,840,825,810
+120121,Huayucachi,12,Junín,01,Huancayo,21,Huayucachi,10456,10705,10925,11007,11063
+120122,Ingenio,12,Junín,01,Huancayo,22,Ingenio,2489,2472,2448,2417,2384
+120124,Pariahuanca,12,Junín,01,Huancayo,24,Pariahuanca,5481,5348,5201,5056,4902
+120125,Pilcomayo,12,Junín,01,Huancayo,25,Pilcomayo,21979,23024,24039,24862,25618
+120126,Pucara,12,Junín,01,Huancayo,26,Pucara,4998,4937,4859,4777,4695
+120127,Quichuay,12,Junín,01,Huancayo,27,Quichuay,1937,1937,1931,1916,1896
+120128,Quilcas,12,Junín,01,Huancayo,28,Quilcas,4045,4060,4063,4089,4105
+120129,San Agustín,12,Junín,01,Huancayo,29,San Agustín,17064,17885,18684,19381,20025
+120130,San Jerónimo de Tunán,12,Junín,01,Huancayo,30,San Jerónimo de Tunán,12476,12772,13031,13206,13350
+120132,Saño,12,Junín,01,Huancayo,32,Saño,5920,6171,6412,6526,6623
+120133,Sapallanga,12,Junín,01,Huancayo,33,Sapallanga,22967,24193,25401,26179,26887
+120134,Sicaya,12,Junín,01,Huancayo,34,Sicaya,18834,20503,22244,23457,24599
+120135,Santo Domingo de Acobamba,12,Junín,01,Huancayo,35,Santo Domingo de Acobamba,6669,6547,6406,6252,6086
+120136,Viques,12,Junín,01,Huancayo,36,Viques,2805,2885,2957,2990,3016
+120200,Concepción,12,Junín,02,Concepción,00,NA,59210,59256,59138,58982,58774
+120201,Concepción,12,Junín,02,Concepción,01,Concepción,16402,16631,16806,16973,17124
+120202,Aco,12,Junín,02,Concepción,02,Aco,1692,1669,1643,1615,1586
+120203,Andamarca,12,Junín,02,Concepción,03,Andamarca,3652,3514,3371,3224,3075
+120204,Chambara,12,Junín,02,Concepción,04,Chambara,2728,2706,2675,2643,2609
+120205,Cochas,12,Junín,02,Concepción,05,Cochas,2014,1995,1971,1946,1919
+120206,Comas,12,Junín,02,Concepción,06,Comas,5712,5547,5369,5187,5002
+120207,Heroínas Toledo,12,Junín,02,Concepción,07,Heroínas Toledo,1014,983,949,916,880
+120208,Manzanares,12,Junín,02,Concepción,08,Manzanares,1537,1537,1532,1526,1519
+120209,Mariscal Castilla,12,Junín,02,Concepción,09,Mariscal Castilla,1475,1472,1465,1457,1448
+120210,Matahuasi,12,Junín,02,Concepción,10,Matahuasi,6135,6236,6318,6396,6468
+120211,Mito,12,Junín,02,Concepción,11,Mito,1462,1462,1457,1452,1445
+120212,Nueve de Julio,12,Junín,02,Concepción,12,Nueve de Julio,2417,2488,2555,2619,2679
+120213,Orcotuna,12,Junín,02,Concepción,13,Orcotuna,5038,5142,5233,5319,5401
+120214,San José de Quero,12,Junín,02,Concepción,14,San José de Quero,5829,5774,5702,5627,5548
+120215,Santa Rosa de Ocopa,12,Junín,02,Concepción,15,Santa Rosa de Ocopa,2103,2100,2092,2082,2071
+120300,Chanchamayo,12,Junín,03,Chanchamayo,00,NA,167344,167598,167385,167060,166583
+120301,Chanchamayo,12,Junín,03,Chanchamayo,01,Chanchamayo,28709,28984,29175,29354,29494
+120302,Perené,12,Junín,03,Chanchamayo,02,Perené,59569,59984,60225,60416,60585
+120303,Pichanaqui,12,Junín,03,Chanchamayo,03,Pichanaqui,44032,43511,42869,42209,41498
+120304,San Luis de Shuaro,12,Junín,03,Chanchamayo,04,San Luis de Shuaro,4322,4151,3976,3779,3580
+120305,San Ramón,12,Junín,03,Chanchamayo,05,San Ramón,28880,29194,29425,29643,29821
+120306,Vitoc,12,Junín,03,Chanchamayo,06,Vitoc,1832,1774,1715,1659,1605
+120400,Jauja,12,Junín,04,Jauja,00,NA,88854,88751,88405,88002,87522
+120401,Jauja,12,Junín,04,Jauja,01,Jauja,19415,19710,19948,20164,20347
+120402,Acolla,12,Junín,04,Jauja,02,Acolla,6425,6267,6093,5917,5737
+120403,Apata,12,Junín,04,Jauja,03,Apata,4651,4625,4586,4542,4491
+120404,Ataura,12,Junín,04,Jauja,04,Ataura,1366,1376,1382,1390,1398
+120405,Canchayllo,12,Junín,04,Jauja,05,Canchayllo,1708,1703,1692,1680,1665
+120406,Curicaca,12,Junín,04,Jauja,06,Curicaca,1501,1479,1454,1427,1399
+120407,El Mantaro,12,Junín,04,Jauja,07,El Mantaro,2727,2739,2743,2750,2758
+120408,Huamali,12,Junín,04,Jauja,08,Huamali,1707,1685,1659,1630,1601
+120409,Huaripampa,12,Junín,04,Jauja,09,Huaripampa,1085,1089,1090,1096,1105
+120410,Huertas,12,Junín,04,Jauja,10,Huertas,2172,2205,2231,2255,2275
+120411,Janjaillo,12,Junín,04,Jauja,11,Janjaillo,587,572,557,542,529
+120412,Julcán,12,Junín,04,Jauja,12,Julcán,774,768,758,750,739
+120413,Leonor Ordóñez,12,Junín,04,Jauja,13,Leonor Ordóñez,1625,1623,1616,1607,1597
+120414,Llocllapampa,12,Junín,04,Jauja,14,Llocllapampa,1206,1194,1179,1163,1145
+120415,Marco,12,Junín,04,Jauja,15,Marco,1531,1491,1447,1403,1359
+120416,Masma,12,Junín,04,Jauja,16,Masma,1842,1810,1774,1736,1696
+120417,Masma Chicche,12,Junín,04,Jauja,17,Masma Chicche,768,756,742,727,711
+120418,Molinos,12,Junín,04,Jauja,18,Molinos,1647,1633,1614,1593,1571
+120419,Monobamba,12,Junín,04,Jauja,19,Monobamba,1818,1869,1917,1964,2008
+120420,Muqui,12,Junín,04,Jauja,20,Muqui,1059,1059,1057,1053,1047
+120421,Muquiyauyo,12,Junín,04,Jauja,21,Muquiyauyo,2388,2387,2380,2370,2356
+120422,Paca,12,Junín,04,Jauja,22,Paca,928,903,876,848,820
+120423,Paccha,12,Junín,04,Jauja,23,Paccha,1504,1460,1413,1366,1319
+120424,Pancan,12,Junín,04,Jauja,24,Pancan,1287,1278,1264,1250,1234
+120425,Parco,12,Junín,04,Jauja,25,Parco,1203,1180,1152,1123,1095
+120426,Pomacancha,12,Junín,04,Jauja,26,Pomacancha,1484,1434,1382,1331,1277
+120427,Ricran,12,Junín,04,Jauja,27,Ricran,1326,1282,1236,1191,1145
+120428,San Lorenzo,12,Junín,04,Jauja,28,San Lorenzo,2719,2768,2808,2846,2881
+120429,San Pedro de Chunan,12,Junín,04,Jauja,29,San Pedro de Chunan,717,697,675,654,632
+120430,Sausa,12,Junín,04,Jauja,30,Sausa,3273,3321,3361,3396,3428
+120431,Sincos,12,Junín,04,Jauja,31,Sincos,4264,4247,4217,4183,4143
+120432,Tunán Marca,12,Junín,04,Jauja,32,Tunán Marca,1056,1029,998,968,939
+120433,Yauli,12,Junín,04,Jauja,33,Yauli,1134,1095,1055,1015,976
+120434,Yauyos,12,Junín,04,Jauja,34,Yauyos,9957,10017,10049,10072,10099
+120500,Junín,12,Junín,05,Junín,00,NA,23797,23304,22757,22208,21651
+120501,Junín,12,Junín,05,Junín,01,Junín,11419,11346,11238,11033,10817
+120502,Carhuamayo,12,Junín,05,Junín,02,Carhuamayo,6827,6699,6554,6357,6157
+120503,Ondores,12,Junín,05,Junín,03,Ondores,1232,1153,1075,1047,1021
+120504,Ulcumayo,12,Junín,05,Junín,04,Ulcumayo,4319,4106,3890,3771,3656
+120600,Satipo,12,Junín,06,Satipo,00,NA,230946,235317,239105,242015,244445
+120601,Satipo,12,Junín,06,Satipo,01,Satipo,41659,42214,42647,43048,43401
+120602,Coviriali,12,Junín,06,Satipo,02,Coviriali,6359,6476,6573,6650,6711
+120603,Llaylla,12,Junín,06,Satipo,03,Llaylla,7117,7340,7548,7711,7849
+120604,Mazamari,12,Junín,06,Satipo,04,Mazamari,41128,42212,43191,43977,44652
+120605,Pampa Hermosa,12,Junín,06,Satipo,05,Pampa Hermosa,4003,3825,3654,3490,3335
+120606,Pangoa,12,Junín,06,Satipo,06,Pangoa,62274,63895,65356,66529,67539
+120607,Río Negro,12,Junín,06,Satipo,07,Río Negro,32977,33745,34427,34984,35464
+120608,Río Tambo,12,Junín,06,Satipo,08,Río Tambo,30406,30204,29909,29549,29138
+120609,Vizcatán del Ene,12,Junín,06,Satipo,09,Vizcatán del Ene,5023,5406,5800,6077,6356
+120700,Tarma,12,Junín,07,Tarma,00,NA,94725,93407,91849,90255,88605
+120701,Tarma,12,Junín,07,Tarma,01,Tarma,50765,50739,50544,50198,49795
+120702,Acobamba,12,Junín,07,Tarma,02,Acobamba,9959,9683,9387,9075,8762
+120703,Huaricolca,12,Junín,07,Tarma,03,Huaricolca,1966,1891,1813,1730,1648
+120704,Huasahuasi,12,Junín,07,Tarma,04,Huasahuasi,10530,10157,9768,9366,8969
+120705,La Unión,12,Junín,07,Tarma,05,La Unión,3689,3675,3650,3616,3579
+120706,Palca,12,Junín,07,Tarma,06,Palca,5991,5953,5897,5834,5770
+120707,Palcamayo,12,Junín,07,Tarma,07,Palcamayo,3513,3253,3006,2900,2794
+120708,San Pedro de Cajas,12,Junín,07,Tarma,08,San Pedro de Cajas,3628,3473,3314,3187,3061
+120709,Tapo,12,Junín,07,Tarma,09,Tapo,4684,4583,4470,4349,4227
+120800,Yauli,12,Junín,08,Yauli,00,NA,41382,40763,40041,39306,38549
+120801,La Oroya,12,Junín,08,Yauli,01,La Oroya,14400,14067,13700,13326,12949
+120802,Chacapalpa,12,Junín,08,Yauli,02,Chacapalpa,701,683,665,648,629
+120803,Huay-Huay,12,Junín,08,Yauli,03,Huay-Huay,2087,2134,2176,2212,2246
+120804,Marcapomacocha,12,Junín,08,Yauli,04,Marcapomacocha,845,816,784,757,730
+120805,Morococha,12,Junín,08,Yauli,05,Morococha,5276,5280,5270,5259,5244
+120806,Paccha,12,Junín,08,Yauli,06,Paccha,1681,1665,1644,1623,1604
+120807,Santa Bárbara de Carhuacayan,12,Junín,08,Yauli,07,Santa Bárbara de Carhuacayan,1111,1057,1003,952,903
+120808,Santa Rosa de Sacco,12,Junín,08,Yauli,08,Santa Rosa de Sacco,9006,8824,8618,8415,8207
+120809,Suitucancha,12,Junín,08,Yauli,09,Suitucancha,738,725,710,696,681
+120810,Yauli,12,Junín,08,Yauli,10,Yauli,5537,5512,5471,5418,5356
+120900,Chupaca,12,Junín,09,Chupaca,00,NA,56567,57161,57604,58012,58371
+120901,Chupaca,12,Junín,09,Chupaca,01,Chupaca,21539,21574,21538,21479,21432
+120902,Ahuac,12,Junín,09,Chupaca,02,Ahuac,6741,6754,6745,6709,6677
+120903,Chongos Bajo,12,Junín,09,Chupaca,03,Chongos Bajo,4733,4761,4774,4805,4829
+120904,Huachac,12,Junín,09,Chupaca,04,Huachac,3146,3093,3030,2986,2938
+120905,Huamancaca Chico,12,Junín,09,Chupaca,05,Huamancaca Chico,9672,10259,10839,11380,11881
+120906,San Juan de Iscos,12,Junín,09,Chupaca,06,San Juan de Iscos,2327,2325,2314,2316,2314
+120907,San Juan de Jarpa,12,Junín,09,Chupaca,07,San Juan de Jarpa,2756,2680,2598,2528,2455
+120908,Tres de Diciembre,12,Junín,09,Chupaca,08,Tres de Diciembre,2896,3007,3114,3223,3325
+120909,Yanacancha,12,Junín,09,Chupaca,09,Yanacancha,2757,2708,2652,2586,2520
+130000,La Libertad,13,La Libertad,00,NA,00,NA,1938501,1979901,2016771,2048492,2077345
+130100,Trujillo,13,La Libertad,01,Trujillo,00,NA,1060030,1090514,1118724,1141386,1162870
+130101,Trujillo,13,La Libertad,01,Trujillo,01,Trujillo,335811,340582,344374,347730,350915
+130102,El Porvenir,13,La Libertad,01,Trujillo,02,El Porvenir,211809,220624,229115,235832,242202
+130103,Florencia de Mora,13,La Libertad,01,Trujillo,03,Florencia de Mora,38506,38475,38334,38107,37879
+130104,Huanchaco,13,La Libertad,01,Trujillo,04,Huanchaco,78375,82792,87192,90609,93851
+130105,La Esperanza,13,La Libertad,01,Trujillo,05,La Esperanza,210654,217756,224427,229779,234854
+130106,Laredo,13,La Libertad,01,Trujillo,06,Laredo,41158,42144,43024,43750,44440
+130107,Moche,13,La Libertad,01,Trujillo,07,Moche,40336,41610,42798,43755,44663
+130108,Poroto,13,La Libertad,01,Trujillo,08,Poroto,3866,3900,3924,3947,3969
+130109,Salaverry,13,La Libertad,01,Trujillo,09,Salaverry,20983,21866,22717,23390,24028
+130110,Simbal,13,La Libertad,01,Trujillo,10,Simbal,4437,4482,4515,4546,4575
+130111,Víctor Larco Herrera,13,La Libertad,01,Trujillo,11,Víctor Larco Herrera,74095,76283,78304,79941,81494
+130200,Ascope,13,La Libertad,02,Ascope,00,NA,121850,122831,123480,124308,124944
+130201,Ascope,13,La Libertad,02,Ascope,01,Ascope,6858,6865,6855,6866,6868
+130202,Chicama,13,La Libertad,02,Ascope,02,Chicama,15849,15979,16065,16135,16180
+130203,Chocope,13,La Libertad,02,Ascope,03,Chocope,9828,9831,9807,9815,9808
+130204,Magdalena de Cao,13,La Libertad,02,Ascope,04,Magdalena de Cao,2694,2685,2669,2664,2652
+130205,Paiján,13,La Libertad,02,Ascope,05,Paiján,27827,28396,28894,29370,29804
+130206,Rázuri,13,La Libertad,02,Ascope,06,Rázuri,9204,9322,9415,9500,9572
+130207,Santiago de Cao,13,La Libertad,02,Ascope,07,Santiago de Cao,19871,19950,19973,20061,20118
+130208,Casa Grande,13,La Libertad,02,Ascope,08,Casa Grande,29719,29803,29802,29897,29942
+130300,Bolívar,13,La Libertad,03,Bolívar,00,NA,16025,16026,15982,15957,15913
+130301,Bolívar,13,La Libertad,03,Bolívar,01,Bolívar,4969,5006,5031,5062,5083
+130302,Bambamarca,13,La Libertad,03,Bolívar,02,Bambamarca,3205,3187,3159,3136,3109
+130303,Condormarca,13,La Libertad,03,Bolívar,03,Condormarca,2148,2148,2143,2140,2135
+130304,Longotea,13,La Libertad,03,Bolívar,04,Longotea,2336,2347,2350,2353,2357
+130305,Uchumarca,13,La Libertad,03,Bolívar,05,Uchumarca,2460,2432,2396,2364,2330
+130306,Ucuncha,13,La Libertad,03,Bolívar,06,Ucuncha,907,906,903,902,899
+130400,Chepén,13,La Libertad,04,Chepén,00,NA,84346,85490,86411,87365,88152
+130401,Chepén,13,La Libertad,04,Chepén,01,Chepén,48238,48644,48917,49231,49489
+130402,Pacanga,13,La Libertad,04,Chepén,02,Pacanga,23447,24114,24727,25318,25806
+130403,Pueblo Nuevo,13,La Libertad,04,Chepén,03,Pueblo Nuevo,12661,12732,12767,12816,12857
+130500,Julcán,13,La Libertad,05,Julcán,00,NA,31179,31125,30987,30951,30888
+130501,Julcán,13,La Libertad,05,Julcán,01,Julcán,12758,12776,12762,12788,12804
+130502,Calamarca,13,La Libertad,05,Julcán,02,Calamarca,5251,5167,5070,4990,4906
+130503,Carabamba,13,La Libertad,05,Julcán,03,Carabamba,6923,6930,6916,6926,6929
+130504,Huaso,13,La Libertad,05,Julcán,04,Huaso,6247,6252,6239,6247,6249
+130600,Otuzco,13,La Libertad,06,Otuzco,00,NA,85365,85345,85091,85076,84971
+130601,Otuzco,13,La Libertad,06,Otuzco,01,Otuzco,26502,26702,26830,27030,27201
+130602,Agallpampa,13,La Libertad,06,Otuzco,02,Agallpampa,10276,10354,10403,10482,10550
+130604,Charat,13,La Libertad,06,Otuzco,04,Charat,2643,2612,2574,2545,2512
+130605,Huaranchal,13,La Libertad,06,Otuzco,05,Huaranchal,4248,4190,4122,4065,4005
+130606,La Cuesta,13,La Libertad,06,Otuzco,06,La Cuesta,667,666,662,661,658
+130608,Mache,13,La Libertad,06,Otuzco,08,Mache,2910,2894,2869,2853,2835
+130610,Paranday,13,La Libertad,06,Otuzco,10,Paranday,558,551,542,536,530
+130611,Salpo,13,La Libertad,06,Otuzco,11,Salpo,6506,6534,6543,6571,6591
+130613,Sinsicap,13,La Libertad,06,Otuzco,13,Sinsicap,7631,7597,7543,7509,7467
+130614,Usquil,13,La Libertad,06,Otuzco,14,Usquil,23424,23245,23003,22824,22622
+130700,Pacasmayo,13,La Libertad,07,Pacasmayo,00,NA,109376,111310,112970,114581,115939
+130701,San Pedro de Lloc,13,La Libertad,07,Pacasmayo,01,San Pedro de Lloc,18747,19081,19368,19647,19882
+130702,Guadalupe,13,La Libertad,07,Pacasmayo,02,Guadalupe,42788,43508,44119,44710,45202
+130703,Jequetepeque,13,La Libertad,07,Pacasmayo,03,Jequetepeque,4384,4498,4604,4708,4803
+130704,Pacasmayo,13,La Libertad,07,Pacasmayo,04,Pacasmayo,31002,31619,32161,32691,33150
+130705,San José,13,La Libertad,07,Pacasmayo,05,San José,12455,12604,12718,12825,12902
+130800,Pataz,13,La Libertad,08,Pataz,00,NA,83672,84496,85092,85782,86331
+130801,Tayabamba,13,La Libertad,08,Pataz,01,Tayabamba,13839,13871,13862,13855,13848
+130802,Buldibuyo,13,La Libertad,08,Pataz,02,Buldibuyo,4160,4201,4229,4264,4292
+130803,Chillia,13,La Libertad,08,Pataz,03,Chillia,12872,12978,13046,13135,13206
+130804,Huancaspata,13,La Libertad,08,Pataz,04,Huancaspata,6170,6166,6142,6130,6122
+130805,Huaylillas,13,La Libertad,08,Pataz,05,Huaylillas,1212,1164,1116,1070,1034
+130806,Huayo,13,La Libertad,08,Pataz,06,Huayo,3817,3795,3762,3736,3716
+130807,Ongon,13,La Libertad,08,Pataz,07,Ongon,1407,1385,1360,1337,1320
+130808,Parcoy,13,La Libertad,08,Pataz,08,Parcoy,20312,20753,21147,21560,21889
+130809,Pataz,13,La Libertad,08,Pataz,09,Pataz,10158,10482,10782,11088,11333
+130810,Pias,13,La Libertad,08,Pataz,10,Pias,1835,1872,1902,1936,1961
+130811,Santiago de Challas,13,La Libertad,08,Pataz,11,Santiago de Challas,2362,2330,2290,2256,2228
+130812,Taurija,13,La Libertad,08,Pataz,12,Taurija,3025,3033,3032,3031,3030
+130813,Urpay,13,La Libertad,08,Pataz,13,Urpay,2503,2466,2422,2384,2352
+130900,Sánchez Carrión,13,La Libertad,09,Sánchez Carrión,00,NA,162427,165747,168670,171430,173784
+130901,Huamachuco,13,La Libertad,09,Sánchez Carrión,01,Huamachuco,74786,77443,79944,82085,84084
+130902,Chugay,13,La Libertad,09,Sánchez Carrión,02,Chugay,18956,19177,19344,19553,19702
+130903,Cochorco,13,La Libertad,09,Sánchez Carrión,03,Cochorco,9815,9948,10054,10179,10271
+130904,Curgos,13,La Libertad,09,Sánchez Carrión,04,Curgos,8678,8748,8795,8865,8909
+130905,Marcabal,13,La Libertad,09,Sánchez Carrión,05,Marcabal,11845,11627,11381,11164,10927
+130906,Sanagoran,13,La Libertad,09,Sánchez Carrión,06,Sanagoran,14533,14728,14881,15064,15197
+130907,Sarín,13,La Libertad,09,Sánchez Carrión,07,Sarín,9762,9847,9904,9986,10040
+130908,Sartimbamba,13,La Libertad,09,Sánchez Carrión,08,Sartimbamba,14052,14229,14367,14534,14654
+131000,Santiago de Chuco,13,La Libertad,10,Santiago de Chuco,00,NA,56043,56032,55868,55826,55725
+131001,Santiago de Chuco,13,La Libertad,10,Santiago de Chuco,01,Santiago de Chuco,20223,20325,20368,20456,20520
+131002,Angasmarca,13,La Libertad,10,Santiago de Chuco,02,Angasmarca,5127,5067,4995,4934,4870
+131003,Cachicadán,13,La Libertad,10,Santiago de Chuco,03,Cachicadán,5899,5851,5789,5739,5685
+131004,Mollebamba,13,La Libertad,10,Santiago de Chuco,04,Mollebamba,1857,1854,1846,1842,1835
+131005,Mollepata,13,La Libertad,10,Santiago de Chuco,05,Mollepata,2480,2464,2441,2424,2405
+131006,Quiruvilca,13,La Libertad,10,Santiago de Chuco,06,Quiruvilca,13713,13727,13703,13708,13698
+131007,Santa Cruz de Chuca,13,La Libertad,10,Santiago de Chuco,07,Santa Cruz de Chuca,3067,3062,3049,3043,3033
+131008,Sitabamba,13,La Libertad,10,Santiago de Chuco,08,Sitabamba,3677,3682,3677,3680,3679
+131100,Gran Chimú,13,La Libertad,11,Gran Chimú,00,NA,28507,28438,28290,28240,28168
+131101,Cascas,13,La Libertad,11,Gran Chimú,01,Cascas,14279,14331,14344,14358,14381
+131102,Lucma,13,La Libertad,11,Gran Chimú,02,Lucma,4984,4932,4866,4839,4800
+131103,Marmot,13,La Libertad,11,Gran Chimú,03,Marmot,2537,2555,2566,2573,2582
+131104,Sayapullo,13,La Libertad,11,Gran Chimú,04,Sayapullo,6707,6620,6514,6470,6405
+131200,Virú,13,La Libertad,12,Virú,00,NA,99681,102547,105206,107590,109660
+131201,Virú,13,La Libertad,12,Virú,01,Virú,56433,57500,58418,59275,60018
+131202,Chao,13,La Libertad,12,Virú,02,Chao,35857,37511,39125,40535,41760
+131203,Guadalupito,13,La Libertad,12,Virú,03,Guadalupito,7391,7536,7663,7780,7882
+140000,Lambayeque,14,Lambayeque,00,NA,00,NA,1270295,1292105,1310785,1325912,1338994
+140100,Chiclayo,14,Lambayeque,01,Chiclayo,00,NA,840740,852801,862709,870437,876841
+140101,Chiclayo,14,Lambayeque,01,Chiclayo,01,Chiclayo,282680,285907,288360,291138,293332
+140102,Chongoyape,14,Lambayeque,01,Chiclayo,02,Chongoyape,19201,19441,19629,19821,19966
+140103,Etén,14,Lambayeque,01,Chiclayo,03,Etén,12643,12896,13118,13345,13542
+140104,Etén Puerto,14,Lambayeque,01,Chiclayo,04,Etén Puerto,2396,2422,2439,2459,2471
+140105,José Leonardo Ortíz,14,Lambayeque,01,Chiclayo,05,José Leonardo Ortíz,164130,164974,165355,166266,167037
+140106,La Victoria,14,Lambayeque,01,Chiclayo,06,La Victoria,95035,97223,99183,100033,100801
+140107,Lagunas,14,Lambayeque,01,Chiclayo,07,Lagunas,10536,10696,10829,10964,11074
+140108,Monsefú,14,Lambayeque,01,Chiclayo,08,Monsefú,34301,34856,35323,35797,36188
+140109,Nueva Arica,14,Lambayeque,01,Chiclayo,09,Nueva Arica,2509,2526,2538,2552,2561
+140110,Oyotún,14,Lambayeque,01,Chiclayo,10,Oyotún,8558,8470,8359,8311,8268
+140111,Picsi,14,Lambayeque,01,Chiclayo,11,Picsi,13517,14127,14726,14893,15048
+140112,Pimentel,14,Lambayeque,01,Chiclayo,12,Pimentel,48444,50505,52505,52997,53446
+140113,Reque,14,Lambayeque,01,Chiclayo,13,Reque,16780,17304,17794,18063,18318
+140114,Santa Rosa,14,Lambayeque,01,Chiclayo,14,Santa Rosa,13296,13592,13856,14126,14366
+140115,Saña,14,Lambayeque,01,Chiclayo,15,Saña,12368,12450,12497,12581,12654
+140116,Cayalti,14,Lambayeque,01,Chiclayo,16,Cayalti,15484,15446,15365,15279,15153
+140117,Pátapo,14,Lambayeque,01,Chiclayo,17,Pátapo,24212,24648,25022,25401,25723
+140118,Pomalca,14,Lambayeque,01,Chiclayo,18,Pomalca,26243,26664,27016,27375,27672
+140119,Pucalá,14,Lambayeque,01,Chiclayo,19,Pucalá,9023,9035,9022,9046,9062
+140120,Tumán,14,Lambayeque,01,Chiclayo,20,Tumán,29384,29619,29773,29990,30159
+140200,Ferreñafe,14,Lambayeque,02,Ferreñafe,00,NA,104839,106175,107241,107944,108438
+140201,Ferreñafe,14,Lambayeque,02,Ferreñafe,01,Ferreñafe,36691,37249,37715,38144,38489
+140202,Cañaris,14,Lambayeque,02,Ferreñafe,02,Cañaris,12316,12300,12251,12187,12096
+140203,Incahuasi,14,Lambayeque,02,Ferreñafe,03,Incahuasi,14897,15025,15112,15203,15266
+140204,Manuel Antonio Mesones Muro,14,Lambayeque,02,Ferreñafe,04,Manuel Antonio Mesones Muro,4142,4167,4179,4198,4210
+140205,Pítipo,14,Lambayeque,02,Ferreñafe,05,Pítipo,21560,21797,21977,22136,22242
+140206,Pueblo Nuevo,14,Lambayeque,02,Ferreñafe,06,Pueblo Nuevo,15233,15637,16007,16076,16135
+140300,Lambayeque,14,Lambayeque,03,Lambayeque,00,NA,324716,333129,340835,347531,353715
+140301,Lambayeque,14,Lambayeque,03,Lambayeque,01,Lambayeque,76651,78343,79845,81867,83717
+140302,Chochope,14,Lambayeque,03,Lambayeque,02,Chochope,1505,1539,1571,1613,1650
+140303,Íllimo,14,Lambayeque,03,Lambayeque,03,Íllimo,9374,9436,9472,9560,9623
+140304,Jayanca,14,Lambayeque,03,Lambayeque,04,Jayanca,19068,19575,20042,20310,20559
+140305,Mochumi,14,Lambayeque,03,Lambayeque,05,Mochumi,19388,19596,19750,20146,20524
+140306,Mórrope,14,Lambayeque,03,Lambayeque,06,Mórrope,52797,54514,56131,57002,57818
+140307,Motupe,14,Lambayeque,03,Lambayeque,07,Motupe,32001,33008,33952,34752,35523
+140308,Olmos,14,Lambayeque,03,Lambayeque,08,Olmos,51892,53834,55691,56552,57359
+140309,Pacora,14,Lambayeque,03,Lambayeque,09,Pacora,8434,8641,8829,9070,9292
+140310,Salas,14,Lambayeque,03,Lambayeque,10,Salas,13428,13522,13577,13708,13801
+140311,San José,14,Lambayeque,03,Lambayeque,11,San José,16631,17206,17754,18284,18801
+140312,Túcume,14,Lambayeque,03,Lambayeque,12,Túcume,23547,23915,24221,24667,25048
+150000,Lima,15,Lima,00,NA,00,NA,10180641,10416139,10628470,10814450,10986006
+150100,Lima Metropolitana,15,Lima,01,Lima Metropolitana,00,NA,9256429,9476975,9674755,9846795,10004141
+150101,Lima,15,Lima,01,Lima Metropolitana,01,Lima,271324,269769,267379,267199,266887
+150102,Ancón,15,Lima,01,Lima Metropolitana,02,Ancón,70294,76357,82677,87091,91478
+150103,Ate,15,Lima,01,Lima Metropolitana,03,Ate,633470,652900,670818,687615,702815
+150104,Barranco,15,Lima,01,Lima Metropolitana,04,Barranco,35467,35745,35915,36200,36467
+150105,Breña,15,Lima,01,Lima Metropolitana,05,Breña,90920,92153,93111,94209,95187
+150106,Carabayllo,15,Lima,01,Lima Metropolitana,06,Carabayllo,361168,380890,400414,412234,423894
+150107,Chaclacayo,15,Lima,01,Lima Metropolitana,07,Chaclacayo,43503,43897,44157,44634,45091
+150108,Chorrillos,15,Lima,01,Lima Metropolitana,08,Chorrillos,342762,349855,355978,361907,367099
+150109,Cieneguilla,15,Lima,01,Lima Metropolitana,09,Cieneguilla,36509,37815,39055,39633,40193
+150110,Comas,15,Lima,01,Lima Metropolitana,10,Comas,557093,566314,573884,581036,586914
+150111,El Agustino,15,Lima,01,Lima Metropolitana,11,El Agustino,213968,218277,221974,225749,229426
+150112,Independencia,15,Lima,01,Lima Metropolitana,12,Independencia,219569,221551,222850,225536,228121
+150113,Jesús María,15,Lima,01,Lima Metropolitana,13,Jesús María,78791,80377,81743,82842,83904
+150114,La Molina,15,Lima,01,Lima Metropolitana,14,La Molina,154950,157820,160244,162761,165020
+150115,La Victoria,15,Lima,01,Lima Metropolitana,15,La Victoria,188588,188900,188619,189152,189594
+150116,Lince,15,Lima,01,Lima Metropolitana,16,Lince,58668,59213,59578,60647,61689
+150117,Los Olivos,15,Lima,01,Lima Metropolitana,17,Los Olivos,345159,349100,351983,355528,358910
+150118,Lurigancho,15,Lima,01,Lima Metropolitana,18,Lurigancho,260050,271822,283231,293377,302599
+150119,Lurín,15,Lima,01,Lima Metropolitana,19,Lurín,99924,104770,109506,111789,114024
+150120,Magdalena del Mar,15,Lima,01,Lima Metropolitana,20,Magdalena del Mar,62406,63856,65139,66464,67761
+150121,Pueblo Libre,15,Lima,01,Lima Metropolitana,21,Pueblo Libre,90244,92250,94010,95809,97568
+150122,Miraflores,15,Lima,01,Lima Metropolitana,22,Miraflores,104334,106735,108855,111202,113503
+150123,Pachacamac,15,Lima,01,Lima Metropolitana,23,Pachacamac,126129,134104,142133,147228,152268
+150124,Pucusana,15,Lima,01,Lima Metropolitana,24,Pucusana,15421,16032,16615,17142,17620
+150125,Puente Piedra,15,Lima,01,Lima Metropolitana,25,Puente Piedra,362799,379550,395819,404081,412174
+150126,Punta Hermosa,15,Lima,01,Lima Metropolitana,26,Punta Hermosa,17876,19966,22230,22855,23470
+150127,Punta Negra,15,Lima,01,Lima Metropolitana,27,Punta Negra,7652,7955,8243,8531,8808
+150128,Rímac,15,Lima,01,Lima Metropolitana,28,Rímac,178962,179892,180260,181613,182882
+150129,San Bartolo,15,Lima,01,Lima Metropolitana,29,San Bartolo,8147,8442,8722,9003,9273
+150130,San Borja,15,Lima,01,Lima Metropolitana,30,San Borja,122913,125183,127102,129095,130882
+150131,San Isidro,15,Lima,01,Lima Metropolitana,31,San Isidro,65861,66878,67703,68604,69409
+150132,San Juan de Lurigancho,15,Lima,01,Lima Metropolitana,32,San Juan de Lurigancho,1123889,1152258,1177629,1203125,1225092
+150133,San Juan de Miraflores,15,Lima,01,Lima Metropolitana,33,San Juan de Miraflores,402989,408538,412865,417800,422197
+150134,San Luis,15,Lima,01,Lima Metropolitana,34,San Luis,55410,55688,55793,56068,56302
+150135,San Martín de Porres,15,Lima,01,Lima Metropolitana,35,San Martín de Porres,712545,729268,744050,758216,770725
+150136,San Miguel,15,Lima,01,Lima Metropolitana,36,San Miguel,164836,169282,173309,177164,180647
+150137,Santa Anita,15,Lima,01,Lima Metropolitana,37,Santa Anita,214625,218514,221776,224893,227530
+150138,Santa María del Mar,15,Lima,01,Lima Metropolitana,38,Santa María del Mar,1067,1106,1142,1180,1216
+150139,Santa Rosa,15,Lima,01,Lima Metropolitana,39,Santa Rosa,31021,34361,37940,40030,42107
+150140,Santiago de Surco,15,Lima,01,Lima Metropolitana,40,Santiago de Surco,385178,397082,408086,414142,420016
+150141,Surquillo,15,Lima,01,Lima Metropolitana,41,Surquillo,98159,99397,100339,101448,102434
+150142,Villa El Salvador,15,Lima,01,Lima Metropolitana,42,Villa El Salvador,415391,420278,423887,428276,432170
+150143,Villa María del Triunfo,15,Lima,01,Lima Metropolitana,43,Villa María del Triunfo,426398,432835,437992,443687,448775
+150200,Barranca,15,Lima,02,Barranca,00,NA,146745,148962,151095,153054,155025
+150201,Barranca,15,Lima,02,Barranca,01,Barranca,69686,70971,72221,73423,74630
+150202,Paramonga,15,Lima,02,Barranca,02,Paramonga,22056,22007,21938,21783,21633
+150203,Pativilca,15,Lima,02,Barranca,03,Pativilca,17638,17797,17941,18055,18171
+150204,Supe,15,Lima,02,Barranca,04,Supe,24382,24930,25470,26090,26709
+150205,Supe Puerto,15,Lima,02,Barranca,05,Supe Puerto,12983,13257,13525,13703,13882
+150300,Cajatambo,15,Lima,03,Cajatambo,00,NA,6552,6444,6332,6239,6152
+150301,Cajatambo,15,Lima,03,Cajatambo,01,Cajatambo,2050,2004,1956,1927,1899
+150302,Copa,15,Lima,03,Cajatambo,02,Copa,860,854,847,837,827
+150303,Gorgor,15,Lima,03,Cajatambo,03,Gorgor,1687,1650,1612,1585,1559
+150304,Huancapón,15,Lima,03,Cajatambo,04,Huancapón,975,960,945,927,911
+150305,Manas,15,Lima,03,Cajatambo,05,Manas,980,976,972,963,956
+150400,Canta,15,Lima,04,Canta,00,NA,11762,11682,11593,11520,11449
+150401,Canta,15,Lima,04,Canta,01,Canta,2333,2291,2247,2234,2222
+150402,Arahuay,15,Lima,04,Canta,02,Arahuay,601,596,591,583,574
+150403,Huamantanga,15,Lima,04,Canta,03,Huamantanga,688,661,637,629,621
+150404,Huaros,15,Lima,04,Canta,04,Huaros,778,770,761,755,749
+150405,Lachaqui,15,Lima,04,Canta,05,Lachaqui,890,886,880,871,862
+150406,San Buenaventura,15,Lima,04,Canta,06,San Buenaventura,576,585,595,600,604
+150407,Santa Rosa de Quives,15,Lima,04,Canta,07,Santa Rosa de Quives,5896,5893,5882,5848,5817
+150500,Cañete,15,Lima,05,Cañete,00,NA,239410,244950,250420,255669,261008
+150501,San Vicente de Cañete,15,Lima,05,Cañete,01,San Vicente de Cañete,56582,57964,59323,60905,62496
+150502,Asia,15,Lima,05,Cañete,02,Asia,9822,10249,10686,10916,11148
+150503,Calango,15,Lima,05,Cañete,03,Calango,2359,2385,2409,2420,2431
+150504,Cerro Azul,15,Lima,05,Cañete,04,Cerro Azul,8264,8453,8637,9031,9424
+150505,Chilca,15,Lima,05,Cañete,05,Chilca,21659,22605,23568,24436,25335
+150506,Coayllo,15,Lima,05,Cañete,06,Coayllo,1028,1034,1039,1060,1082
+150507,Imperial,15,Lima,05,Cañete,07,Imperial,37887,38239,38559,38921,39293
+150508,Lunahuana,15,Lima,05,Cañete,08,Lunahuana,4121,4103,4082,4044,4008
+150509,Mala,15,Lima,05,Cañete,09,Mala,32417,33062,33688,34259,34836
+150510,Nuevo Imperial,15,Lima,05,Cañete,10,Nuevo Imperial,26279,27242,28216,29063,29934
+150511,Pacarán,15,Lima,05,Cañete,11,Pacarán,1669,1677,1684,1698,1713
+150512,Quilmaná,15,Lima,05,Cañete,12,Quilmaná,15654,15944,16225,16418,16614
+150513,San Antonio,15,Lima,05,Cañete,13,San Antonio,4408,4513,4616,4696,4777
+150514,San Luis,15,Lima,05,Cañete,14,San Luis,12852,13012,13163,13242,13322
+150515,Santa Cruz de Flores,15,Lima,05,Cañete,15,Santa Cruz de Flores,3049,3118,3186,3237,3290
+150516,Zúñiga,15,Lima,05,Cañete,16,Zúñiga,1360,1350,1339,1323,1305
+150600,Huaral,15,Lima,06,Huaral,00,NA,187446,190954,194375,197592,200847
+150601,Huaral,15,Lima,06,Huaral,01,Huaral,101299,103183,105011,106821,108647
+150602,Atavillos Alto,15,Lima,06,Huaral,02,Atavillos Alto,692,675,657,649,641
+150603,Atavillos Bajo,15,Lima,06,Huaral,03,Atavillos Bajo,895,865,835,818,802
+150604,Aucallama,15,Lima,06,Huaral,04,Aucallama,20073,20599,21121,21647,22181
+150605,Chancay,15,Lima,06,Huaral,05,Chancay,58385,59594,60774,61716,62668
+150606,Ihuari,15,Lima,06,Huaral,06,Ihuari,2089,2052,2015,1978,1941
+150607,Lampian,15,Lima,06,Huaral,07,Lampian,336,324,313,304,295
+150608,Pacaraos,15,Lima,06,Huaral,08,Pacaraos,1091,1137,1184,1232,1283
+150609,San Miguel de Acos,15,Lima,06,Huaral,09,San Miguel de Acos,647,642,636,631,624
+150610,Santa Cruz de Andamarca,15,Lima,06,Huaral,10,Santa Cruz de Andamarca,807,788,769,752,736
+150611,Sumbilca,15,Lima,06,Huaral,11,Sumbilca,726,698,671,664,658
+150612,Veintisiete de Noviembre,15,Lima,06,Huaral,12,Veintisiete de Noviembre,406,397,389,380,371
+150700,Huarochirí,15,Lima,07,Huarochirí,00,NA,63318,62871,62381,61974,61586
+150701,Matucana,15,Lima,07,Huarochirí,01,Matucana,4095,4057,4014,3981,3949
+150702,Antioquia,15,Lima,07,Huarochirí,02,Antioquia,1256,1246,1232,1209,1187
+150703,Callahuanca,15,Lima,07,Huarochirí,03,Callahuanca,777,718,666,649,632
+150704,Carampoma,15,Lima,07,Huarochirí,04,Carampoma,334,322,312,308,303
+150705,Chicla,15,Lima,07,Huarochirí,05,Chicla,3667,3439,3222,3095,2971
+150706,Cuenca,15,Lima,07,Huarochirí,06,Cuenca,453,460,466,468,470
+150707,Huachupampa,15,Lima,07,Huarochirí,07,Huachupampa,582,543,509,501,493
+150708,Huanza,15,Lima,07,Huarochirí,08,Huanza,836,784,736,723,711
+150709,Huarochirí,15,Lima,07,Huarochirí,09,Huarochirí,1307,1282,1256,1224,1194
+150710,Lahuaytambo,15,Lima,07,Huarochirí,10,Lahuaytambo,628,610,593,573,556
+150711,Langa,15,Lima,07,Huarochirí,11,Langa,879,863,847,826,806
+150712,Laraos,15,Lima,07,Huarochirí,12,Laraos,639,605,573,558,542
+150713,Mariatana,15,Lima,07,Huarochirí,13,Mariatana,1416,1415,1411,1399,1387
+150714,Ricardo Palma,15,Lima,07,Huarochirí,14,Ricardo Palma,6504,6573,6631,6664,6699
+150715,San Andrés de Tupicocha,15,Lima,07,Huarochirí,15,San Andrés de Tupicocha,1339,1331,1321,1291,1261
+150716,San Antonio,15,Lima,07,Huarochirí,16,San Antonio,5736,5845,5948,5992,6032
+150717,San Bartolomé,15,Lima,07,Huarochirí,17,San Bartolomé,1171,1125,1080,1060,1041
+150718,San Damián,15,Lima,07,Huarochirí,18,San Damián,1185,1159,1132,1110,1089
+150719,San Juan de Iris,15,Lima,07,Huarochirí,19,San Juan de Iris,683,659,635,629,623
+150720,San Juan de Tantaranche,15,Lima,07,Huarochirí,20,San Juan de Tantaranche,366,357,346,339,333
+150721,San Lorenzo de Quinti,15,Lima,07,Huarochirí,21,San Lorenzo de Quinti,1202,1165,1128,1111,1095
+150722,San Mateo,15,Lima,07,Huarochirí,22,San Mateo,4115,4018,3918,3870,3823
+150723,San Mateo de Otao,15,Lima,07,Huarochirí,23,San Mateo de Otao,1413,1379,1343,1313,1285
+150724,San Pedro de Casta,15,Lima,07,Huarochirí,24,San Pedro de Casta,937,916,893,872,851
+150725,San Pedro de Huancayre,15,Lima,07,Huarochirí,25,San Pedro de Huancayre,209,204,200,194,189
+150726,Sangallaya,15,Lima,07,Huarochirí,26,Sangallaya,643,640,636,628,620
+150727,Santa Cruz de Cocachacra,15,Lima,07,Huarochirí,27,Santa Cruz de Cocachacra,2589,2617,2642,2644,2645
+150728,Santa Eulalia,15,Lima,07,Huarochirí,28,Santa Eulalia,12916,13124,13305,13397,13490
+150729,Santiago de Anchucaya,15,Lima,07,Huarochirí,29,Santiago de Anchucaya,313,299,287,278,269
+150730,Santiago de Tuna,15,Lima,07,Huarochirí,30,Santiago de Tuna,415,399,384,368,353
+150731,Santo Domingo de Los Olleros,15,Lima,07,Huarochirí,31,Santo Domingo de Los Olleros,3272,3306,3336,3350,3365
+150732,Surco,15,Lima,07,Huarochirí,32,Surco,1441,1411,1379,1350,1322
+150800,Huaura,15,Lima,08,Huaura,00,NA,230957,235880,240717,245323,249997
+150801,Huacho,15,Lima,08,Huaura,01,Huacho,65794,67213,68599,70366,72159
+150802,Ambar,15,Lima,08,Huaura,02,Ambar,2151,2107,2062,2027,1991
+150803,Caleta de Carquín,15,Lima,08,Huaura,03,Caleta de Carquín,7977,8233,8491,8802,9126
+150804,Checras,15,Lima,08,Huaura,04,Checras,924,888,852,842,832
+150805,Hualmay,15,Lima,08,Huaura,05,Hualmay,27913,28163,28388,28759,29126
+150806,Huaura,15,Lima,08,Huaura,06,Huaura,35129,35707,36259,37005,37758
+150807,Leoncio Prado,15,Lima,08,Huaura,07,Leoncio Prado,1930,1933,1932,1944,1957
+150808,Paccho,15,Lima,08,Huaura,08,Paccho,1566,1534,1502,1478,1454
+150809,Santa Leonor,15,Lima,08,Huaura,09,Santa Leonor,767,766,768,776,786
+150810,Santa María,15,Lima,08,Huaura,10,Santa María,36920,38124,39330,39829,40340
+150811,Sayán,15,Lima,08,Huaura,11,Sayán,23793,24094,24378,24788,25199
+150812,Vegueta,15,Lima,08,Huaura,12,Vegueta,26093,27118,28156,28707,29269
+150900,Oyón,15,Lima,09,Oyón,00,NA,17478,17313,17137,16990,16852
+150901,Oyón,15,Lima,09,Oyón,01,Oyón,11957,11933,11903,11882,11863
+150902,Andajes,15,Lima,09,Oyón,02,Andajes,545,517,491,470,447
+150903,Caujul,15,Lima,09,Oyón,03,Caujul,568,547,524,505,486
+150904,Cochamarca,15,Lima,09,Oyón,04,Cochamarca,1080,1054,1027,1003,982
+150905,Naván,15,Lima,09,Oyón,05,Naván,852,840,825,812,801
+150906,Pachangara,15,Lima,09,Oyón,06,Pachangara,2476,2422,2367,2318,2273
+151000,Yauyos,15,Lima,10,Yauyos,00,NA,20544,20108,19665,19294,18949
+151001,Yauyos,15,Lima,10,Yauyos,01,Yauyos,1432,1353,1276,1238,1200
+151002,Alis,15,Lima,10,Yauyos,02,Alis,1481,1479,1477,1475,1474
+151003,Ayauca,15,Lima,10,Yauyos,03,Ayauca,1153,1111,1070,1034,999
+151004,Ayaviri,15,Lima,10,Yauyos,04,Ayaviri,548,533,518,505,491
+151005,Azángaro,15,Lima,10,Yauyos,05,Azángaro,435,423,411,400,389
+151006,Cacra,15,Lima,10,Yauyos,06,Cacra,524,523,522,522,522
+151007,Carania,15,Lima,10,Yauyos,07,Carania,167,160,153,148,142
+151008,Catahuasi,15,Lima,10,Yauyos,08,Catahuasi,1073,1074,1072,1067,1063
+151009,Chocos,15,Lima,10,Yauyos,09,Chocos,809,790,770,753,736
+151010,Cochas,15,Lima,10,Yauyos,10,Cochas,224,219,213,209,205
+151011,Colonia,15,Lima,10,Yauyos,11,Colonia,1135,1112,1088,1067,1049
+151012,Hongos,15,Lima,10,Yauyos,12,Hongos,334,327,319,312,307
+151013,Huampara,15,Lima,10,Yauyos,13,Huampara,151,145,137,131,127
+151014,Huancaya,15,Lima,10,Yauyos,14,Huancaya,574,547,521,497,474
+151015,Huangascar,15,Lima,10,Yauyos,15,Huangascar,649,650,648,644,642
+151016,Huantan,15,Lima,10,Yauyos,16,Huantan,932,938,943,943,945
+151017,Huañec,15,Lima,10,Yauyos,17,Huañec,444,442,441,441,441
+151018,Laraos,15,Lima,10,Yauyos,18,Laraos,570,546,522,501,481
+151019,Lincha,15,Lima,10,Yauyos,19,Lincha,457,436,416,396,379
+151020,Madean,15,Lima,10,Yauyos,20,Madean,572,553,536,520,504
+151021,Miraflores,15,Lima,10,Yauyos,21,Miraflores,238,225,212,202,191
+151022,Omas,15,Lima,10,Yauyos,22,Omas,621,620,617,616,615
+151023,Putinza,15,Lima,10,Yauyos,23,Putinza,505,512,517,521,526
+151024,Quinches,15,Lima,10,Yauyos,24,Quinches,620,591,562,536,510
+151025,Quinocay,15,Lima,10,Yauyos,25,Quinocay,439,427,415,402,392
+151026,San Joaquín,15,Lima,10,Yauyos,26,San Joaquín,170,163,156,151,146
+151027,San Pedro de Pilas,15,Lima,10,Yauyos,27,San Pedro de Pilas,286,277,268,259,251
+151028,Tanta,15,Lima,10,Yauyos,28,Tanta,501,502,503,504,505
+151029,Tauripampa,15,Lima,10,Yauyos,29,Tauripampa,501,496,490,486,481
+151030,Tomás,15,Lima,10,Yauyos,30,Tomás,542,512,484,460,436
+151031,Tupe,15,Lima,10,Yauyos,31,Tupe,512,501,490,481,472
+151032,Viñac,15,Lima,10,Yauyos,32,Viñac,1643,1634,1624,1613,1606
+151033,Vitis,15,Lima,10,Yauyos,33,Vitis,302,287,274,260,248
+160000,Loreto,16,Loreto,00,NA,00,NA,1000350,1015212,1027559,1037055,1044884
+160100,Maynas,16,Loreto,01,Maynas,00,NA,537282,544615,550551,555472,559603
+160101,Iquitos,16,Loreto,01,Maynas,01,Iquitos,162450,163209,163502,163849,164196
+160102,Alto Nanay,16,Loreto,01,Maynas,02,Alto Nanay,3155,3219,3277,3328,3372
+160103,Fernando Lores,16,Loreto,01,Maynas,03,Fernando Lores,14935,14627,14284,13931,13577
+160104,Indiana,16,Loreto,01,Maynas,04,Indiana,11768,11760,11717,11670,11604
+160105,Las Amazonas,16,Loreto,01,Maynas,05,Las Amazonas,8790,8680,8546,8403,8249
+160106,Mazán,16,Loreto,01,Maynas,06,Mazán,13898,14014,14091,14128,14164
+160107,Napo,16,Loreto,01,Maynas,07,Napo,17106,17379,17605,17813,17988
+160108,Punchana,16,Loreto,01,Maynas,08,Punchana,86608,87876,88908,89838,90609
+160110,Torres Causana,16,Loreto,01,Maynas,10,Torres Causana,5015,5045,5061,5065,5068
+160112,Belén,16,Loreto,01,Maynas,12,Belén,70503,70855,71005,71084,71162
+160113,San Juan Bautista,16,Loreto,01,Maynas,13,San Juan Bautista,143054,147951,152555,156363,159614
+160200,Alto Amazonas,16,Loreto,02,Alto Amazonas,00,NA,141129,145646,149892,152671,155236
+160201,Yurimaguas,16,Loreto,02,Alto Amazonas,01,Yurimaguas,96151,100176,104052,106557,108870
+160202,Balsapuerto,16,Loreto,02,Alto Amazonas,02,Balsapuerto,16426,16738,17006,17190,17360
+160205,Jeberos,16,Loreto,02,Alto Amazonas,05,Jeberos,4570,4620,4658,4686,4712
+160206,Lagunas,16,Loreto,02,Alto Amazonas,06,Lagunas,13594,13658,13684,13713,13739
+160210,Santa Cruz,16,Loreto,02,Alto Amazonas,10,Santa Cruz,4235,4260,4273,4285,4296
+160211,Teniente César López Rojas,16,Loreto,02,Alto Amazonas,11,Teniente César López Rojas,6153,6194,6219,6240,6259
+160300,Loreto,16,Loreto,03,Loreto,00,NA,69997,71040,71904,72698,73271
+160301,Nauta,16,Loreto,03,Loreto,01,Nauta,32622,33114,33520,33911,34208
+160302,Parinari,16,Loreto,03,Loreto,02,Parinari,6416,6355,6276,6182,6081
+160303,Tigre,16,Loreto,03,Loreto,03,Tigre,7509,7549,7568,7597,7622
+160304,Trompeteros,16,Loreto,03,Loreto,04,Trompeteros,10126,10466,10789,11071,11281
+160305,Urarinas,16,Loreto,03,Loreto,05,Urarinas,13324,13556,13751,13937,14079
+160400,Mariscal Ramón Castilla,16,Loreto,04,Mariscal Ramón Castilla,00,NA,58295,58842,59232,59664,59953
+160401,Ramón Castilla,16,Loreto,04,Mariscal Ramón Castilla,01,Ramón Castilla,22883,23378,23811,24266,24655
+160402,Pebas,16,Loreto,04,Mariscal Ramón Castilla,02,Pebas,12808,12771,12700,12637,12538
+160403,Yavari,16,Loreto,04,Mariscal Ramón Castilla,03,Yavari,10040,10054,10041,10033,9998
+160404,San Pablo,16,Loreto,04,Mariscal Ramón Castilla,04,San Pablo,12564,12639,12680,12728,12762
+160500,Requena,16,Loreto,05,Requena,00,NA,64419,64527,64459,64326,64100
+160501,Requena,16,Loreto,05,Requena,01,Requena,27624,27856,28008,28131,28209
+160502,Alto Tapiche,16,Loreto,05,Requena,02,Alto Tapiche,1673,1654,1631,1605,1579
+160503,Capelo,16,Loreto,05,Requena,03,Capelo,2607,2514,2417,2322,2224
+160504,Emilio San Martín,16,Loreto,05,Requena,04,Emilio San Martín,6851,6865,6859,6844,6821
+160505,Maquia,16,Loreto,05,Requena,05,Maquia,8523,8608,8669,8720,8758
+160506,Puinahua,16,Loreto,05,Requena,06,Puinahua,4709,4670,4617,4561,4498
+160507,Saquena,16,Loreto,05,Requena,07,Saquena,3426,3344,3256,3167,3074
+160508,Soplin,16,Loreto,05,Requena,08,Soplin,680,688,695,702,706
+160509,Tapiche,16,Loreto,05,Requena,09,Tapiche,964,959,952,944,934
+160510,Jenaro Herrera,16,Loreto,05,Requena,10,Jenaro Herrera,5084,5095,5092,5082,5065
+160511,Yaquerana,16,Loreto,05,Requena,11,Yaquerana,2278,2274,2263,2248,2232
+160600,Ucayali,16,Loreto,06,Ucayali,00,NA,62145,62395,62477,62694,62821
+160601,Contamana,16,Loreto,06,Ucayali,01,Contamana,27376,27856,28258,28648,28991
+160602,Inahuaya,16,Loreto,06,Ucayali,02,Inahuaya,1793,1768,1739,1718,1698
+160603,Padre Marquez,16,Loreto,06,Ucayali,03,Padre Marquez,3766,3637,3503,3372,3239
+160604,Pampa Hermosa,16,Loreto,06,Ucayali,04,Pampa Hermosa,6353,6286,6200,6144,6078
+160605,Sarayacu,16,Loreto,06,Ucayali,05,Sarayacu,15226,15251,15234,15288,15320
+160606,Vargas Guerra,16,Loreto,06,Ucayali,06,Vargas Guerra,7631,7597,7543,7524,7495
+160700,Datem del Marañón,16,Loreto,07,Datem del Marañón,00,NA,57886,58949,59870,60389,60822
+160701,Barranca,16,Loreto,07,Datem del Marañón,01,Barranca,15214,15600,15950,16155,16355
+160702,Cahuapanas,16,Loreto,07,Datem del Marañón,02,Cahuapanas,7749,7857,7942,8002,8052
+160703,Manseriche,16,Loreto,07,Datem del Marañón,03,Manseriche,9378,9428,9451,9482,9506
+160704,Morona,16,Loreto,07,Datem del Marañón,04,Morona,4811,4690,4557,4457,4355
+160705,Pastaza,16,Loreto,07,Datem del Marañón,05,Pastaza,6164,6176,6170,6151,6129
+160706,Andoas,16,Loreto,07,Datem del Marañón,06,Andoas,14570,15198,15800,16142,16425
+160800,Putumayo,16,Loreto,08,Putumayo,00,NA,9197,9198,9174,9141,9078
+160801,Putumayo,16,Loreto,08,Putumayo,01,Putumayo,4297,4346,4384,4422,4452
+160802,Rosa Panduro,16,Loreto,08,Putumayo,02,Rosa Panduro,612,615,615,612,608
+160803,Teniente Manuel Clavero,16,Loreto,08,Putumayo,03,Teniente Manuel Clavero,2797,2710,2616,2518,2408
+160804,Yaguas,16,Loreto,08,Putumayo,04,Yaguas,1491,1527,1559,1589,1610
+170000,Madre de Dios,17,Madre de Dios,00,NA,00,NA,161324,167674,173811,179688,185478
+170100,Tambopata,17,Madre de Dios,01,Tambopata,00,NA,128119,134228,140214,145923,151561
+170101,Tambopata,17,Madre de Dios,01,Tambopata,01,Tambopata,92732,96463,100011,103413,106751
+170102,Inambari,17,Madre de Dios,01,Tambopata,02,Inambari,13742,14442,15132,15810,16494
+170103,Las Piedras,17,Madre de Dios,01,Tambopata,03,Las Piedras,15412,16939,18553,20064,21575
+170104,Laberinto,17,Madre de Dios,01,Tambopata,04,Laberinto,6233,6384,6518,6636,6741
+170200,Manu,17,Madre de Dios,02,Manu,00,NA,21016,21096,21118,21163,21200
+170201,Manu,17,Madre de Dios,02,Manu,01,Manu,2425,2403,2373,2334,2302
+170202,Fitzcarrald,17,Madre de Dios,02,Manu,02,Fitzcarrald,1504,1528,1547,1557,1570
+170203,Madre de Dios,17,Madre de Dios,02,Manu,03,Madre de Dios,7012,6790,6553,6453,6363
+170204,Huepetuhe,17,Madre de Dios,02,Manu,04,Huepetuhe,10075,10375,10645,10819,10965
+170300,Tahuamanu,17,Madre de Dios,03,Tahuamanu,00,NA,12189,12350,12479,12602,12717
+170301,Iñapari,17,Madre de Dios,03,Tahuamanu,01,Iñapari,2833,3030,3227,3311,3393
+170302,Iberia,17,Madre de Dios,03,Tahuamanu,02,Iberia,5995,5900,5784,5741,5696
+170303,Tahuamanu,17,Madre de Dios,03,Tahuamanu,03,Tahuamanu,3361,3420,3468,3550,3628
+180000,Moquegua,18,Moquegua,00,NA,00,NA,186371,189781,192740,195185,197337
+180100,Mariscal Nieto,18,Moquegua,01,Mariscal Nieto,00,NA,91355,93569,95551,96788,97917
+180101,Moquegua,18,Moquegua,01,Mariscal Nieto,01,Moquegua,70388,72538,74486,47073,47754
+180102,Carumas,18,Moquegua,01,Mariscal Nieto,02,Carumas,2453,2322,2197,2177,2152
+180103,Cuchumbaya,18,Moquegua,01,Mariscal Nieto,03,Cuchumbaya,794,756,723,703,685
+180104,Samegua,18,Moquegua,01,Mariscal Nieto,04,Samegua,9229,9528,9804,9960,10104
+180105,San Cristóbal,18,Moquegua,01,Mariscal Nieto,05,San Cristóbal,1752,1668,1588,1533,1481
+180106,Torata,18,Moquegua,01,Mariscal Nieto,06,Torata,6739,6757,6753,6750,6736
+180107,San Antonio,18,Moquegua,01,Mariscal Nieto,07,San Antonio,NA,NA,NA,28592,29005
+180200,General Sánchez Cerro,18,Moquegua,02,General Sánchez Cerro,00,NA,15828,15175,14503,14036,13614
+180201,Omate,18,Moquegua,02,General Sánchez Cerro,01,Omate,3272,3198,3117,3056,3002
+180202,Chojata,18,Moquegua,02,General Sánchez Cerro,02,Chojata,716,644,576,548,520
+180203,Coalaque,18,Moquegua,02,General Sánchez Cerro,03,Coalaque,1024,996,965,945,926
+180204,Ichuña,18,Moquegua,02,General Sánchez Cerro,04,Ichuña,3199,3111,3014,2950,2893
+180205,La Capilla,18,Moquegua,02,General Sánchez Cerro,05,La Capilla,656,600,547,504,467
+180206,Lloque,18,Moquegua,02,General Sánchez Cerro,06,Lloque,584,538,493,460,431
+180207,Matalaque,18,Moquegua,02,General Sánchez Cerro,07,Matalaque,471,436,402,378,355
+180208,Puquina,18,Moquegua,02,General Sánchez Cerro,08,Puquina,2615,2568,2512,2472,2436
+180209,Quinistaquillas,18,Moquegua,02,General Sánchez Cerro,09,Quinistaquillas,547,513,480,453,430
+180210,Ubinas,18,Moquegua,02,General Sánchez Cerro,10,Ubinas,1822,1697,1574,1485,1404
+180211,Yunga,18,Moquegua,02,General Sánchez Cerro,11,Yunga,922,874,823,785,750
+180300,Ilo,18,Moquegua,03,Ilo,00,NA,79188,81037,82686,84361,85806
+180301,Ilo,18,Moquegua,03,Ilo,01,Ilo,70065,70640,70753,71354,71753
+180302,El Algarrobal,18,Moquegua,03,Ilo,02,El Algarrobal,4414,5690,7257,8355,9437
+180303,Pacocha,18,Moquegua,03,Ilo,03,Pacocha,4709,4707,4676,4652,4616
+190000,Pasco,19,Pasco,00,NA,00,NA,271704,272157,271904,270842,269296
+190100,Pasco,19,Pasco,01,Pasco,00,NA,128446,126971,125164,123349,121446
+190101,Chaupimarca,19,Pasco,01,Pasco,01,Chaupimarca,27258,27139,26924,26714,26481
+190102,Huachón,19,Pasco,01,Pasco,02,Huachón,4625,4621,4601,4581,4557
+190103,Huariaca,19,Pasco,01,Pasco,03,Huariaca,7125,7037,6925,6817,6703
+190104,Huayllay,19,Pasco,01,Pasco,04,Huayllay,9688,9585,9451,9320,9182
+190105,Ninacaca,19,Pasco,01,Pasco,05,Ninacaca,4111,4132,4137,4140,4144
+190106,Pallanchacra,19,Pasco,01,Pasco,06,Pallanchacra,1763,1655,1551,1446,1344
+190107,Paucartambo,19,Pasco,01,Pasco,07,Paucartambo,11189,10520,9858,9193,8528
+190108,San Fco.de Asis de Yarusyac,19,Pasco,01,Pasco,08,San Fco.de Asis de Yarusyac,4512,4155,3818,3477,3144
+190109,Simon Bolívar,19,Pasco,01,Pasco,09,Simon Bolívar,12940,12846,12708,12573,12428
+190110,Ticlacayan,19,Pasco,01,Pasco,10,Ticlacayan,3301,3069,2847,2624,2404
+190111,Tinyahuarco,19,Pasco,01,Pasco,11,Tinyahuarco,7090,7196,7278,7355,7421
+190112,Vicco,19,Pasco,01,Pasco,12,Vicco,3617,3714,3802,3884,3959
+190113,Yanacancha,19,Pasco,01,Pasco,13,Yanacancha,31227,31302,31264,31225,31151
+190200,Daniel Alcides Carrión,19,Pasco,02,Daniel Alcides Carrión,00,NA,46193,46248,46179,45859,45421
+190201,Yanahuanca,19,Pasco,02,Daniel Alcides Carrión,01,Yanahuanca,11908,11718,11495,11210,10898
+190202,Chacayan,19,Pasco,02,Daniel Alcides Carrión,02,Chacayan,2054,1935,1820,1702,1588
+190203,Goyllarisquizga,19,Pasco,02,Daniel Alcides Carrión,03,Goyllarisquizga,1572,1509,1445,1375,1305
+190204,Páucar,19,Pasco,02,Daniel Alcides Carrión,04,Páucar,1845,1815,1779,1734,1685
+190205,San Pedro de Pillao,19,Pasco,02,Daniel Alcides Carrión,05,San Pedro de Pillao,1425,1403,1377,1345,1308
+190206,Santa Ana de Tusi,19,Pasco,02,Daniel Alcides Carrión,06,Santa Ana de Tusi,22929,23495,23986,24326,24580
+190207,Tápuc,19,Pasco,02,Daniel Alcides Carrión,07,Tápuc,2395,2288,2180,2065,1952
+190208,Vilcabamba,19,Pasco,02,Daniel Alcides Carrión,08,Vilcabamba,2065,2085,2097,2102,2105
+190300,Oxapampa,19,Pasco,03,Oxapampa,00,NA,97065,98938,100561,101634,102429
+190301,Oxapampa,19,Pasco,03,Oxapampa,01,Oxapampa,16703,17006,17255,17466,17643
+190302,Chontabamba,19,Pasco,03,Oxapampa,02,Chontabamba,5803,6110,6412,6615,6773
+190303,Huancabamba,19,Pasco,03,Oxapampa,03,Huancabamba,6921,6986,7028,7078,7123
+190304,Palcazu,19,Pasco,03,Oxapampa,04,Palcazu,8211,8156,8076,7987,7902
+190305,Pozuzo,19,Pasco,03,Oxapampa,05,Pozuzo,4990,4789,4580,4377,4174
+190306,Puerto Bermúdez,19,Pasco,03,Oxapampa,06,Puerto Bermúdez,20091,20825,21511,22000,22387
+190307,Villa Rica,19,Pasco,03,Oxapampa,07,Villa Rica,18711,18692,18610,18534,18466
+190308,Constitución,19,Pasco,03,Oxapampa,08,Constitución,15635,16374,17089,17577,17961
+200000,Piura,20,Piura,00,NA,00,NA,1974368,2013517,2047954,2077039,2103099
+200100,Piura,20,Piura,01,Piura,00,NA,850972,873854,894847,912742,929063
+200101,Piura,20,Piura,01,Piura,01,Piura,169213,173672,177748,181371,184732
+200104,Castilla,20,Piura,01,Piura,04,Castilla,172060,178066,183759,188678,193225
+200105,Catacaos,20,Piura,01,Piura,05,Catacaos,78209,79681,80950,81972,82839
+200107,Cura Mori,20,Piura,01,Piura,07,Cura Mori,19471,19794,20065,20273,20441
+200108,El Tallan,20,Piura,01,Piura,08,El Tallan,5544,5594,5628,5634,5643
+200109,La Arena,20,Piura,01,Piura,09,La Arena,40018,40706,41286,41736,42102
+200110,La Unión,20,Piura,01,Piura,10,La Unión,42785,43624,44355,44954,45471
+200111,Las Lomas,20,Piura,01,Piura,11,Las Lomas,28769,29047,29241,29290,29345
+200114,Tambo Grande,20,Piura,01,Piura,14,Tambo Grande,118814,121568,124028,126126,128004
+200115,Veintiséis de Octubre,20,Piura,01,Piura,15,Veintiséis de Octubre,176089,182102,187787,192708,197261
+200200,Ayabaca,20,Piura,02,Ayabaca,00,NA,128906,128500,127737,127146,126550
+200201,Ayabaca,20,Piura,02,Ayabaca,01,Ayabaca,33649,33313,32889,32525,32156
+200202,Frias,20,Piura,02,Ayabaca,02,Frias,21551,21490,21370,21287,21201
+200203,Jilili,20,Piura,02,Ayabaca,03,Jilili,2708,2695,2675,2659,2642
+200204,Lagunas,20,Piura,02,Ayabaca,04,Lagunas,5919,5876,5816,5768,5719
+200205,Montero,20,Piura,02,Ayabaca,05,Montero,6713,6680,6628,6587,6547
+200206,Pacaipampa,20,Piura,02,Ayabaca,06,Pacaipampa,23418,23373,23262,23194,23119
+200207,Paimas,20,Piura,02,Ayabaca,07,Paimas,10227,10319,10382,10463,10542
+200208,Sapillica,20,Piura,02,Ayabaca,08,Sapillica,11039,11068,11065,11022,10994
+200209,Sicchez,20,Piura,02,Ayabaca,09,Sicchez,1723,1685,1642,1604,1567
+200210,Suyo,20,Piura,02,Ayabaca,10,Suyo,11959,12001,12008,12037,12063
+200300,Huancabamba,20,Piura,03,Huancabamba,00,NA,118992,118927,118533,118232,117899
+200301,Huancabamba,20,Piura,03,Huancabamba,01,Huancabamba,29452,29490,29446,29424,29395
+200302,Canchaque,20,Piura,03,Huancabamba,02,Canchaque,7798,7723,7628,7539,7449
+200303,El Carmen de La Frontera,20,Piura,03,Huancabamba,03,El Carmen de La Frontera,11892,11860,11797,11743,11685
+200304,Huarmaca,20,Piura,03,Huancabamba,04,Huarmaca,37658,37627,37489,37380,37259
+200305,Lalaquiz,20,Piura,03,Huancabamba,05,Lalaquiz,4302,4247,4181,4119,4057
+200306,San Miguel de El Faique,20,Piura,03,Huancabamba,06,San Miguel de El Faique,9315,9369,9395,9429,9461
+200307,Sondor,20,Piura,03,Huancabamba,07,Sondor,7547,7496,7425,7361,7295
+200308,Sondorillo,20,Piura,03,Huancabamba,08,Sondorillo,11028,11115,11172,11237,11298
+200400,Morropón,20,Piura,04,Morropón,00,NA,170314,171985,173193,174154,174921
+200401,Chulucanas,20,Piura,04,Morropón,01,Chulucanas,87221,88596,89735,90461,91141
+200402,Buenos Aires,20,Piura,04,Morropón,02,Buenos Aires,9935,10086,10211,10351,10468
+200403,Chalaco,20,Piura,04,Morropón,03,Chalaco,8008,7888,7746,7615,7478
+200404,La Matanza,20,Piura,04,Morropón,04,La Matanza,14639,14863,15047,15254,15428
+200405,Morropón,20,Piura,04,Morropón,05,Morropón,15736,15915,16052,16229,16377
+200406,Salitral,20,Piura,04,Morropón,06,Salitral,8966,9039,9086,9158,9215
+200407,San Juan de Bigote,20,Piura,04,Morropón,07,San Juan de Bigote,6730,6730,6710,6710,6697
+200408,Santa Catalina de Mossa,20,Piura,04,Morropón,08,Santa Catalina de Mossa,3874,3849,3813,3788,3755
+200409,Santo Domingo,20,Piura,04,Morropón,09,Santo Domingo,6284,6164,6029,5892,5750
+200410,Yamango,20,Piura,04,Morropón,10,Yamango,8921,8855,8764,8696,8612
+200500,Paita,20,Piura,05,Paita,00,NA,140578,144581,148289,151501,154470
+200501,Paita,20,Piura,05,Paita,01,Paita,96202,99150,101905,104513,106929
+200502,Amotape,20,Piura,05,Paita,02,Amotape,2480,2507,2526,2547,2565
+200503,Arenal,20,Piura,05,Paita,03,Arenal,1218,1235,1249,1263,1270
+200504,Colán,20,Piura,05,Paita,04,Colán,16057,16522,16953,17172,17379
+200505,La Huaca,20,Piura,05,Paita,05,La Huaca,13534,13868,14170,14345,14510
+200506,Tamarindo,20,Piura,05,Paita,06,Tamarindo,5150,5246,5330,5409,5479
+200507,Vichayal,20,Piura,05,Paita,07,Vichayal,5937,6053,6156,6252,6338
+200600,Sullana,20,Piura,06,Sullana,00,NA,331023,336678,341490,345276,348478
+200601,Sullana,20,Piura,06,Sullana,01,Sullana,183056,186434,189351,191400,193254
+200602,Bellavista,20,Piura,06,Sullana,02,Bellavista,38301,38655,38905,39181,39384
+200603,Ignacio Escudero,20,Piura,06,Sullana,03,Ignacio Escudero,20941,21335,21676,21975,22210
+200604,Lancones,20,Piura,06,Sullana,04,Lancones,13210,13266,13286,13333,13363
+200605,Marcavelica,20,Piura,06,Sullana,05,Marcavelica,31067,31705,32265,32747,33129
+200606,Miguel Checa,20,Piura,06,Sullana,06,Miguel Checa,9675,9952,10210,10419,10587
+200607,Querecotillo,20,Piura,06,Sullana,07,Querecotillo,27408,27805,28130,28433,28667
+200608,Salitral,20,Piura,06,Sullana,08,Salitral,7365,7526,7667,7788,7884
+200700,Talara,20,Piura,07,Talara,00,NA,149424,152037,154268,156024,157511
+200701,Pariñas,20,Piura,07,Talara,01,Pariñas,101707,103472,104973,106157,107159
+200702,El Alto,20,Piura,07,Talara,02,El Alto,8617,8803,8969,9097,9205
+200703,La Brea,20,Piura,07,Talara,03,La Brea,13031,13129,13192,13250,13300
+200704,Lobitos,20,Piura,07,Talara,04,Lobitos,1396,1392,1384,1380,1376
+200705,Los Órganos,20,Piura,07,Talara,05,Los Órganos,11244,11453,11634,11775,11895
+200706,Máncora,20,Piura,07,Talara,06,Máncora,13429,13788,14116,14365,14576
+200800,Sechura,20,Piura,08,Sechura,00,NA,84159,86955,89597,91964,94207
+200801,Sechura,20,Piura,08,Sechura,01,Sechura,47345,49156,50892,52436,53899
+200802,Bellavista de La Unión,20,Piura,08,Sechura,02,Bellavista de La Unión,4970,5096,5210,5314,5413
+200803,Bernal,20,Piura,08,Sechura,03,Bernal,7356,7524,7674,7812,7944
+200804,Cristo Nos Valga,20,Piura,08,Sechura,04,Cristo Nos Valga,4641,4798,4948,5082,5209
+200805,Vice,20,Piura,08,Sechura,05,Vice,16763,17264,17732,18154,18553
+200806,Rinconada Llicuar,20,Piura,08,Sechura,06,Rinconada Llicuar,3084,3117,3141,3166,3189
+210000,Puno,21,Puno,00,NA,00,NA,1236836,1239022,1237997,1233277,1226353
+210100,Puno,21,Puno,01,Puno,00,NA,229668,230273,230219,227448,224425
+210101,Puno,21,Puno,01,Puno,01,Puno,141077,142691,143867,143434,142897
+210102,Acora,21,Puno,01,Puno,02,Acora,24212,23858,23439,22703,21929
+210103,Amantani,21,Puno,01,Puno,03,Amantani,3550,3494,3430,3318,3202
+210104,Atuncolla,21,Puno,01,Puno,04,Atuncolla,4830,4791,4739,4623,4496
+210105,Capachica,21,Puno,01,Puno,05,Capachica,7717,7448,7167,6801,6433
+210106,Chucuito,21,Puno,01,Puno,06,Chucuito,7463,7433,7380,7226,7055
+210107,Coata,21,Puno,01,Puno,07,Coata,6975,6947,6898,6754,6595
+210108,Huata,21,Puno,01,Puno,08,Huata,3220,3058,2904,2720,2537
+210109,Mañazo,21,Puno,01,Puno,09,Mañazo,5363,5362,5345,5254,5149
+210110,Paucarcolla,21,Puno,01,Puno,10,Paucarcolla,4444,4413,4368,4263,4149
+210111,Pichacani,21,Puno,01,Puno,11,Pichacani,5958,6000,6026,6018,6006
+210112,Platería,21,Puno,01,Puno,12,Platería,7487,7426,7346,7165,6967
+210113,San Antonio,21,Puno,01,Puno,13,San Antonio,2676,2690,2697,2665,2627
+210114,Tiquillaca,21,Puno,01,Puno,14,Tiquillaca,1683,1654,1620,1567,1509
+210115,Vilque,21,Puno,01,Puno,15,Vilque,3013,3008,2993,2937,2874
+210200,Azángaro,21,Puno,02,Azángaro,00,NA,115562,114007,112149,110782,109293
+210201,Azángaro,21,Puno,02,Azángaro,01,Azángaro,31139,31427,31615,31851,32095
+210202,Achaya,21,Puno,02,Azángaro,02,Achaya,2952,2870,2782,2717,2647
+210203,Arapa,21,Puno,02,Azángaro,03,Arapa,7350,7252,7130,7064,6983
+210204,Asillo,21,Puno,02,Azángaro,04,Asillo,15165,14984,14758,14510,14258
+210205,Caminaca,21,Puno,02,Azángaro,05,Caminaca,3103,3046,2980,2937,2888
+210206,Chupa,21,Puno,02,Azángaro,06,Chupa,6609,6177,5756,5409,5054
+210207,José Domingo Choquehuanca,21,Puno,02,Azángaro,07,José Domingo Choquehuanca,4844,4814,4767,4756,4733
+210208,Muñani,21,Puno,02,Azángaro,08,Muñani,6995,6943,6867,6844,6804
+210209,Potoni,21,Puno,02,Azángaro,09,Potoni,4009,3824,3637,3471,3301
+210210,Saman,21,Puno,02,Azángaro,10,Saman,9925,9588,9231,8875,8511
+210211,San Anton,21,Puno,02,Azángaro,11,San Anton,7632,7503,7352,7258,7149
+210212,San José,21,Puno,02,Azángaro,12,San José,5092,5015,4923,4870,4805
+210213,San Juan de Salinas,21,Puno,02,Azángaro,13,San Juan de Salinas,3043,2962,2875,2813,2743
+210214,Santiago de Pupuja,21,Puno,02,Azángaro,14,Santiago de Pupuja,4704,4613,4509,4440,4361
+210215,Tirapata,21,Puno,02,Azángaro,15,Tirapata,3000,2989,2967,2967,2961
+210300,Carabaya,21,Puno,03,Carabaya,00,NA,77927,78511,78873,79376,79766
+210301,Macusani,21,Puno,03,Carabaya,01,Macusani,13848,14035,14173,14357,14529
+210302,Ajoyani,21,Puno,03,Carabaya,02,Ajoyani,2397,2441,2477,2522,2562
+210303,Ayapata,21,Puno,03,Carabaya,03,Ayapata,9587,9626,9627,9591,9574
+210304,Coasa,21,Puno,03,Carabaya,04,Coasa,6690,6310,5932,5573,5224
+210305,Corani,21,Puno,03,Carabaya,05,Corani,4569,4659,4735,4827,4909
+210306,Crucero,21,Puno,03,Carabaya,06,Crucero,9887,10008,10095,10214,10326
+210307,Ituata,21,Puno,03,Carabaya,07,Ituata,8174,8385,8569,8786,8973
+210308,Ollachea,21,Puno,03,Carabaya,08,Ollachea,6299,6432,6544,6679,6798
+210309,San Gaban,21,Puno,03,Carabaya,09,San Gaban,7341,7743,8135,8564,8916
+210310,Usicayos,21,Puno,03,Carabaya,10,Usicayos,9135,8872,8586,8263,7955
+210400,Chucuito,21,Puno,04,Chucuito,00,NA,93178,90742,88112,86734,85265
+210401,Juli,21,Puno,04,Chucuito,01,Juli,20995,20740,20420,20375,20291
+210402,Desaguadero,21,Puno,04,Chucuito,02,Desaguadero,14082,13621,13132,12831,12516
+210403,Huacullani,21,Puno,04,Chucuito,03,Huacullani,9444,9044,8634,8350,8064
+210404,Kelluyo,21,Puno,04,Chucuito,04,Kelluyo,7565,6975,6411,5973,5557
+210405,Pisacoma,21,Puno,04,Chucuito,05,Pisacoma,8676,8404,8114,7939,7756
+210406,Pomata,21,Puno,04,Chucuito,06,Pomata,14587,14314,13999,13874,13729
+210407,Zepita,21,Puno,04,Chucuito,07,Zepita,17829,17644,17402,17392,17352
+210500,El Collao,21,Puno,05,El Collao,00,NA,68320,67392,66287,65355,64354
+210501,Ilave,21,Puno,05,El Collao,01,Ilave,49591,49234,48729,48331,47866
+210502,Capazo,21,Puno,05,El Collao,02,Capazo,1197,1152,1107,1066,1025
+210503,Pilcuyo,21,Puno,05,El Collao,03,Pilcuyo,11279,11059,10812,10595,10369
+210504,Santa Rosa,21,Puno,05,El Collao,04,Santa Rosa,3605,3412,3220,3048,2882
+210505,Conduriri,21,Puno,05,El Collao,05,Conduriri,2648,2535,2419,2315,2212
+210600,Huancané,21,Puno,06,Huancané,00,NA,60419,59769,58957,58213,57406
+210601,Huancané,21,Puno,06,Huancané,01,Huancané,19341,19222,19050,18895,18718
+210602,Cojata,21,Puno,06,Huancané,02,Cojata,4056,4037,4007,3982,3951
+210603,Huatasani,21,Puno,06,Huancané,03,Huatasani,3279,3213,3140,3071,3000
+210604,Inchupalla,21,Puno,06,Huancané,04,Inchupalla,2731,2668,2598,2533,2466
+210605,Pusi,21,Puno,06,Huancané,05,Pusi,5294,5201,5097,4998,4895
+210606,Rosaspata,21,Puno,06,Huancané,06,Rosaspata,4253,4151,4039,3934,3825
+210607,Taraco,21,Puno,06,Huancané,07,Taraco,13694,13636,13536,13451,13349
+210608,Vilque Chico,21,Puno,06,Huancané,08,Vilque Chico,7771,7641,7490,7349,7202
+210700,Lampa,21,Puno,07,Lampa,00,NA,43322,42996,42549,41971,41348
+210701,Lampa,21,Puno,07,Lampa,01,Lampa,11752,11786,11783,11749,11708
+210702,Cabanilla,21,Puno,07,Lampa,02,Cabanilla,5911,5943,5955,5977,5992
+210703,Calapuja,21,Puno,07,Lampa,03,Calapuja,1716,1739,1755,1776,1797
+210704,Nicasio,21,Puno,07,Lampa,04,Nicasio,2476,2451,2419,2365,2306
+210705,Ocuviri,21,Puno,07,Lampa,05,Ocuviri,2425,2404,2376,2328,2276
+210706,Palca,21,Puno,07,Lampa,06,Palca,1892,1810,1725,1635,1545
+210707,Paratia,21,Puno,07,Lampa,07,Paratia,2823,2666,2510,2358,2205
+210708,Pucara,21,Puno,07,Lampa,08,Pucara,5550,5505,5442,5336,5219
+210709,Santa Lucía,21,Puno,07,Lampa,09,Santa Lucía,7503,7486,7445,7367,7279
+210710,Vilavila,21,Puno,07,Lampa,10,Vilavila,1274,1206,1139,1080,1021
+210800,Melgar,21,Puno,08,Melgar,00,NA,70348,70119,69693,69142,68510
+210801,Ayaviri,21,Puno,08,Melgar,01,Ayaviri,25418,25708,25921,26084,26215
+210802,Antauta,21,Puno,08,Melgar,02,Antauta,5635,5711,5770,5818,5859
+210803,Cupi,21,Puno,08,Melgar,03,Cupi,2109,2073,2031,1985,1936
+210804,Llalli,21,Puno,08,Melgar,04,Llalli,2698,2608,2513,2416,2317
+210805,Macari,21,Puno,08,Melgar,05,Macari,7377,7334,7268,7186,7094
+210806,Nuñoa,21,Puno,08,Melgar,06,Nuñoa,8765,8581,8374,8152,7921
+210807,Orurillo,21,Puno,08,Melgar,07,Orurillo,7983,7790,7579,7358,7130
+210808,Santa Rosa,21,Puno,08,Melgar,08,Santa Rosa,6445,6408,6353,6287,6213
+210809,Umachiri,21,Puno,08,Melgar,09,Umachiri,3918,3906,3884,3856,3825
+210900,Moho,21,Puno,09,Moho,00,NA,20321,19776,19190,18826,18445
+210901,Moho,21,Puno,09,Moho,01,Moho,11723,11334,10927,10662,10383
+210902,Conima,21,Puno,09,Moho,02,Conima,3304,3289,3263,3252,3242
+210903,Huayrapata,21,Puno,09,Moho,03,Huayrapata,2697,2594,2488,2415,2341
+210904,Tilali,21,Puno,09,Moho,04,Tilali,2597,2559,2512,2497,2479
+211000,San Antonio de Putina,21,Puno,10,San Antonio de Putina,00,NA,36799,35803,34734,34000,33233
+211001,Putina,21,Puno,10,San Antonio de Putina,01,Putina,14824,14367,13882,13547,13197
+211002,Ananea,21,Puno,10,San Antonio de Putina,02,Ananea,12692,12129,11551,11145,10722
+211003,Pedro Vilca Apaza,21,Puno,10,San Antonio de Putina,03,Pedro Vilca Apaza,2005,1963,1916,1884,1852
+211004,Quilcapuncu,21,Puno,10,San Antonio de Putina,04,Quilcapuncu,5495,5528,5541,5557,5574
+211005,Sina,21,Puno,10,San Antonio de Putina,05,Sina,1783,1816,1844,1867,1888
+211100,San Román,21,Puno,11,San Román,00,NA,325549,335193,344030,349156,353070
+211101,Juliaca,21,Puno,11,San Román,01,Juliaca,240615,246970,252671,256093,258728
+211102,Cabana,21,Puno,11,San Román,02,Cabana,5314,5412,5495,5547,5587
+211103,Cabanillas,21,Puno,11,San Román,03,Cabanillas,4652,4606,4546,4412,4279
+211104,Caracoto,21,Puno,11,San Román,04,Caracoto,7247,7374,7479,7545,7597
+211105,San Miguel,21,Puno,11,San Román,05,San Miguel,67721,70831,73839,75559,76879
+211200,Sandia,21,Puno,12,Sandia,00,NA,56902,56575,56088,55552,54952
+211201,Sandia,21,Puno,12,Sandia,01,Sandia,11498,11490,11446,11374,11289
+211202,Cuyocuyo,21,Puno,12,Sandia,02,Cuyocuyo,5619,5636,5633,5623,5611
+211203,Limbani,21,Puno,12,Sandia,03,Limbani,3358,3319,3269,3199,3122
+211204,Patambuco,21,Puno,12,Sandia,04,Patambuco,4244,4236,4212,4177,4136
+211205,Phara,21,Puno,12,Sandia,05,Phara,5956,6061,6145,6220,6290
+211206,Quiaca,21,Puno,12,Sandia,06,Quiaca,2308,2312,2308,2300,2291
+211207,San Juan del Oro,21,Puno,12,Sandia,07,San Juan del Oro,3869,3543,3235,3022,2808
+211208,Yanahuaya,21,Puno,12,Sandia,08,Yanahuaya,2176,2155,2127,2089,2045
+211209,Alto Inambari,21,Puno,12,Sandia,09,Alto Inambari,7530,7517,7480,7422,7356
+211210,San Pedro de Putina Puncu,21,Puno,12,Sandia,10,San Pedro de Putina Puncu,10344,10306,10233,10126,10004
+211300,Yunguyo,21,Puno,13,Yunguyo,00,NA,38521,37866,37116,36722,36286
+211301,Yunguyo,21,Puno,13,Yunguyo,01,Yunguyo,25447,25159,24795,24651,24474
+211302,Anapia,21,Puno,13,Yunguyo,02,Anapia,1826,1787,1743,1717,1687
+211303,Copani,21,Puno,13,Yunguyo,03,Copani,5023,4985,4930,4922,4904
+211304,Cuturapi,21,Puno,13,Yunguyo,04,Cuturapi,1385,1366,1344,1335,1323
+211305,Ollaraya,21,Puno,13,Yunguyo,05,Ollaraya,2839,2710,2579,2476,2373
+211306,Tinicachi,21,Puno,13,Yunguyo,06,Tinicachi,957,917,876,846,815
+211307,Unicachi,21,Puno,13,Yunguyo,07,Unicachi,1044,942,849,775,710
+220000,San Martín,22,San Martín,00,NA,00,NA,866861,884283,899648,912674,924384
+220100,Moyobamba,22,San Martín,01,Moyobamba,00,NA,130133,132050,133631,134873,135911
+220101,Moyobamba,22,San Martín,01,Moyobamba,01,Moyobamba,81678,83623,85365,86774,88059
+220102,Calzada,22,San Martín,01,Moyobamba,02,Calzada,4653,4729,4792,4848,4889
+220103,Habana,22,San Martín,01,Moyobamba,03,Habana,1681,1681,1677,1673,1664
+220104,Jepelacio,22,San Martín,01,Moyobamba,04,Jepelacio,16313,16165,15972,15771,15547
+220105,Soritor,22,San Martín,01,Moyobamba,05,Soritor,22922,22947,22909,22876,22810
+220106,Yantalo,22,San Martín,01,Moyobamba,06,Yantalo,2886,2905,2916,2931,2942
+220200,Bellavista,22,San Martín,02,Bellavista,00,NA,58698,59867,60893,61772,62564
+220201,Bellavista,22,San Martín,02,Bellavista,01,Bellavista,17819,18244,18627,18949,19240
+220202,Alto Biavo,22,San Martín,02,Bellavista,02,Alto Biavo,8877,9243,9595,9880,10136
+220203,Bajo Biavo,22,San Martín,02,Bellavista,03,Bajo Biavo,14445,14762,15041,15279,15494
+220204,Huallaga,22,San Martín,02,Bellavista,04,Huallaga,2741,2741,2735,2734,2733
+220205,San Pablo,22,San Martín,02,Bellavista,05,San Pablo,8672,8668,8638,8627,8617
+220206,San Rafael,22,San Martín,02,Bellavista,06,San Rafael,6144,6209,6257,6303,6344
+220300,El Dorado,22,San Martín,03,El Dorado,00,NA,41211,42145,42983,43696,44342
+220301,San José de Sisa,22,San Martín,03,El Dorado,01,San José de Sisa,16290,16664,16998,17282,17540
+220302,Agua Blanca,22,San Martín,03,El Dorado,02,Agua Blanca,2383,2375,2359,2350,2342
+220303,San Martín,22,San Martín,03,El Dorado,03,San Martín,12378,12750,13096,13384,13645
+220304,Santa Rosa,22,San Martín,03,El Dorado,04,Santa Rosa,7049,7185,7305,7409,7502
+220305,Shatoja,22,San Martín,03,El Dorado,05,Shatoja,3111,3171,3225,3271,3313
+220400,Huallaga,22,San Martín,04,Huallaga,00,NA,29027,29597,30097,30525,30906
+220401,Saposoa,22,San Martín,04,Huallaga,01,Saposoa,14328,14585,14798,15009,15204
+220402,Alto Saposoa,22,San Martín,04,Huallaga,02,Alto Saposoa,4822,5098,5374,5601,5805
+220403,El Eslabon,22,San Martín,04,Huallaga,03,El Eslabon,2105,2051,1992,1931,1871
+220404,Piscoyacu,22,San Martín,04,Huallaga,04,Piscoyacu,4510,4619,4716,4806,4888
+220405,Sacanche,22,San Martín,04,Huallaga,05,Sacanche,2449,2425,2395,2350,2306
+220406,Tingo de Saposoa,22,San Martín,04,Huallaga,06,Tingo de Saposoa,813,819,822,828,832
+220500,Lamas,22,San Martín,05,Lamas,00,NA,86767,87816,88637,89224,89673
+220501,Lamas,22,San Martín,05,Lamas,01,Lamas,15067,15288,15474,15640,15773
+220502,Alonso de Alvarado,22,San Martín,05,Lamas,02,Alonso de Alvarado,14535,14532,14486,14425,14365
+220503,Barranquita,22,San Martín,05,Lamas,03,Barranquita,7038,7245,7435,7602,7771
+220504,Caynarachi,22,San Martín,05,Lamas,04,Caynarachi,10470,10787,11081,11297,11466
+220505,Cuñumbuqui,22,San Martín,05,Lamas,05,Cuñumbuqui,3277,3191,3100,2998,2895
+220506,Pinto Recodo,22,San Martín,05,Lamas,06,Pinto Recodo,9151,9156,9134,9085,9036
+220507,Rumisapa,22,San Martín,05,Lamas,07,Rumisapa,3599,3725,3842,3926,3992
+220508,San Roque de Cumbaza,22,San Martín,05,Lamas,08,San Roque de Cumbaza,1679,1700,1715,1732,1744
+220509,Shanao,22,San Martín,05,Lamas,09,Shanao,1999,1963,1920,1863,1806
+220510,Tabalosos,22,San Martín,05,Lamas,10,Tabalosos,14248,14440,14593,14737,14855
+220511,Zapatero,22,San Martín,05,Lamas,11,Zapatero,5704,5789,5857,5919,5970
+220600,Mariscal Cáceres,22,San Martín,06,Mariscal Cáceres,00,NA,68880,71100,73193,75144,77023
+220601,Juanjui,22,San Martín,06,Mariscal Cáceres,01,Juanjui,32828,33472,34024,34568,35093
+220602,Campanilla,22,San Martín,06,Mariscal Cáceres,02,Campanilla,15259,16221,17190,18060,18897
+220603,Huicungo,22,San Martín,06,Mariscal Cáceres,03,Huicungo,8801,9113,9409,9684,9948
+220604,Pachiza,22,San Martín,06,Mariscal Cáceres,04,Pachiza,6295,6529,6752,6958,7158
+220605,Pajarillo,22,San Martín,06,Mariscal Cáceres,05,Pajarillo,5697,5765,5818,5874,5927
+220700,Picota,22,San Martín,07,Picota,00,NA,42832,43491,44039,44476,44848
+220701,Picota,22,San Martín,07,Picota,01,Picota,10846,11162,11450,11680,11895
+220702,Buenos Aires,22,San Martín,07,Picota,02,Buenos Aires,3040,3035,3019,3019,3014
+220703,Caspisapa,22,San Martín,07,Picota,03,Caspisapa,2138,2165,2186,2208,2224
+220704,Pilluana,22,San Martín,07,Picota,04,Pilluana,882,882,881,880,878
+220705,Pucacaca,22,San Martín,07,Picota,05,Pucacaca,2989,3008,3019,3034,3044
+220706,San Cristóbal,22,San Martín,07,Picota,06,San Cristóbal,1211,1207,1199,1198,1195
+220707,San Hilarion,22,San Martín,07,Picota,07,San Hilarion,3901,3867,3823,3774,3720
+220708,Shamboyacu,22,San Martín,07,Picota,08,Shamboyacu,9808,10134,10440,10670,10885
+220709,Tingo de Ponasa,22,San Martín,07,Picota,09,Tingo de Ponasa,3895,3897,3888,3878,3862
+220710,Tres Unidos,22,San Martín,07,Picota,10,Tres Unidos,4122,4134,4134,4135,4131
+220800,Rioja,22,San Martín,08,Rioja,00,NA,126568,129260,131651,133698,135554
+220801,Rioja,22,San Martín,08,Rioja,01,Rioja,25911,26323,26660,26962,27203
+220802,Awajun,22,San Martín,08,Rioja,02,Awajun,7870,7925,7955,7990,8012
+220803,Elías Soplín Vargas,22,San Martín,08,Rioja,03,Elías Soplín Vargas,18547,19703,20862,21880,22871
+220804,Nueva Cajamarca,22,San Martín,08,Rioja,04,Nueva Cajamarca,44888,45934,46862,47584,48250
+220805,Pardo Miguel,22,San Martín,08,Rioja,05,Pardo Miguel,17177,17206,17183,17168,17133
+220806,Posic,22,San Martín,08,Rioja,06,Posic,1964,2031,2094,2147,2191
+220807,San Fernando,22,San Martín,08,Rioja,07,San Fernando,3698,3694,3678,3671,3660
+220808,Yorongos,22,San Martín,08,Rioja,08,Yorongos,2654,2617,2573,2541,2510
+220809,Yuracyacu,22,San Martín,08,Rioja,09,Yuracyacu,3859,3827,3784,3755,3724
+220900,San Martín,22,San Martín,09,San Martín,00,NA,207197,212857,218074,222442,226393
+220901,Tarapoto,22,San Martín,09,San Martín,01,Tarapoto,80445,81787,82900,83892,84794
+220902,Alberto Leveau,22,San Martín,09,San Martín,02,Alberto Leveau,901,910,915,923,927
+220903,Cacatachi,22,San Martín,09,San Martín,03,Cacatachi,3639,3714,3778,3834,3885
+220904,Chazuta,22,San Martín,09,San Martín,04,Chazuta,10235,10422,10580,10719,10845
+220905,Chipurana,22,San Martín,09,San Martín,05,Chipurana,2314,2364,2407,2445,2478
+220906,El Porvenir,22,San Martín,09,San Martín,06,El Porvenir,2468,2514,2551,2585,2615
+220907,Huimbayoc,22,San Martín,09,San Martín,07,Huimbayoc,5337,5446,5542,5624,5700
+220908,Juan Guerra,22,San Martín,09,San Martín,08,Juan Guerra,3987,4072,4147,4212,4270
+220909,La Banda de Shilcayo,22,San Martín,09,San Martín,09,La Banda de Shilcayo,45450,47438,49359,50923,52334
+220910,Morales,22,San Martín,09,San Martín,10,Morales,39372,41348,43287,44851,46263
+220911,Papaplaya,22,San Martín,09,San Martín,11,Papaplaya,2104,2068,2028,1998,1972
+220912,San Antonio,22,San Martín,09,San Martín,12,San Antonio,1688,1714,1734,1752,1770
+220913,Sauce,22,San Martín,09,San Martín,13,Sauce,7279,7050,6810,6625,6459
+220914,Shapaja,22,San Martín,09,San Martín,14,Shapaja,1978,2010,2036,2059,2081
+221000,Tocache,22,San Martín,10,Tocache,00,NA,75548,76100,76450,76824,77170
+221001,Tocache,22,San Martín,10,Tocache,01,Tocache,29831,30203,30496,30566,30856
+221002,Nuevo Progreso,22,San Martín,10,Tocache,02,Nuevo Progreso,12269,12414,12525,12641,12753
+221003,Pólvora,22,San Martín,10,Tocache,03,Pólvora,10986,11056,11095,11138,11175
+221004,Shunte,22,San Martín,10,Tocache,04,Shunte,1334,1355,1374,1392,1410
+221005,Uchiza,22,San Martín,10,Tocache,05,Uchiza,21128,21072,20960,14838,14758
+221006,Santa Lucia,22,San Martín,10,Tocache,06,Santa Lucia,NA,NA,NA,6249,6218
+230000,Tacna,23,Tacna,00,NA,00,NA,354644,363205,370974,377842,384222
+230100,Tacna,23,Tacna,01,Tacna,00,NA,329914,338421,346192,352781,358935
+230101,Tacna,23,Tacna,01,Tacna,01,Tacna,101639,103125,104314,105248,106071
+230102,Alto de La Alianza,23,Tacna,01,Tacna,02,Alto de La Alianza,35272,35319,35258,35035,34733
+230103,Calana,23,Tacna,01,Tacna,03,Calana,3278,3355,3424,3478,3526
+230104,Ciudad Nueva,23,Tacna,01,Tacna,04,Ciudad Nueva,33044,32991,32834,32530,32153
+230105,Inclan,23,Tacna,01,Tacna,05,Inclan,2865,2779,2688,2586,2484
+230106,Pachia,23,Tacna,01,Tacna,06,Pachia,2218,2251,2277,2291,2304
+230107,Palca,23,Tacna,01,Tacna,07,Palca,2065,2150,2232,2309,2384
+230108,Pocollay,23,Tacna,01,Tacna,08,Pocollay,19008,19240,19415,19447,19471
+230109,Sama,23,Tacna,01,Tacna,09,Sama,3435,3564,3686,3794,3897
+230110,Crnel.gregorio Albarracin Lanchipa,23,Tacna,01,Tacna,10,Crnel.gregorio Albarracin Lanchipa,120575,127017,133338,139270,145066
+230111,La Yarada Los Palos,23,Tacna,01,Tacna,11,La Yarada Los Palos,6515,6630,6726,6793,6846
+230200,Candarave,23,Tacna,02,Candarave,00,NA,6378,6242,6093,6083,6062
+230201,Candarave,23,Tacna,02,Candarave,01,Candarave,2473,2420,2359,2353,2343
+230202,Cairani,23,Tacna,02,Candarave,02,Cairani,1022,997,970,965,959
+230203,Camilaca,23,Tacna,02,Candarave,03,Camilaca,1200,1161,1120,1105,1088
+230204,Curibaya,23,Tacna,02,Candarave,04,Curibaya,420,449,479,517,554
+230205,Huanuara,23,Tacna,02,Candarave,05,Huanuara,524,503,480,470,457
+230206,Quilahuani,23,Tacna,02,Candarave,06,Quilahuani,739,712,685,673,661
+230300,Jorge Basadre,23,Tacna,03,Jorge Basadre,00,NA,12013,12295,12549,12849,13115
+230301,Locumba,23,Tacna,03,Jorge Basadre,01,Locumba,2567,2620,2669,2732,2784
+230302,Ilabaya,23,Tacna,03,Jorge Basadre,02,Ilabaya,6225,6452,6663,6909,7133
+230303,Ite,23,Tacna,03,Jorge Basadre,03,Ite,3221,3223,3217,3208,3198
+230400,Tarata,23,Tacna,04,Tarata,00,NA,6339,6247,6140,6129,6110
+230401,Tarata,23,Tacna,04,Tarata,01,Tarata,3593,3593,3585,3583,3578
+230402,Héroes Albarracín,23,Tacna,04,Tarata,02,Héroes Albarracín,326,310,295,294,292
+230403,Estique,23,Tacna,04,Tarata,03,Estique,250,234,219,218,218
+230404,Estique-Pampa,23,Tacna,04,Tarata,04,Estique-Pampa,333,332,325,322,319
+230405,Sitajara,23,Tacna,04,Tarata,05,Sitajara,363,348,334,333,332
+230406,Susapaya,23,Tacna,04,Tarata,06,Susapaya,532,510,488,488,484
+230407,Tarucachi,23,Tacna,04,Tarata,07,Tarucachi,329,322,312,309,306
+230408,Ticaco,23,Tacna,04,Tarata,08,Ticaco,613,598,582,582,581
+240000,Tumbes,24,Tumbes,00,NA,00,NA,241321,246699,251521,255712,259556
+240100,Tumbes,24,Tumbes,01,Tumbes,00,NA,165555,168659,171356,173641,175684
+240101,Tumbes,24,Tumbes,01,Tumbes,01,Tumbes,109787,111761,113458,115148,116717
+240102,Corrales,24,Tumbes,01,Tumbes,02,Corrales,24746,25242,25679,25929,26120
+240103,La Cruz,24,Tumbes,01,Tumbes,03,La Cruz,10167,10434,10679,10849,10995
+240104,Pampas de Hospital,24,Tumbes,01,Tumbes,04,Pampas de Hospital,7326,7460,7578,7643,7691
+240105,San Jacinto,24,Tumbes,01,Tumbes,05,San Jacinto,8816,8936,9035,9078,9112
+240106,San Juan de La Virgen,24,Tumbes,01,Tumbes,06,San Juan de La Virgen,4713,4826,4927,4994,5049
+240200,Contralmirante Villar,24,Tumbes,02,Contralmirante Villar,00,NA,22692,23431,24127,24759,25361
+240201,Zorritos,24,Tumbes,02,Contralmirante Villar,01,Zorritos,13115,13476,13807,14099,14369
+240202,Casitas,24,Tumbes,02,Contralmirante Villar,02,Casitas,2609,2658,2700,2737,2772
+240203,Canoas de Punta Sal,24,Tumbes,02,Contralmirante Villar,03,Canoas de Punta Sal,6968,7297,7620,7923,8220
+240300,Zarumilla,24,Tumbes,03,Zarumilla,00,NA,53074,54609,56038,57312,58511
+240301,Zarumilla,24,Tumbes,03,Zarumilla,01,Zarumilla,24067,24756,25390,26050,26665
+240302,Aguas Verdes,24,Tumbes,03,Zarumilla,02,Aguas Verdes,18615,18931,19195,19512,19806
+240303,Matapalo,24,Tumbes,03,Zarumilla,03,Matapalo,3677,3991,4320,4505,4686
+240304,Papayal,24,Tumbes,03,Zarumilla,04,Papayal,6715,6931,7133,7245,7354
+250000,Ucayali,25,Ucayali,00,NA,00,NA,558767,574509,589110,602400,615024
+250100,Coronel Portillo,25,Ucayali,01,Coronel Portillo,00,NA,425956,437302,447733,457311,466369
+250101,Calleria,25,Ucayali,01,Coronel Portillo,01,Calleria,165393,168924,172052,174981,177751
+250102,Campoverde,25,Ucayali,01,Coronel Portillo,02,Campoverde,18426,19029,19598,20113,20601
+250103,Iparia,25,Ucayali,01,Coronel Portillo,03,Iparia,12052,12217,12350,12481,12605
+250104,Masisea,25,Ucayali,01,Coronel Portillo,04,Masisea,11880,11937,11961,11997,12030
+250105,Yarinacocha,25,Ucayali,01,Coronel Portillo,05,Yarinacocha,112352,115625,118666,121443,124069
+250106,Nueva Requena,25,Ucayali,01,Coronel Portillo,06,Nueva Requena,5624,5690,5742,5794,5843
+250107,Manantay,25,Ucayali,01,Coronel Portillo,07,Manantay,100229,103880,107364,110502,113470
+250200,Atalaya,25,Ucayali,02,Atalaya,00,NA,57633,59396,61049,62480,63844
+250201,Raymondi,25,Ucayali,02,Atalaya,01,Raymondi,37423,38611,39732,40699,41621
+250202,Sepahua,25,Ucayali,02,Atalaya,02,Sepahua,7963,8123,8264,8390,8510
+250203,Tahuania,25,Ucayali,02,Atalaya,03,Tahuania,9969,10303,10618,10890,11149
+250204,Yurua,25,Ucayali,02,Atalaya,04,Yurua,2278,2359,2435,2501,2564
+250300,Padre Abad,25,Ucayali,03,Padre Abad,00,NA,71835,74494,77044,79328,81541
+250301,Padre Abad,25,Ucayali,03,Padre Abad,01,Padre Abad,35675,36918,38100,29520,30297
+250302,Irazola,25,Ucayali,03,Padre Abad,02,Irazola,11230,11656,12065,12431,12786
+250303,Curimana,25,Ucayali,03,Padre Abad,03,Curimana,9377,9803,10219,10588,10946
+250304,Neshuya,25,Ucayali,03,Padre Abad,04,Neshuya,9650,10080,10501,10874,11236
+250305,Alexander Von Humboldt,25,Ucayali,03,Padre Abad,05,Alexander Von Humboldt,5903,6037,6159,6272,6380
+250306,Huipoca,25,Ucayali,03,Padre Abad,06,Huipoca,NA,NA,NA,4434,4550
+250307,Boqueron,25,Ucayali,03,Padre Abad,07,Boqueron,NA,NA,NA,5209,5346
+250400,Purús,25,Ucayali,04,Purús,00,NA,3343,3317,3284,3281,3270
+250401,Purús,25,Ucayali,04,Purús,01,Purús,3343,3317,3284,3281,3270
