@@ -1,0 +1,243 @@
+﻿Fecha,destination,location,rank,pos
+2019-03-01,área,América meridional,100,1
+2019-03-01,área,América septentrional,26,2
+2019-03-01,área,Europa meridional,14,3
+2019-03-01,área,América central,10,4
+2019-03-01,área,Caribe,9,5
+2019-03-01,área,Europa occidental,3,6
+2019-03-01,área,Europa septentrional,2,7
+2019-03-01,área,Australia y Nueva Zelanda,2,7
+2019-03-01,área,Asia occidental,1,9
+2019-03-01,área,África septentrional,1,9
+2019-03-01,área,Sudeste Asiático,1,9
+2019-03-01,área,Asia oriental,1,9
+2019-03-01,área,Asia meridional,1,9
+2019-03-01,área,Europa oriental,1,9
+2019-03-01,área,Polinesia,1,9
+2019-03-01,área,África meridional,1,9
+2019-03-01,área,África oriental,1,9
+2019-03-01,área,Melanesia,1,9
+2019-03-01,área,África central,1,9
+2019-03-01,área,Micronesia,1,9
+2019-03-01,área,África occidental,1,9
+2019-03-01,área,Asia central,1,9
+2019-03-01,país,Argentina,100,1
+2019-03-01,país,Estados Unidos,54,2
+2019-03-01,país,Perú,27,3
+2019-03-01,país,España,25,4
+2019-03-01,país,Brasil,24,5
+2019-03-01,país,Venezuela,21,6
+2019-03-01,país,Colombia,18,7
+2019-03-01,país,México,15,8
+2019-03-01,país,República Dominicana,14,9
+2019-03-01,país,Bolivia,7,10
+2019-03-01,país,Uruguay,4,11
+2019-03-01,país,Australia,4,11
+2019-03-01,país,Francia,4,11
+2019-03-01,país,Ecuador,4,11
+2019-03-01,país,Cuba,4,11
+2019-03-01,país,Reino Unido,3,16
+2019-03-01,país,Italia,3,16
+2019-03-01,país,Costa Rica,2,18
+2019-03-01,país,Canadá,2,18
+2019-03-01,país,Panamá,2,18
+2019-03-01,país,Portugal,1,21
+2019-03-01,país,Emiratos Árabes Unidos,1,21
+2019-03-01,país,Paraguay,1,21
+2019-03-01,país,Países Bajos,1,21
+2019-03-01,país,Alemania,1,21
+2019-03-01,país,Egipto,1,21
+2019-03-01,país,Suiza,1,21
+2019-03-01,país,Israel,1,21
+2019-03-01,país,Puerto Rico,1,21
+2019-03-01,país,Irlanda,1,21
+2019-03-01,país,Nueva Zelanda,1,21
+2019-03-01,país,Jamaica,1,21
+2019-03-01,país,Hong Kong,1,21
+2019-03-01,país,Islandia,1,21
+2019-03-01,país,Guatemala,1,21
+2019-03-01,país,Indonesia,1,21
+2019-03-01,país,El Salvador,1,21
+2019-03-01,país,Turquía,1,21
+2019-03-01,país,Nicaragua,1,21
+2019-03-01,país,Tailandia,1,21
+2019-03-01,país,Dinamarca,1,21
+2019-03-01,país,Maldivas,1,21
+2019-03-01,país,Finlandia,1,21
+2019-03-01,país,Haití,1,21
+2019-03-01,país,Hungría,1,21
+2019-03-01,país,Suecia,1,21
+2019-03-01,país,Polinesia Francesa,1,21
+2019-03-01,país,Japón,1,21
+2019-03-01,país,Honduras,1,21
+2019-03-01,país,Austria,1,21
+2019-03-01,ciudad,Buenos Aires,100,1
+2019-03-01,ciudad,Miami,33,2
+2019-03-01,ciudad,Caracas,30,3
+2019-03-01,ciudad,Mendoza,28,4
+2019-03-01,ciudad,Lima,26,5
+2019-03-01,ciudad,Madrid,23,6
+2019-03-01,ciudad,Río de Janeiro,21,7
+2019-03-01,ciudad,Punta Cana,19,8
+2019-03-01,ciudad,Cancún,16,9
+2019-03-01,ciudad,Nueva York,16,9
+2019-03-01,ciudad,San Carlos de Bariloche,13,11
+2019-03-01,ciudad,Barcelona,13,11
+2019-03-01,ciudad,Los Ángeles,11,13
+2019-03-01,ciudad,Cartagena,9,14
+2019-03-01,ciudad,Santa Cruz de la Sierra,8,15
+2019-03-01,ciudad,São Paulo,7,16
+2019-03-01,ciudad,París,6,17
+2019-03-01,ciudad,Orlando,6,17
+2019-03-01,ciudad,San Andrés,6,17
+2019-03-01,ciudad,Montevideo,6,17
+2019-03-01,ciudad,Sídney,6,17
+2019-03-01,ciudad,Cusco,6,17
+2019-03-01,ciudad,La Habana,5,23
+2019-03-01,ciudad,Quito,5,23
+2019-03-01,ciudad,Londres,4,25
+2019-03-01,ciudad,Cúcuta,4,25
+2019-03-01,ciudad,Cali,4,25
+2019-03-01,ciudad,Tacna,4,25
+2019-03-01,ciudad,San José,4,25
+2019-03-01,ciudad,Roma,3,30
+2019-03-01,ciudad,Ciudad de México,3,30
+2019-03-01,ciudad,Panamá,3,30
+2019-03-01,ciudad,Córdoba,3,30
+2019-03-01,ciudad,Área metropolitana de Las Vegas,2,34
+2019-03-01,ciudad,Playa del Carmen,2,34
+2019-03-01,ciudad,Lisboa,2,34
+2019-03-01,ciudad,Toronto,2,34
+2019-03-01,ciudad,Dubái,2,34
+2019-03-01,ciudad,Búzios,2,34
+2019-03-01,ciudad,Asunción,2,34
+2019-03-01,ciudad,Talara,1,41
+2019-03-01,ciudad,Ámsterdam,1,41
+2019-03-01,ciudad,Honolulu,1,41
+2019-03-01,ciudad,La Paz,1,41
+2019-03-01,ciudad,Trujillo,1,41
+2019-03-01,ciudad,Maracaibo,1,41
+2019-03-01,ciudad,Santo Domingo,1,41
+2019-03-01,ciudad,Guayaquil,1,41
+2019-03-01,ciudad,Florianópolis,1,41
+2019-03-01,ciudad,San Martin de los Andes,1,41
+2023-03-01,área,América meridional,100,1
+2023-03-01,área,América septentrional,28,2
+2023-03-01,área,Europa meridional,14,3
+2023-03-01,área,América central,11,4
+2023-03-01,área,Caribe,10,5
+2023-03-01,área,Europa occidental,4,6
+2023-03-01,área,Europa septentrional,2,7
+2023-03-01,área,Australia y Nueva Zelanda,2,7
+2023-03-01,área,Asia occidental,1,9
+2023-03-01,área,Asia oriental,1,9
+2023-03-01,área,Sudeste Asiático,1,9
+2023-03-01,área,África septentrional,1,9
+2023-03-01,área,Asia meridional,1,9
+2023-03-01,área,Europa oriental,1,9
+2023-03-01,área,Polinesia,1,9
+2023-03-01,área,África meridional,1,9
+2023-03-01,área,Asia central,1,9
+2023-03-01,área,África occidental,1,9
+2023-03-01,área,Melanesia,1,9
+2023-03-01,área,África oriental,1,9
+2023-03-01,país,Argentina,100,1
+2023-03-01,país,Estados Unidos,58,2
+2023-03-01,país,Brasil,26,3
+2023-03-01,país,España,26,3
+2023-03-01,país,Perú,25,5
+2023-03-01,país,Colombia,24,6
+2023-03-01,país,Venezuela,18,7
+2023-03-01,país,México,17,8
+2023-03-01,país,República Dominicana,16,9
+2023-03-01,país,Bolivia,7,10
+2023-03-01,país,Francia,5,11
+2023-03-01,país,Uruguay,5,11
+2023-03-01,país,Australia,4,13
+2023-03-01,país,Ecuador,4,13
+2023-03-01,país,Cuba,3,15
+2023-03-01,país,Italia,3,15
+2023-03-01,país,Reino Unido,3,15
+2023-03-01,país,Costa Rica,2,18
+2023-03-01,país,Canadá,2,18
+2023-03-01,país,Panamá,2,18
+2023-03-01,país,Paraguay,1,21
+2023-03-01,país,Emiratos Árabes Unidos,1,21
+2023-03-01,país,Portugal,1,21
+2023-03-01,país,Alemania,1,21
+2023-03-01,país,Países Bajos,1,21
+2023-03-01,país,Suiza,1,21
+2023-03-01,país,Puerto Rico,1,21
+2023-03-01,país,Nueva Zelanda,1,21
+2023-03-01,país,Irlanda,1,21
+2023-03-01,país,Egipto,1,21
+2023-03-01,país,Hong Kong,1,21
+2023-03-01,país,Jamaica,1,21
+2023-03-01,país,Islandia,1,21
+2023-03-01,país,El Salvador,1,21
+2023-03-01,país,Israel,1,21
+2023-03-01,país,Indonesia,1,21
+2023-03-01,país,Turquía,1,21
+2023-03-01,país,Guatemala,1,21
+2023-03-01,país,Maldivas,1,21
+2023-03-01,país,Tailandia,1,21
+2023-03-01,país,Nepal,1,21
+2023-03-01,país,Dinamarca,1,21
+2023-03-01,país,Finlandia,1,21
+2023-03-01,país,Suecia,1,21
+2023-03-01,país,Hungría,1,21
+2023-03-01,país,Belice,1,21
+2023-03-01,país,Haití,1,21
+2023-03-01,país,Japón,1,21
+2023-03-01,país,Polinesia Francesa,1,21
+2023-03-01,país,Aruba,1,21
+2023-03-01,ciudad,Buenos Aires,100,1
+2023-03-01,ciudad,Miami,38,2
+2023-03-01,ciudad,Mendoza,29,3
+2023-03-01,ciudad,Lima,27,4
+2023-03-01,ciudad,Caracas,27,4
+2023-03-01,ciudad,Punta Cana,26,6
+2023-03-01,ciudad,Río de Janeiro,26,6
+2023-03-01,ciudad,San Carlos de Bariloche,24,8
+2023-03-01,ciudad,Madrid,24,8
+2023-03-01,ciudad,Cancún,20,10
+2023-03-01,ciudad,Nueva York,19,11
+2023-03-01,ciudad,Cartagena,16,12
+2023-03-01,ciudad,Barcelona,14,13
+2023-03-01,ciudad,Los Ángeles,14,13
+2023-03-01,ciudad,Santa Cruz de la Sierra,10,15
+2023-03-01,ciudad,San Andrés,9,16
+2023-03-01,ciudad,São Paulo,8,17
+2023-03-01,ciudad,París,8,17
+2023-03-01,ciudad,Orlando,8,17
+2023-03-01,ciudad,Sídney,7,20
+2023-03-01,ciudad,Cúcuta,6,21
+2023-03-01,ciudad,Montevideo,6,21
+2023-03-01,ciudad,La Habana,5,23
+2023-03-01,ciudad,Quito,5,23
+2023-03-01,ciudad,Londres,5,23
+2023-03-01,ciudad,Tacna,5,23
+2023-03-01,ciudad,Cusco,4,27
+2023-03-01,ciudad,Cali,4,27
+2023-03-01,ciudad,San José,4,27
+2023-03-01,ciudad,Roma,3,30
+2023-03-01,ciudad,Ciudad de México,3,30
+2023-03-01,ciudad,Panamá,3,30
+2023-03-01,ciudad,Honolulu,3,30
+2023-03-01,ciudad,Córdoba,3,30
+2023-03-01,ciudad,Playa del Carmen,3,30
+2023-03-01,ciudad,Área metropolitana de Las Vegas,3,30
+2023-03-01,ciudad,Asunción,2,37
+2023-03-01,ciudad,San Martin de los Andes,2,37
+2023-03-01,ciudad,Búzios,2,37
+2023-03-01,ciudad,Toronto,2,37
+2023-03-01,ciudad,Lisboa,2,37
+2023-03-01,ciudad,Dubái,2,37
+2023-03-01,ciudad,Punta del Este,2,37
+2023-03-01,ciudad,Ámsterdam,2,37
+2023-03-01,ciudad,Guayaquil,2,37
+2023-03-01,ciudad,Trujillo,2,37
+2023-03-01,ciudad,La Paz,2,37
+2023-03-01,ciudad,Talara,2,37
+2023-03-01,ciudad,Maracaibo,1,49
+2023-03-01,ciudad,Zúrich,1,49
