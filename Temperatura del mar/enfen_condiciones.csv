@@ -1,49 +1,97 @@
-﻿Condición,Mes,Probabilidad
-Fría fuerte,Enero,0
-Fría moderada,Enero,0
-Fría débil,Enero,0
-Neutro,Enero,3
-Cálida débil,Enero,49
-Cálido moderado,Enero,45
-Cálido fuerte,Enero,3
-Cálido extraordinario,Enero,0
-Fría fuerte,Febrero,0
-Fría moderada,Febrero,0
-Fría débil,Febrero,0
-Neutro,Febrero,23
-Cálida débil,Febrero,51
-Cálido moderado,Febrero,25
-Cálido fuerte,Febrero,1
-Cálido extraordinario,Febrero,0
-Fría fuerte,Marzo,0
-Fría moderada,Marzo,0
-Fría débil,Marzo,5
-Neutro,Marzo,42
-Cálida débil,Marzo,34
-Cálido moderado,Marzo,17
-Cálido fuerte,Marzo,2
-Cálido extraordinario,Marzo,0
-Fría fuerte,Abril,0
-Fría moderada,Abril,1
-Fría débil,Abril,8
-Neutro,Abril,58
-Cálida débil,Abril,29
-Cálido moderado,Abril,4
-Cálido fuerte,Abril,0
-Cálido extraordinario,Abril,0
-Fría fuerte,Mayo,1
-Fría moderada,Mayo,9
-Fría débil,Mayo,21
-Neutro,Mayo,51
-Cálida débil,Mayo,17
-Cálido moderado,Mayo,1
-Cálido fuerte,Mayo,0
-Cálido extraordinario,Mayo,0
-Fría fuerte,Junio,4
-Fría moderada,Junio,10
-Fría débil,Junio,22
-Neutro,Junio,48
-Cálida débil,Junio,16
-Cálido moderado,Junio,0
-Cálido fuerte,Junio,0
-Cálido extraordinario,Junio,0
+﻿Fecha,Condición,Mes,Probabilidad
+2023-01-12,Fría fuerte,Enero,0
+2023-01-12,Fría moderada,Enero,0
+2023-01-12,Fría débil,Enero,0
+2023-01-12,Neutro,Enero,3
+2023-01-12,Cálida débil,Enero,49
+2023-01-12,Cálido moderado,Enero,45
+2023-01-12,Cálido fuerte,Enero,3
+2023-01-12,Cálido extraordinario,Enero,0
+2023-01-12,Fría fuerte,Febrero,0
+2023-01-12,Fría moderada,Febrero,0
+2023-01-12,Fría débil,Febrero,0
+2023-01-12,Neutro,Febrero,23
+2023-01-12,Cálida débil,Febrero,51
+2023-01-12,Cálido moderado,Febrero,25
+2023-01-12,Cálido fuerte,Febrero,1
+2023-01-12,Cálido extraordinario,Febrero,0
+2023-01-12,Fría fuerte,Marzo,0
+2023-01-12,Fría moderada,Marzo,0
+2023-01-12,Fría débil,Marzo,5
+2023-01-12,Neutro,Marzo,42
+2023-01-12,Cálida débil,Marzo,34
+2023-01-12,Cálido moderado,Marzo,17
+2023-01-12,Cálido fuerte,Marzo,2
+2023-01-12,Cálido extraordinario,Marzo,0
+2023-01-12,Fría fuerte,Abril,0
+2023-01-12,Fría moderada,Abril,1
+2023-01-12,Fría débil,Abril,8
+2023-01-12,Neutro,Abril,58
+2023-01-12,Cálida débil,Abril,29
+2023-01-12,Cálido moderado,Abril,4
+2023-01-12,Cálido fuerte,Abril,0
+2023-01-12,Cálido extraordinario,Abril,0
+2023-01-12,Fría fuerte,Mayo,1
+2023-01-12,Fría moderada,Mayo,9
+2023-01-12,Fría débil,Mayo,21
+2023-01-12,Neutro,Mayo,51
+2023-01-12,Cálida débil,Mayo,17
+2023-01-12,Cálido moderado,Mayo,1
+2023-01-12,Cálido fuerte,Mayo,0
+2023-01-12,Cálido extraordinario,Mayo,0
+2023-01-12,Fría fuerte,Junio,4
+2023-01-12,Fría moderada,Junio,10
+2023-01-12,Fría débil,Junio,22
+2023-01-12,Neutro,Junio,48
+2023-01-12,Cálida débil,Junio,16
+2023-01-12,Cálido moderado,Junio,0
+2023-01-12,Cálido fuerte,Junio,0
+2023-01-12,Cálido extraordinario,Junio,0
+2023-01-26,Fría fuerte,Febrero,0
+2023-01-26,Fría moderada,Febrero,0
+2023-01-26,Fría débil,Febrero,0
+2023-01-26,Neutro,Febrero,2
+2023-01-26,Cálida débil,Febrero,18
+2023-01-26,Cálido moderado,Febrero,55
+2023-01-26,Cálido fuerte,Febrero,25
+2023-01-26,Cálido extraordinario,Febrero,0
+2023-01-26,Fría fuerte,Marzo,0
+2023-01-26,Fría moderada,Marzo,0
+2023-01-26,Fría débil,Marzo,1
+2023-01-26,Neutro,Marzo,20
+2023-01-26,Cálida débil,Marzo,46
+2023-01-26,Cálido moderado,Marzo,31
+2023-01-26,Cálido fuerte,Marzo,2
+2023-01-26,Cálido extraordinario,Marzo,0
+2023-01-26,Fría fuerte,Abril,0
+2023-01-26,Fría moderada,Abril,0
+2023-01-26,Fría débil,Abril,9
+2023-01-26,Neutro,Abril,40
+2023-01-26,Cálida débil,Abril,39
+2023-01-26,Cálido moderado,Abril,12
+2023-01-26,Cálido fuerte,Abril,0
+2023-01-26,Cálido extraordinario,Abril,0
+2023-01-26,Fría fuerte,Mayo,0
+2023-01-26,Fría moderada,Mayo,3
+2023-01-26,Fría débil,Mayo,21
+2023-01-26,Neutro,Mayo,52
+2023-01-26,Cálida débil,Mayo,22
+2023-01-26,Cálido moderado,Mayo,2
+2023-01-26,Cálido fuerte,Mayo,0
+2023-01-26,Cálido extraordinario,Mayo,0
+2023-01-26,Fría fuerte,Junio,1
+2023-01-26,Fría moderada,Junio,7
+2023-01-26,Fría débil,Junio,34
+2023-01-26,Neutro,Junio,46
+2023-01-26,Cálida débil,Junio,11
+2023-01-26,Cálido moderado,Junio,1
+2023-01-26,Cálido fuerte,Junio,0
+2023-01-26,Cálido extraordinario,Junio,0
+2023-01-26,Fría fuerte,Julio,3
+2023-01-26,Fría moderada,Julio,17
+2023-01-26,Fría débil,Julio,38
+2023-01-26,Neutro,Julio,35
+2023-01-26,Cálida débil,Julio,7
+2023-01-26,Cálido moderado,Julio,0
+2023-01-26,Cálido fuerte,Julio,0
+2023-01-26,Cálido extraordinario,Julio,0
