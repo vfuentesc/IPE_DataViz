@@ -241,3 +241,125 @@
 2023-03-01,ciudad,Talara,2,37
 2023-03-01,ciudad,Maracaibo,1,49
 2023-03-01,ciudad,Zúrich,1,49
+2024-01-10,área,América meridional,100,1
+2024-01-10,área,América septentrional,24,2
+2024-01-10,área,Europa meridional,12,3
+2024-01-10,área,América central,10,4
+2024-01-10,área,Caribe,9,5
+2024-01-10,área,Europa occidental,3,6
+2024-01-10,área,Australia y Nueva Zelanda,2,7
+2024-01-10,área,Europa septentrional,2,7
+2024-01-10,área,Asia occidental,1,9
+2024-01-10,área,Sudeste Asiático,1,9
+2024-01-10,área,África septentrional,1,9
+2024-01-10,área,Asia oriental,1,9
+2024-01-10,área,Asia meridional,1,9
+2024-01-10,área,Polinesia,1,9
+2024-01-10,área,Europa oriental,1,9
+2024-01-10,área,África meridional,1,9
+2024-01-10,área,África oriental,1,9
+2024-01-10,área,Melanesia,1,9
+2024-01-10,área,Micronesia,1,9
+2024-01-10,área,África central,1,9
+2024-01-10,área,África occidental,1,9
+2024-01-10,área,Asia central,1,9
+2024-01-10,país,Argentina,100,1
+2024-01-10,país,Estados Unidos,55,2
+2024-01-10,país,Perú,35,3
+2024-01-10,país,Brasil,31,4
+2024-01-10,país,Venezuela,26,5
+2024-01-10,país,España,25,6
+2024-01-10,país,Colombia,21,7
+2024-01-10,país,México,16,8
+2024-01-10,país,República Dominicana,14,9
+2024-01-10,país,Bolivia,8,10
+2024-01-10,país,Australia,6,11
+2024-01-10,país,Uruguay,5,12
+2024-01-10,país,Ecuador,5,12
+2024-01-10,país,Francia,4,14
+2024-01-10,país,Cuba,4,14
+2024-01-10,país,Reino Unido,3,16
+2024-01-10,país,Costa Rica,3,16
+2024-01-10,país,Italia,3,16
+2024-01-10,país,Panamá,2,19
+2024-01-10,país,Canadá,2,19
+2024-01-10,país,Emiratos Árabes Unidos,1,21
+2024-01-10,país,Portugal,1,21
+2024-01-10,país,Paraguay,1,21
+2024-01-10,país,Países Bajos,1,21
+2024-01-10,país,Alemania,1,21
+2024-01-10,país,Puerto Rico,1,21
+2024-01-10,país,Suiza,1,21
+2024-01-10,país,Egipto,1,21
+2024-01-10,país,Israel,1,21
+2024-01-10,país,Irlanda,1,21
+2024-01-10,país,Nueva Zelanda,1,21
+2024-01-10,país,Nicaragua,1,21
+2024-01-10,país,Jamaica,1,21
+2024-01-10,país,Guatemala,1,21
+2024-01-10,país,El Salvador,1,21
+2024-01-10,país,Islandia,1,21
+2024-01-10,país,Hong Kong,1,21
+2024-01-10,país,Tailandia,1,21
+2024-01-10,país,Indonesia,1,21
+2024-01-10,país,Maldivas,1,21
+2024-01-10,país,Polinesia Francesa,1,21
+2024-01-10,país,Dinamarca,1,21
+2024-01-10,país,Turquía,1,21
+2024-01-10,país,Finlandia,1,21
+2024-01-10,país,Haití,1,21
+2024-01-10,país,Honduras,1,21
+2024-01-10,país,Sudáfrica,1,21
+2024-01-10,país,Austria,1,21
+2024-01-10,país,Japón,1,21
+2024-01-10,país,Hungría,1,21
+2024-01-10,ciudad,Buenos Aires,100,1
+2024-01-10,ciudad,Caracas,37,2
+2024-01-10,ciudad,Miami,37,2
+2024-01-10,ciudad,Lima,33,4
+2024-01-10,ciudad,Río de Janeiro,27,5
+2024-01-10,ciudad,Mendoza,25,6
+2024-01-10,ciudad,Madrid,23,7
+2024-01-10,ciudad,Cancún,18,8
+2024-01-10,ciudad,Punta Cana,18,8
+2024-01-10,ciudad,Nueva York,16,10
+2024-01-10,ciudad,San Carlos de Bariloche,15,11
+2024-01-10,ciudad,Barcelona,13,12
+2024-01-10,ciudad,Cartagena,12,13
+2024-01-10,ciudad,Los Ángeles,11,14
+2024-01-10,ciudad,Santa Cruz de la Sierra,10,15
+2024-01-10,ciudad,São Paulo,8,16
+2024-01-10,ciudad,Cusco,7,17
+2024-01-10,ciudad,Sídney,7,17
+2024-01-10,ciudad,Orlando,7,17
+2024-01-10,ciudad,San Andrés,7,17
+2024-01-10,ciudad,Montevideo,6,21
+2024-01-10,ciudad,París,6,21
+2024-01-10,ciudad,Quito,6,21
+2024-01-10,ciudad,La Habana,6,21
+2024-01-10,ciudad,Tacna,5,25
+2024-01-10,ciudad,Cali,5,25
+2024-01-10,ciudad,Londres,4,27
+2024-01-10,ciudad,San José,4,27
+2024-01-10,ciudad,Santo Domingo,4,27
+2024-01-10,ciudad,Panamá,4,27
+2024-01-10,ciudad,Cúcuta,4,27
+2024-01-10,ciudad,Talara,3,32
+2024-01-10,ciudad,Florianópolis,3,32
+2024-01-10,ciudad,Ciudad de México,3,32
+2024-01-10,ciudad,Córdoba,3,32
+2024-01-10,ciudad,Roma,3,32
+2024-01-10,ciudad,Búzios,2,37
+2024-01-10,ciudad,Las Vegas,2,37
+2024-01-10,ciudad,Dubái,2,37
+2024-01-10,ciudad,Toronto,2,37
+2024-01-10,ciudad,Lisboa,2,37
+2024-01-10,ciudad,Trujillo,2,37
+2024-01-10,ciudad,Punta del Este,2,37
+2024-01-10,ciudad,Playa del Carmen,2,37
+2024-01-10,ciudad,Maracaibo,2,37
+2024-01-10,ciudad,Asunción,2,37
+2024-01-10,ciudad,Ushuaia,2,37
+2024-01-10,ciudad,San Martin de los Andes,2,37
+2024-01-10,ciudad,Ámsterdam,2,37
+2024-01-10,ciudad,Melbourne,1,50
